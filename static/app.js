@@ -276,6 +276,16 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
+    function checkSession() {
+        const currentUserStr = localStorage.getItem('currentUser');
+        if (currentUserStr) {
+            transitionToDashboard();
+        } else {
+            const overlay = document.getElementById('gateway-overlay');
+            if (overlay) overlay.style.display = 'flex';
+        }
+    }
+
     // Run initial session checks
     checkSession();
 });

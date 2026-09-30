@@ -57,18 +57,23 @@ body {
 }
 
 /* App Container & DistrictCommandCenter Layout Repair */
-.app-container,
 .master-body-wrapper,
 .DistrictCommandCenter {
     display: flex;
     flex-direction: column;
     width: 100%;
     min-height: 100vh;
-    max-width: 1440px;
     margin: 0 auto;
-    padding: 1.5rem;
+    padding: 1rem 2rem;
     box-sizing: border-box;
     transform: none !important;
+}
+
+.app-container {
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+    box-sizing: border-box;
 }
 
 /* 1. SIDEBAR STYLING */
