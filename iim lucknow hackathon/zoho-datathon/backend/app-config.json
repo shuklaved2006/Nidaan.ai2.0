@@ -1,0 +1,6 @@
+{
+  "command": "npm start",
+  "stack": "nodejs20",
+  "memory": 256,
+  "env_variables": {}
+}

@@ -1,0 +1,22 @@
+{
+  "app_title": "निदान.AI बहु-राष्ट्रीय नैदानिक स्टैक",
+  "dashboard": "डैशबोर्ड",
+  "doctor_terminal": "चिकित्सक टर्मिनल",
+  "reception_terminal": "रिसेप्शन एवं मरीज पंजीकरण",
+  "pharmacy_terminal": "फार्मेसी एवं इन्वेंटरी",
+  "nurse_terminal": "नर्सिंग एवं बेड प्रबंधन",
+  "verify_abha": "ABDM / आभा आईडी सत्यापित करें",
+  "suggested_prescriptions": "सुझाई गई दवाएं (डब्ल्यूएचओ ईएमएल / सीडीएसएस)",
+  "sign_and_commit": "हस्ताक्षर करें एवं प्रिस्क्रिप्शन जारी करें",
+  "dosage_warning": "क्रिटिकल खुराक सीमा चेतावनी",
+  "override_reason_required": "खुराक ओवरराइड के लिए नैदानिक कारण प्रदान करें",
+  "haversine_geofence_verified": "हैवरसाइन बायो-फेंस सत्यापित",
+  "offline_sync_active": "ऑफ़लाइन सिंक सक्रिय",
+  "patient_name": "रोगी का नाम",
+  "diagnosis": "रोग निदान",
+  "medication": "दवा",
+  "dosage": "खुराक",
+  "units": "इकाई",
+  "frequency": "आवृत्ति",
+  "duration_days": "अवधि (दिन)"
+}

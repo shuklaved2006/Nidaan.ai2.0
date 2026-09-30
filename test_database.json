@@ -1,0 +1,27 @@
+{
+    "facilities": [],
+    "users": [],
+    "staff": [],
+    "admissions": [],
+    "inventory": [],
+    "attendance_logs": [],
+    "prescriptions": [
+        {
+            "prescription_id": "RX-1790748819",
+            "patient_id": "P-101",
+            "doctor_signature": "DOC-SIG-999",
+            "medications": [
+                {
+                    "drug_name": "Amlodipine",
+                    "dosage": 5,
+                    "unit": "mg",
+                    "times_per_day": 1,
+                    "duration_days": 30
+                }
+            ],
+            "override_reason": null,
+            "timestamp": "2026-09-30T11:43:39.042106Z",
+            "epidemiological_flagged": true
+        }
+    ]
+}

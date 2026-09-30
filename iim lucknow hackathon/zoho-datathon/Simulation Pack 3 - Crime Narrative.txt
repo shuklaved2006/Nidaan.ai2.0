@@ -1,0 +1,60 @@
+Simulation Pack 3 - Crime Narratives & Timeline
+Purpose: Define the interconnected crime stories that generate FIRs between 1 Jan 2022 and 26 Jul 2026. Every FIR, arrest, chargesheet and social signal will belong to one of these narratives.
+Primary Narrative 1 - Operation Night Glass
+Residential burglary gang operating across Bengaluru and Mysuru.
+Duration: 2022-2026
+Features: Repeat offenders, common modus operandi (glass cutting), jewellery theft, recurring victims, hotspot emergence.
+Primary Narrative 2 - Chain Riders
+Motorcycle chain-snatching group.
+Duration: 2023-2026
+Features: Shared motorcycle network, repeat offenders, public social-media complaints, movement across police stations.
+Primary Narrative 3 - Cipher Network
+Cyber fraud ring using phishing and UPI scams.
+Duration: 2024-2026
+Features: Multiple complainants, shared bank accounts, common phone numbers, cross-district victims.
+Primary Narrative 4 - Falcon Auto Theft
+Organised vehicle theft targeting two-wheelers.
+Features: Chop-shop links, repeated disposal patterns, interstate movement simulation.
+Primary Narrative 5 - Silent Streets
+Street-light failures followed by theft increase.
+Features: Citizen complaints, local news, environmental correlation.
+Primary Narrative 6 - Festival Shield
+Festival crowd management and opportunistic theft.
+Features: Public safety monitoring, crowd intelligence, theft clusters during major events.
+Primary Narrative 7 - Shadow Extortion
+Business extortion affecting shops and warehouses.
+Features: Business victims, repeat intimidation, organised network.
+Primary Narrative 8 - Missing Threads
+Missing persons with links to trafficking investigation.
+Features: Multi-agency coordination, timeline reconstruction.
+Secondary Narratives
+12 supporting stories covering:
+• Domestic violence
+• Illegal racing
+• Assault
+• Drug possession
+• Public vandalism
+• ATM theft
+• Construction site theft
+• School-area incidents
+• Commercial burglary
+• Fraud against elderly
+• Market pickpocketing
+• Public disorder
+Timeline Rules
+Every narrative progresses through:
+Incident → FIR → Investigation → Arrest (where applicable) → Chargesheet → Court.
+Not every case reaches every stage by July 2026; active investigations remain open.
+Social Intelligence Mapping
+Only selected narratives receive supporting X, Instagram, news or community posts.
+Social content must precede or coincide with incidents—not reference future outcomes.
+Expected Platform Discoveries
+These are validation goals, not stored data.
+The application should discover:
+• Hotspots
+• Repeat offenders
+• Criminal associations
+• Similar modus operandi
+• Emerging trends
+• Explainable risk indicators
+• Patrol recommendations

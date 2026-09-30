@@ -1,0 +1,16 @@
+{
+  "name": "zoho-datathon-root",
+  "version": "1.0.0",
+  "description": "Root workspace management for AI-Driven Crime Analytics Platform",
+  "main": "index.js",
+  "scripts": {
+    "install:all": "npm install && npm install --prefix backend && npm install --prefix client",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:client\"",
+    "dev:backend": "npm run dev --prefix backend",
+    "dev:client": "npm run dev --prefix client",
+    "start": "npm start --prefix backend"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

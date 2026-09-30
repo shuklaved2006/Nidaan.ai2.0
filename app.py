@@ -10,6 +10,21 @@ import os
 static_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static')
 app = Flask(__name__, static_folder=static_dir, static_url_path='')
 
+# Register Additive Multi-National Blueprints
+from abdm_fhir_plugin import abdm_fhir_bp
+from cdss_engine import cdss_bp
+from sync_manager import sync_bp
+
+app.register_blueprint(abdm_fhir_bp)
+app.register_blueprint(cdss_bp)
+app.register_blueprint(sync_bp)
+
+@app.route('/i18n/<path:filename>')
+def serve_i18n(filename):
+    from flask import send_from_directory
+    return send_from_directory(os.path.join(static_dir, 'i18n'), filename)
+
+
 @app.errorhandler(HTTPException)
 def handle_exception(e):
     """Return JSON instead of HTML for HTTP errors."""

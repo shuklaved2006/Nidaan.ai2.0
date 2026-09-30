@@ -1,0 +1,90 @@
+Simulation Pack 2 - Digital Twin of Karnataka Crime Ecosystem
+Purpose: Define the living synthetic world that will generate all FIRs, investigations, relationships and intelligence outputs. This document defines recurring entities only. AI outputs are NOT pre-generated.
+Simulation Philosophy
+The simulation models a realistic policing ecosystem between 1 Jan 2022 and 26 Jul 2026.
+Every major entity should recur across multiple events. Crime narratives generate FIRs; FIRs are not created independently.
+Criminal Ecosystem
+180 criminals
+• Tier A: 8 High Value Targets (organised crime, graph hubs)
+• Tier B: 25 Repeat Offenders
+• Tier C: 147 Opportunistic Offenders
+
+Each criminal has:
+Alias, Home District, Modus Operandi, Active Years, Known Associates, Arrest History, Bail History and Speciality.
+Victims
+320 victims covering residential, commercial, elderly, women, students and businesses.
+15–20 recurring victims are intentionally reused across related narratives.
+Complainants
+250 complainants including neighbours, relatives, security guards, employers, shop managers and witnesses.
+Police Force
+80 officers with:
+Badge Number
+Rank
+Police Station
+Years of Service
+Investigation Speciality
+Some officers investigate multiple connected narratives.
+Businesses
+Approx. 80 businesses including jewellery shops, banks, ATMs, warehouses, malls, restaurants, medical stores, petrol pumps and construction sites.
+Public Infrastructure
+Metro stations, railway stations, bus terminals, hospitals, schools, colleges, markets, parks and government buildings.
+Vehicles & Digital Assets
+250 vehicles
+Mobile numbers linked to people
+Bank accounts for cyber narratives
+Email IDs
+UPI IDs
+Social media accounts
+Social Intelligence Population
+~90 recurring citizens generating realistic X (Twitter), Instagram and community posts.
+10 regional news organisations provide news articles for OSINT simulation.
+Crime Gangs
+Create 8 recurring gangs.
+Examples:
+• Glass Breakers (Residential Burglary)
+• Chain Riders (Snatching)
+• Cipher Network (Cyber Fraud)
+• Falcon Crew (Vehicle Theft)
+Members recur across multiple FIRs.
+Recurring Locations
+Named places instead of anonymous coordinates:
+MG Road
+Commercial Street
+Whitefield
+KR Market
+Majestic Bus Stand
+Mysuru Palace
+Mangaluru Port
+Hubballi Junction
+Electronic City
+These are reused across stories.
+Seasonal Timeline
+Crime patterns evolve with:
+Republic Day
+IPL
+Ganesh Festival
+Dasara
+Diwali
+Christmas
+New Year
+Monsoon and heavy rain events.
+Relationship Rules
+Every important entity must connect with at least three others.
+
+Example:
+Criminal → Gang → Vehicle → Phone → FIR → Victim → Officer → Court → District
+
+No isolated records should exist.
+Persons of Interest (POIs)
+Introduce POIs who are NOT accused but repeatedly appear through analytics.
+Examples:
+Repeated CCTV appearances
+Multiple social media mentions
+Association with known offenders
+Vehicle near crime scenes
+Frequent contact with suspects
+The system may elevate or eliminate them during investigation.
+Implementation Rule
+This pack defines recurring entities only.
+FIRs, arrests, charge sheets and social media events will be generated later from these entities.
+AI Alerts, Hotspots, Risk Scores and Patrol Recommendations are computed by the application and must never be preloaded into th

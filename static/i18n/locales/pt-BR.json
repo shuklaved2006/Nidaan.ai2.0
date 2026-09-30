@@ -1,0 +1,22 @@
+{
+  "app_title": "Plataforma Clínica Multinacional Nidaan.AI",
+  "dashboard": "Painel de Controle",
+  "doctor_terminal": "Terminal Médico",
+  "reception_terminal": "Recepção e Admissão de Pacientes",
+  "pharmacy_terminal": "Farmácia e Estoque",
+  "nurse_terminal": "Enfermagem e Gestão de Leitos",
+  "verify_abha": "Verificar ID de Saúde Nacional (SUS / ABHA)",
+  "suggested_prescriptions": "Prescrições Sugeridas (WHO EML / CDSS)",
+  "sign_and_commit": "Assinar e Emitir Prescrição",
+  "dosage_warning": "ALERTA CRÍTICO DE EXCESSO DE DOSAGEM",
+  "override_reason_required": "Forneça a justificativa clínica para substituição da dosagem",
+  "haversine_geofence_verified": "Cerca Biométrica Haversine Verificada",
+  "offline_sync_active": "Sincronização Offline Ativa",
+  "patient_name": "Nome do Paciente",
+  "diagnosis": "Diagnóstico",
+  "medication": "Medicamento",
+  "dosage": "Dosagem",
+  "units": "Unidades",
+  "frequency": "Frequência",
+  "duration_days": "Duração (Dias)"
+}

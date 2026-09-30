@@ -1,0 +1,22 @@
+{
+  "app_title": "Nidaan.AI Multi-National Clinical Stack",
+  "dashboard": "Dashboard",
+  "doctor_terminal": "Doctor Terminal",
+  "reception_terminal": "Reception & Patient Intake",
+  "pharmacy_terminal": "Pharmacy & Inventory",
+  "nurse_terminal": "Nurse & Bed Management",
+  "verify_abha": "Verify ABDM / ABHA ID",
+  "suggested_prescriptions": "Suggested Prescriptions (WHO EML / CDSS)",
+  "sign_and_commit": "Sign & Issue Prescription",
+  "dosage_warning": "CRITICAL DOSAGE OVERFLOW WARNING",
+  "override_reason_required": "Provide clinical reasoning for dosage override",
+  "haversine_geofence_verified": "Haversine Bio-Fence Verified",
+  "offline_sync_active": "Offline Sync Active",
+  "patient_name": "Patient Name",
+  "diagnosis": "Diagnosis",
+  "medication": "Medication",
+  "dosage": "Dosage",
+  "units": "Units",
+  "frequency": "Frequency",
+  "duration_days": "Duration (Days)"
+}

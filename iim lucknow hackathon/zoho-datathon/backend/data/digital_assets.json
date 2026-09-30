@@ -1,0 +1,3252 @@
+[
+  {
+    "asset_id": "2bd02fbe-0edc-449e-ab21-5fbf0f84f413",
+    "asset_type": "cctv_footage",
+    "owner_id": "43",
+    "owner_type": "Accused",
+    "associated_case_id": 94,
+    "metadata": {
+      "phone_number": "(534) 630-3080",
+      "imei": "633434290720210",
+      "vehicle_reg": "KA83HR6983",
+      "timestamp": "2026-07-26T13:28:13.540Z"
+    }
+  },
+  {
+    "asset_id": "0ec52efc-b66c-438d-b317-d65833b483c1",
+    "asset_type": "phone_call_record",
+    "owner_id": "35",
+    "owner_type": "Accused",
+    "associated_case_id": 212,
+    "metadata": {
+      "phone_number": "1-691-309-5318 x21067",
+      "imei": "599339162034273",
+      "vehicle_reg": "KA38SJ2137",
+      "timestamp": "2026-07-26T13:28:13.575Z"
+    }
+  },
+  {
+    "asset_id": "503c3094-4ed0-4ccf-9433-8f65a7442487",
+    "asset_type": "cctv_footage",
+    "owner_id": "173",
+    "owner_type": "Accused",
+    "associated_case_id": 39,
+    "metadata": {
+      "phone_number": "1-232-536-4214",
+      "imei": "652544152453960",
+      "vehicle_reg": "KA37HL9251",
+      "timestamp": "2026-07-26T13:28:13.613Z"
+    }
+  },
+  {
+    "asset_id": "3aaa4b73-a6e8-426c-b3ae-2845bf2fc904",
+    "asset_type": "cctv_footage",
+    "owner_id": "139",
+    "owner_type": "Accused",
+    "associated_case_id": 97,
+    "metadata": {
+      "phone_number": "327-674-5649 x547",
+      "imei": "476069083696821",
+      "vehicle_reg": "KA49NC5392",
+      "timestamp": "2026-07-26T13:28:13.646Z"
+    }
+  },
+  {
+    "asset_id": "6224b00a-e73e-4be5-8dc0-3bbb19174079",
+    "asset_type": "bank_statement",
+    "owner_id": "118",
+    "owner_type": "Accused",
+    "associated_case_id": 62,
+    "metadata": {
+      "phone_number": "(336) 850-4721 x8937",
+      "imei": "495172961856209",
+      "vehicle_reg": "KA11FS4132",
+      "timestamp": "2026-07-26T13:28:13.681Z"
+    }
+  },
+  {
+    "asset_id": "f4d0aa11-dc10-4a49-a4a3-fd46df8112db",
+    "asset_type": "cctv_footage",
+    "owner_id": "135",
+    "owner_type": "Accused",
+    "associated_case_id": 197,
+    "metadata": {
+      "phone_number": "1-791-961-4144 x79721",
+      "imei": "986058745308297",
+      "vehicle_reg": "KA99AC9133",
+      "timestamp": "2026-07-26T13:28:13.709Z"
+    }
+  },
+  {
+    "asset_id": "41da25fe-88ed-4c66-b3e1-48c202649501",
+    "asset_type": "phone_call_record",
+    "owner_id": "114",
+    "owner_type": "Accused",
+    "associated_case_id": 23,
+    "metadata": {
+      "phone_number": "(879) 236-3295",
+      "imei": "850770707221880",
+      "vehicle_reg": "KA56HW8529",
+      "timestamp": "2026-07-26T13:28:13.748Z"
+    }
+  },
+  {
+    "asset_id": "cc0da113-9715-409a-9ba8-19c36bce8b4a",
+    "asset_type": "phone_call_record",
+    "owner_id": "19",
+    "owner_type": "Accused",
+    "associated_case_id": 137,
+    "metadata": {
+      "phone_number": "1-484-940-2957",
+      "imei": "650737266567616",
+      "vehicle_reg": "KA09NN4891",
+      "timestamp": "2026-07-26T13:28:13.778Z"
+    }
+  },
+  {
+    "asset_id": "1f04099e-493f-4271-b737-e38d08990f67",
+    "asset_type": "bank_statement",
+    "owner_id": "11",
+    "owner_type": "Accused",
+    "associated_case_id": 50,
+    "metadata": {
+      "phone_number": "521-570-7074 x13621",
+      "imei": "092494169601452",
+      "vehicle_reg": "KA81CK9866",
+      "timestamp": "2026-07-26T13:28:13.810Z"
+    }
+  },
+  {
+    "asset_id": "ea58d109-5c11-49da-9c64-116722a9fe9e",
+    "asset_type": "cctv_footage",
+    "owner_id": "11",
+    "owner_type": "Accused",
+    "associated_case_id": 247,
+    "metadata": {
+      "phone_number": "503.206.2659 x3351",
+      "imei": "641551611180087",
+      "vehicle_reg": "KA74RS3185",
+      "timestamp": "2026-07-26T13:28:13.849Z"
+    }
+  },
+  {
+    "asset_id": "e6120260-c7ed-4754-8d50-2fe098a02899",
+    "asset_type": "bank_statement",
+    "owner_id": "12",
+    "owner_type": "Accused",
+    "associated_case_id": 129,
+    "metadata": {
+      "phone_number": "1-565-439-8945 x917",
+      "imei": "564398262225879",
+      "vehicle_reg": "KA06UB8507",
+      "timestamp": "2026-07-26T13:28:13.888Z"
+    }
+  },
+  {
+    "asset_id": "f55183cf-9d15-49c8-90d7-5d40d1200928",
+    "asset_type": "cctv_footage",
+    "owner_id": "34",
+    "owner_type": "Accused",
+    "associated_case_id": 179,
+    "metadata": {
+      "phone_number": "(921) 620-9285 x72206",
+      "imei": "119307198791097",
+      "vehicle_reg": "KA09DK9053",
+      "timestamp": "2026-07-26T13:28:13.921Z"
+    }
+  },
+  {
+    "asset_id": "b5df35f2-af88-4da5-a0c8-3a4ff44d3133",
+    "asset_type": "cctv_footage",
+    "owner_id": "133",
+    "owner_type": "Accused",
+    "associated_case_id": 172,
+    "metadata": {
+      "phone_number": "1-663-474-2355 x090",
+      "imei": "456178754610570",
+      "vehicle_reg": "KA03IT8096",
+      "timestamp": "2026-07-26T13:28:13.954Z"
+    }
+  },
+  {
+    "asset_id": "2ff0ab1c-8ede-4285-8715-348234e179e9",
+    "asset_type": "phone_call_record",
+    "owner_id": "57",
+    "owner_type": "Accused",
+    "associated_case_id": 25,
+    "metadata": {
+      "phone_number": "1-828-805-6395 x964",
+      "imei": "674975203958079",
+      "vehicle_reg": "KA89WD8162",
+      "timestamp": "2026-07-26T13:28:13.987Z"
+    }
+  },
+  {
+    "asset_id": "83a59043-cf40-4811-8110-3b6497dc7e37",
+    "asset_type": "cctv_footage",
+    "owner_id": "147",
+    "owner_type": "Accused",
+    "associated_case_id": 238,
+    "metadata": {
+      "phone_number": "1-799-467-4182",
+      "imei": "421236144439705",
+      "vehicle_reg": "KA57YN5823",
+      "timestamp": "2026-07-26T13:28:14.019Z"
+    }
+  },
+  {
+    "asset_id": "133c8852-31fd-4376-81a0-998b56b52afd",
+    "asset_type": "bank_statement",
+    "owner_id": "16",
+    "owner_type": "Accused",
+    "associated_case_id": 122,
+    "metadata": {
+      "phone_number": "588-613-3115 x643",
+      "imei": "298561638421736",
+      "vehicle_reg": "KA55BX7451",
+      "timestamp": "2026-07-26T13:28:14.053Z"
+    }
+  },
+  {
+    "asset_id": "228499f6-0dfb-436a-9b55-a1a3fdac35ef",
+    "asset_type": "bank_statement",
+    "owner_id": "22",
+    "owner_type": "Accused",
+    "associated_case_id": 17,
+    "metadata": {
+      "phone_number": "404-481-0510 x30490",
+      "imei": "360692114165946",
+      "vehicle_reg": "KA98RH0306",
+      "timestamp": "2026-07-26T13:28:14.085Z"
+    }
+  },
+  {
+    "asset_id": "fe309e05-a69a-4926-81b1-6203a752dc96",
+    "asset_type": "cctv_footage",
+    "owner_id": "73",
+    "owner_type": "Accused",
+    "associated_case_id": 31,
+    "metadata": {
+      "phone_number": "(224) 926-7862 x67780",
+      "imei": "672376037215565",
+      "vehicle_reg": "KA19KK3286",
+      "timestamp": "2026-07-26T13:28:14.118Z"
+    }
+  },
+  {
+    "asset_id": "6a8474f6-5e4c-4758-9d6d-a9d6c0a340e4",
+    "asset_type": "bank_statement",
+    "owner_id": "48",
+    "owner_type": "Accused",
+    "associated_case_id": 91,
+    "metadata": {
+      "phone_number": "384.686.9511",
+      "imei": "443244207461875",
+      "vehicle_reg": "KA07BP7454",
+      "timestamp": "2026-07-26T13:28:14.155Z"
+    }
+  },
+  {
+    "asset_id": "7f88b6e8-31b2-4f80-b4cc-28f5b6d8119d",
+    "asset_type": "phone_call_record",
+    "owner_id": "20",
+    "owner_type": "Accused",
+    "associated_case_id": 94,
+    "metadata": {
+      "phone_number": "(582) 518-1656",
+      "imei": "190859548249997",
+      "vehicle_reg": "KA15EV1958",
+      "timestamp": "2026-07-26T13:28:14.186Z"
+    }
+  },
+  {
+    "asset_id": "846d95b3-74f1-48d4-87fd-2acbe20a8031",
+    "asset_type": "cctv_footage",
+    "owner_id": "68",
+    "owner_type": "Accused",
+    "associated_case_id": 242,
+    "metadata": {
+      "phone_number": "1-758-981-0605 x3543",
+      "imei": "463725862861340",
+      "vehicle_reg": "KA55VZ4977",
+      "timestamp": "2026-07-26T13:28:14.218Z"
+    }
+  },
+  {
+    "asset_id": "ac31ee11-9f9f-4ddd-b81e-0a7912b8ed41",
+    "asset_type": "bank_statement",
+    "owner_id": "20",
+    "owner_type": "Accused",
+    "associated_case_id": 198,
+    "metadata": {
+      "phone_number": "255-900-2422 x24808",
+      "imei": "586374447481733",
+      "vehicle_reg": "KA27IA5228",
+      "timestamp": "2026-07-26T13:28:14.249Z"
+    }
+  },
+  {
+    "asset_id": "085c1f26-5f3b-4b18-8bb6-c154fe17bef0",
+    "asset_type": "cctv_footage",
+    "owner_id": "22",
+    "owner_type": "Accused",
+    "associated_case_id": 70,
+    "metadata": {
+      "phone_number": "617.462.0519 x668",
+      "imei": "549210477767288",
+      "vehicle_reg": "KA19ZH1330",
+      "timestamp": "2026-07-26T13:28:14.283Z"
+    }
+  },
+  {
+    "asset_id": "5db9ab34-7639-457e-aa25-eb97fba64caf",
+    "asset_type": "phone_call_record",
+    "owner_id": "70",
+    "owner_type": "Accused",
+    "associated_case_id": 212,
+    "metadata": {
+      "phone_number": "(925) 736-6041 x26747",
+      "imei": "436865716431197",
+      "vehicle_reg": "KA26GQ4590",
+      "timestamp": "2026-07-26T13:28:14.319Z"
+    }
+  },
+  {
+    "asset_id": "196cb833-aa9c-43f1-a8c6-4a044c8e5515",
+    "asset_type": "bank_statement",
+    "owner_id": "164",
+    "owner_type": "Accused",
+    "associated_case_id": 188,
+    "metadata": {
+      "phone_number": "1-844-338-9784 x58879",
+      "imei": "714591798779090",
+      "vehicle_reg": "KA34XL6768",
+      "timestamp": "2026-07-26T13:28:14.355Z"
+    }
+  },
+  {
+    "asset_id": "2dfbd0db-f6c0-4c8a-b32e-d86b68763d67",
+    "asset_type": "phone_call_record",
+    "owner_id": "112",
+    "owner_type": "Accused",
+    "associated_case_id": 5,
+    "metadata": {
+      "phone_number": "(722) 353-0920 x959",
+      "imei": "228793108395828",
+      "vehicle_reg": "KA83WE8395",
+      "timestamp": "2026-07-26T13:28:14.393Z"
+    }
+  },
+  {
+    "asset_id": "64726699-8e9d-4276-a601-3ece7012afe6",
+    "asset_type": "bank_statement",
+    "owner_id": "71",
+    "owner_type": "Accused",
+    "associated_case_id": 22,
+    "metadata": {
+      "phone_number": "415-361-4981 x327",
+      "imei": "119311625625235",
+      "vehicle_reg": "KA59XT1182",
+      "timestamp": "2026-07-26T13:28:14.451Z"
+    }
+  },
+  {
+    "asset_id": "914a8460-cb89-4ec3-90eb-4036b93e5f29",
+    "asset_type": "cctv_footage",
+    "owner_id": "39",
+    "owner_type": "Accused",
+    "associated_case_id": 51,
+    "metadata": {
+      "phone_number": "612-881-8333",
+      "imei": "370124199113799",
+      "vehicle_reg": "KA49IA1225",
+      "timestamp": "2026-07-26T13:28:14.487Z"
+    }
+  },
+  {
+    "asset_id": "8caa6e7d-7eb4-4ed7-ae4e-e0dbce4915ce",
+    "asset_type": "bank_statement",
+    "owner_id": "56",
+    "owner_type": "Accused",
+    "associated_case_id": 232,
+    "metadata": {
+      "phone_number": "(708) 981-5528 x4750",
+      "imei": "196525425231160",
+      "vehicle_reg": "KA46XT9716",
+      "timestamp": "2026-07-26T13:28:14.543Z"
+    }
+  },
+  {
+    "asset_id": "d661318e-0239-4041-9bc2-05fbd7001314",
+    "asset_type": "cctv_footage",
+    "owner_id": "84",
+    "owner_type": "Accused",
+    "associated_case_id": 140,
+    "metadata": {
+      "phone_number": "1-741-206-4411",
+      "imei": "063477020286395",
+      "vehicle_reg": "KA23VK7385",
+      "timestamp": "2026-07-26T13:28:14.577Z"
+    }
+  },
+  {
+    "asset_id": "1a9b1d3e-0897-4cdc-ba8b-52bb405d0885",
+    "asset_type": "phone_call_record",
+    "owner_id": "93",
+    "owner_type": "Accused",
+    "associated_case_id": 22,
+    "metadata": {
+      "phone_number": "359-739-4490",
+      "imei": "214453204082225",
+      "vehicle_reg": "KA07KW5480",
+      "timestamp": "2026-07-26T13:28:14.620Z"
+    }
+  },
+  {
+    "asset_id": "bbe45ca3-e691-4388-b167-60ff6679bb19",
+    "asset_type": "cctv_footage",
+    "owner_id": "153",
+    "owner_type": "Accused",
+    "associated_case_id": 128,
+    "metadata": {
+      "phone_number": "(235) 303-3955 x822",
+      "imei": "658970929108729",
+      "vehicle_reg": "KA40MP9812",
+      "timestamp": "2026-07-26T13:28:14.655Z"
+    }
+  },
+  {
+    "asset_id": "e9ff5ef8-5171-42fc-83d2-2e682239cf8a",
+    "asset_type": "cctv_footage",
+    "owner_id": "65",
+    "owner_type": "Accused",
+    "associated_case_id": 74,
+    "metadata": {
+      "phone_number": "1-914-951-4781 x1011",
+      "imei": "647827762851434",
+      "vehicle_reg": "KA14RS9192",
+      "timestamp": "2026-07-26T13:28:14.693Z"
+    }
+  },
+  {
+    "asset_id": "6bcc3769-8573-44ea-8393-8a1f52c12421",
+    "asset_type": "bank_statement",
+    "owner_id": "166",
+    "owner_type": "Accused",
+    "associated_case_id": 156,
+    "metadata": {
+      "phone_number": "1-261-475-2765 x4051",
+      "imei": "680647322790668",
+      "vehicle_reg": "KA30AL0818",
+      "timestamp": "2026-07-26T13:28:14.727Z"
+    }
+  },
+  {
+    "asset_id": "0f39d9ad-ee96-4f78-a7ae-047afbb5763e",
+    "asset_type": "bank_statement",
+    "owner_id": "88",
+    "owner_type": "Accused",
+    "associated_case_id": 217,
+    "metadata": {
+      "phone_number": "219-469-3560 x178",
+      "imei": "343072397969997",
+      "vehicle_reg": "KA63VZ7150",
+      "timestamp": "2026-07-26T13:28:14.774Z"
+    }
+  },
+  {
+    "asset_id": "9a11757e-5396-4b2e-a661-c5dcb014da3a",
+    "asset_type": "bank_statement",
+    "owner_id": "93",
+    "owner_type": "Accused",
+    "associated_case_id": 175,
+    "metadata": {
+      "phone_number": "896-731-8468 x68113",
+      "imei": "598500995979150",
+      "vehicle_reg": "KA38MN6395",
+      "timestamp": "2026-07-26T13:28:14.808Z"
+    }
+  },
+  {
+    "asset_id": "37ef710d-d550-4257-a711-5f595781554f",
+    "asset_type": "phone_call_record",
+    "owner_id": "121",
+    "owner_type": "Accused",
+    "associated_case_id": 240,
+    "metadata": {
+      "phone_number": "511-499-5122 x66112",
+      "imei": "457021924217662",
+      "vehicle_reg": "KA67UC8271",
+      "timestamp": "2026-07-26T13:28:14.840Z"
+    }
+  },
+  {
+    "asset_id": "e06bfeba-3147-47c6-b52e-a0a3ff5833e7",
+    "asset_type": "cctv_footage",
+    "owner_id": "81",
+    "owner_type": "Accused",
+    "associated_case_id": 72,
+    "metadata": {
+      "phone_number": "(462) 890-4219",
+      "imei": "311643108684598",
+      "vehicle_reg": "KA15IV4697",
+      "timestamp": "2026-07-26T13:28:14.877Z"
+    }
+  },
+  {
+    "asset_id": "dff0be6f-4927-4e11-9c07-61bb3620ac0f",
+    "asset_type": "bank_statement",
+    "owner_id": "125",
+    "owner_type": "Accused",
+    "associated_case_id": 36,
+    "metadata": {
+      "phone_number": "1-204-981-7938",
+      "imei": "037120580933312",
+      "vehicle_reg": "KA80YW8656",
+      "timestamp": "2026-07-26T13:28:14.913Z"
+    }
+  },
+  {
+    "asset_id": "55f18785-fb23-486a-a349-ff0b47b4071e",
+    "asset_type": "bank_statement",
+    "owner_id": "2",
+    "owner_type": "Accused",
+    "associated_case_id": 88,
+    "metadata": {
+      "phone_number": "599.866.1995 x3304",
+      "imei": "627379244024081",
+      "vehicle_reg": "KA85TU7816",
+      "timestamp": "2026-07-26T13:28:14.949Z"
+    }
+  },
+  {
+    "asset_id": "050b2ec3-2249-49d0-a4e3-3f47d547f9bf",
+    "asset_type": "cctv_footage",
+    "owner_id": "18",
+    "owner_type": "Accused",
+    "associated_case_id": 11,
+    "metadata": {
+      "phone_number": "(338) 424-5089 x46112",
+      "imei": "812264443175986",
+      "vehicle_reg": "KA01ZT6103",
+      "timestamp": "2026-07-26T13:28:14.993Z"
+    }
+  },
+  {
+    "asset_id": "3a9f8b9a-8a7d-49ec-9c6d-94f98d7fd326",
+    "asset_type": "phone_call_record",
+    "owner_id": "39",
+    "owner_type": "Accused",
+    "associated_case_id": 121,
+    "metadata": {
+      "phone_number": "1-757-504-2920 x78373",
+      "imei": "524764338634281",
+      "vehicle_reg": "KA82NH3113",
+      "timestamp": "2026-07-26T13:28:15.030Z"
+    }
+  },
+  {
+    "asset_id": "00830041-2f39-4990-873b-6e3c87a52381",
+    "asset_type": "bank_statement",
+    "owner_id": "33",
+    "owner_type": "Accused",
+    "associated_case_id": 193,
+    "metadata": {
+      "phone_number": "548-535-6938 x283",
+      "imei": "094353314401719",
+      "vehicle_reg": "KA68ML1454",
+      "timestamp": "2026-07-26T13:28:15.090Z"
+    }
+  },
+  {
+    "asset_id": "bbdaddb9-9452-4552-9493-ae312dce263e",
+    "asset_type": "bank_statement",
+    "owner_id": "77",
+    "owner_type": "Accused",
+    "associated_case_id": 6,
+    "metadata": {
+      "phone_number": "783-460-3937 x8654",
+      "imei": "776172006491112",
+      "vehicle_reg": "KA92GC0083",
+      "timestamp": "2026-07-26T13:28:15.126Z"
+    }
+  },
+  {
+    "asset_id": "0a91e742-6fea-4d4a-aca5-798a61928d81",
+    "asset_type": "bank_statement",
+    "owner_id": "136",
+    "owner_type": "Accused",
+    "associated_case_id": 33,
+    "metadata": {
+      "phone_number": "1-628-697-7848",
+      "imei": "571477717044260",
+      "vehicle_reg": "KA60EU1856",
+      "timestamp": "2026-07-26T13:28:15.165Z"
+    }
+  },
+  {
+    "asset_id": "f9cb0f20-563c-4661-b525-9bc2725c71b3",
+    "asset_type": "bank_statement",
+    "owner_id": "6",
+    "owner_type": "Accused",
+    "associated_case_id": 77,
+    "metadata": {
+      "phone_number": "510.261.6506 x0573",
+      "imei": "997200415345171",
+      "vehicle_reg": "KA18DI8696",
+      "timestamp": "2026-07-26T13:28:15.201Z"
+    }
+  },
+  {
+    "asset_id": "7edffb67-99b6-4b1b-abc2-e2bd32f83666",
+    "asset_type": "bank_statement",
+    "owner_id": "43",
+    "owner_type": "Accused",
+    "associated_case_id": 159,
+    "metadata": {
+      "phone_number": "1-337-325-8896 x870",
+      "imei": "089676312164165",
+      "vehicle_reg": "KA68TD3575",
+      "timestamp": "2026-07-26T13:28:15.246Z"
+    }
+  },
+  {
+    "asset_id": "845ca773-e517-45c4-8f67-e9a33466f9ee",
+    "asset_type": "cctv_footage",
+    "owner_id": "82",
+    "owner_type": "Accused",
+    "associated_case_id": 116,
+    "metadata": {
+      "phone_number": "972.742.7829 x241",
+      "imei": "472857797849682",
+      "vehicle_reg": "KA99SM7075",
+      "timestamp": "2026-07-26T13:28:15.279Z"
+    }
+  },
+  {
+    "asset_id": "95d770c6-d86d-438d-8b98-540f401752ed",
+    "asset_type": "cctv_footage",
+    "owner_id": "7",
+    "owner_type": "Accused",
+    "associated_case_id": 73,
+    "metadata": {
+      "phone_number": "650.887.6134 x653",
+      "imei": "208139587742023",
+      "vehicle_reg": "KA49CE8791",
+      "timestamp": "2026-07-26T13:28:15.310Z"
+    }
+  },
+  {
+    "asset_id": "9f991722-4a2e-4e65-95f4-73210060a64c",
+    "asset_type": "bank_statement",
+    "owner_id": "57",
+    "owner_type": "Accused",
+    "associated_case_id": 161,
+    "metadata": {
+      "phone_number": "(631) 284-1666 x50253",
+      "imei": "718920193367647",
+      "vehicle_reg": "KA90UJ5315",
+      "timestamp": "2026-07-26T13:28:15.343Z"
+    }
+  },
+  {
+    "asset_id": "465a8d34-1679-4663-be74-ff4b8489f657",
+    "asset_type": "cctv_footage",
+    "owner_id": "61",
+    "owner_type": "Accused",
+    "associated_case_id": 197,
+    "metadata": {
+      "phone_number": "242.595.9666 x0644",
+      "imei": "057433002068572",
+      "vehicle_reg": "KA35LM6375",
+      "timestamp": "2026-07-26T13:28:15.377Z"
+    }
+  },
+  {
+    "asset_id": "4c3b275b-5c2e-4001-a4fc-e93fe7579e75",
+    "asset_type": "cctv_footage",
+    "owner_id": "3",
+    "owner_type": "Accused",
+    "associated_case_id": 161,
+    "metadata": {
+      "phone_number": "1-366-704-8067 x05712",
+      "imei": "239213595563771",
+      "vehicle_reg": "KA03VA1279",
+      "timestamp": "2026-07-26T13:28:15.416Z"
+    }
+  },
+  {
+    "asset_id": "15efc8e2-8683-4810-830c-dfc54a2ee90c",
+    "asset_type": "phone_call_record",
+    "owner_id": "155",
+    "owner_type": "Accused",
+    "associated_case_id": 69,
+    "metadata": {
+      "phone_number": "619-255-5663",
+      "imei": "352170731502272",
+      "vehicle_reg": "KA01PM1515",
+      "timestamp": "2026-07-26T13:28:15.447Z"
+    }
+  },
+  {
+    "asset_id": "ca572c85-3d43-404a-8c85-8d207f17524d",
+    "asset_type": "bank_statement",
+    "owner_id": "133",
+    "owner_type": "Accused",
+    "associated_case_id": 53,
+    "metadata": {
+      "phone_number": "369.739.6328 x0269",
+      "imei": "226798683720526",
+      "vehicle_reg": "KA12PR2061",
+      "timestamp": "2026-07-26T13:28:15.476Z"
+    }
+  },
+  {
+    "asset_id": "0b4d8f3d-9e3d-4d3d-aa06-b3bb1090c5c0",
+    "asset_type": "cctv_footage",
+    "owner_id": "119",
+    "owner_type": "Accused",
+    "associated_case_id": 132,
+    "metadata": {
+      "phone_number": "876.964.9301 x785",
+      "imei": "088477750571634",
+      "vehicle_reg": "KA99BB0504",
+      "timestamp": "2026-07-26T13:28:15.509Z"
+    }
+  },
+  {
+    "asset_id": "d40afa6f-1172-4c30-b6be-4e2257b85928",
+    "asset_type": "bank_statement",
+    "owner_id": "97",
+    "owner_type": "Accused",
+    "associated_case_id": 52,
+    "metadata": {
+      "phone_number": "1-216-940-1317 x898",
+      "imei": "575873030195657",
+      "vehicle_reg": "KA55AY9355",
+      "timestamp": "2026-07-26T13:28:15.542Z"
+    }
+  },
+  {
+    "asset_id": "c41879ca-c159-4b0e-8961-e292f50f01c3",
+    "asset_type": "bank_statement",
+    "owner_id": "30",
+    "owner_type": "Accused",
+    "associated_case_id": 186,
+    "metadata": {
+      "phone_number": "915.497.3465 x25756",
+      "imei": "958132612273494",
+      "vehicle_reg": "KA80VT0345",
+      "timestamp": "2026-07-26T13:28:15.570Z"
+    }
+  },
+  {
+    "asset_id": "e9b90eb6-e9a0-41c5-94ca-3ca53491b12e",
+    "asset_type": "cctv_footage",
+    "owner_id": "92",
+    "owner_type": "Accused",
+    "associated_case_id": 73,
+    "metadata": {
+      "phone_number": "537-362-8533 x133",
+      "imei": "676790294170581",
+      "vehicle_reg": "KA21ZG2128",
+      "timestamp": "2026-07-26T13:28:15.599Z"
+    }
+  },
+  {
+    "asset_id": "ebafaa15-9018-40c8-a38d-2a045c1813ce",
+    "asset_type": "cctv_footage",
+    "owner_id": "90",
+    "owner_type": "Accused",
+    "associated_case_id": 131,
+    "metadata": {
+      "phone_number": "888-869-9586 x5339",
+      "imei": "635354814811915",
+      "vehicle_reg": "KA22LQ7747",
+      "timestamp": "2026-07-26T13:28:15.630Z"
+    }
+  },
+  {
+    "asset_id": "333f0f29-19b9-4386-8747-fc031c2e33c4",
+    "asset_type": "cctv_footage",
+    "owner_id": "87",
+    "owner_type": "Accused",
+    "associated_case_id": 6,
+    "metadata": {
+      "phone_number": "1-504-985-6872 x65619",
+      "imei": "518068108264946",
+      "vehicle_reg": "KA61BV9790",
+      "timestamp": "2026-07-26T13:28:15.667Z"
+    }
+  },
+  {
+    "asset_id": "85c7b8ce-245f-48c4-aa67-4a261a9338c1",
+    "asset_type": "bank_statement",
+    "owner_id": "108",
+    "owner_type": "Accused",
+    "associated_case_id": 19,
+    "metadata": {
+      "phone_number": "1-382-338-5081 x285",
+      "imei": "188555330726814",
+      "vehicle_reg": "KA30KO0878",
+      "timestamp": "2026-07-26T13:28:15.704Z"
+    }
+  },
+  {
+    "asset_id": "1146a885-c006-402a-b737-9deadc2be083",
+    "asset_type": "cctv_footage",
+    "owner_id": "129",
+    "owner_type": "Accused",
+    "associated_case_id": 242,
+    "metadata": {
+      "phone_number": "1-616-497-8438 x7432",
+      "imei": "150665395292287",
+      "vehicle_reg": "KA15AZ9054",
+      "timestamp": "2026-07-26T13:28:15.742Z"
+    }
+  },
+  {
+    "asset_id": "127eac66-01af-48b9-8ddd-7d0a53d1ec72",
+    "asset_type": "bank_statement",
+    "owner_id": "164",
+    "owner_type": "Accused",
+    "associated_case_id": 242,
+    "metadata": {
+      "phone_number": "1-267-404-1477",
+      "imei": "999544551039930",
+      "vehicle_reg": "KA88HU5345",
+      "timestamp": "2026-07-26T13:28:15.778Z"
+    }
+  },
+  {
+    "asset_id": "17191f59-7168-45ac-8304-176021cca7d5",
+    "asset_type": "cctv_footage",
+    "owner_id": "143",
+    "owner_type": "Accused",
+    "associated_case_id": 201,
+    "metadata": {
+      "phone_number": "537-321-6559 x594",
+      "imei": "517463301059579",
+      "vehicle_reg": "KA88YU5430",
+      "timestamp": "2026-07-26T13:28:15.811Z"
+    }
+  },
+  {
+    "asset_id": "5877a397-418e-49cc-ae5f-1713c93bccd1",
+    "asset_type": "phone_call_record",
+    "owner_id": "179",
+    "owner_type": "Accused",
+    "associated_case_id": 22,
+    "metadata": {
+      "phone_number": "456-570-8159 x326",
+      "imei": "442230072420333",
+      "vehicle_reg": "KA35WU1682",
+      "timestamp": "2026-07-26T13:28:15.852Z"
+    }
+  },
+  {
+    "asset_id": "9e1088f7-1f1d-4562-9477-19fb103de6dd",
+    "asset_type": "cctv_footage",
+    "owner_id": "177",
+    "owner_type": "Accused",
+    "associated_case_id": 145,
+    "metadata": {
+      "phone_number": "304-728-5470 x26732",
+      "imei": "687599638835855",
+      "vehicle_reg": "KA29EQ7275",
+      "timestamp": "2026-07-26T13:28:15.888Z"
+    }
+  },
+  {
+    "asset_id": "4ce44152-9b78-4aeb-8854-7c17ec08d1f8",
+    "asset_type": "cctv_footage",
+    "owner_id": "159",
+    "owner_type": "Accused",
+    "associated_case_id": 72,
+    "metadata": {
+      "phone_number": "(204) 742-2819 x892",
+      "imei": "250811968512476",
+      "vehicle_reg": "KA29SH3829",
+      "timestamp": "2026-07-26T13:28:15.927Z"
+    }
+  },
+  {
+    "asset_id": "2d89c19e-af38-4fa2-9247-db3da4b7a3e8",
+    "asset_type": "bank_statement",
+    "owner_id": "129",
+    "owner_type": "Accused",
+    "associated_case_id": 91,
+    "metadata": {
+      "phone_number": "1-425-883-4147 x5235",
+      "imei": "470658094502286",
+      "vehicle_reg": "KA30VN3677",
+      "timestamp": "2026-07-26T13:28:15.959Z"
+    }
+  },
+  {
+    "asset_id": "fd09a608-434c-4218-a536-322047090b66",
+    "asset_type": "phone_call_record",
+    "owner_id": "102",
+    "owner_type": "Accused",
+    "associated_case_id": 230,
+    "metadata": {
+      "phone_number": "1-982-496-0139 x328",
+      "imei": "887067941797682",
+      "vehicle_reg": "KA47GK3358",
+      "timestamp": "2026-07-26T13:28:15.995Z"
+    }
+  },
+  {
+    "asset_id": "b1805502-c783-4420-ba7e-c6caaed544ad",
+    "asset_type": "bank_statement",
+    "owner_id": "112",
+    "owner_type": "Accused",
+    "associated_case_id": 42,
+    "metadata": {
+      "phone_number": "(372) 968-6515",
+      "imei": "524257489053196",
+      "vehicle_reg": "KA38BN2114",
+      "timestamp": "2026-07-26T13:28:16.028Z"
+    }
+  },
+  {
+    "asset_id": "9b2e0a20-8cb5-4f02-b1e2-9867e2328b93",
+    "asset_type": "bank_statement",
+    "owner_id": "119",
+    "owner_type": "Accused",
+    "associated_case_id": 241,
+    "metadata": {
+      "phone_number": "870.386.8644 x3520",
+      "imei": "321421674038199",
+      "vehicle_reg": "KA67AJ5922",
+      "timestamp": "2026-07-26T13:28:16.064Z"
+    }
+  },
+  {
+    "asset_id": "ef3932d5-e4d6-4304-a83f-6fd532659af7",
+    "asset_type": "cctv_footage",
+    "owner_id": "1",
+    "owner_type": "Accused",
+    "associated_case_id": 214,
+    "metadata": {
+      "phone_number": "328-655-3602 x351",
+      "imei": "594554897020715",
+      "vehicle_reg": "KA51FG2953",
+      "timestamp": "2026-07-26T13:28:16.097Z"
+    }
+  },
+  {
+    "asset_id": "6df3ea89-2304-484a-a211-c8f12f443421",
+    "asset_type": "bank_statement",
+    "owner_id": "28",
+    "owner_type": "Accused",
+    "associated_case_id": 78,
+    "metadata": {
+      "phone_number": "691.712.8089 x930",
+      "imei": "223935673219021",
+      "vehicle_reg": "KA88HI2118",
+      "timestamp": "2026-07-26T13:28:16.136Z"
+    }
+  },
+  {
+    "asset_id": "021b9402-55a2-4fde-906c-a4ec25d2f6f8",
+    "asset_type": "bank_statement",
+    "owner_id": "139",
+    "owner_type": "Accused",
+    "associated_case_id": 163,
+    "metadata": {
+      "phone_number": "315-383-0125 x2496",
+      "imei": "637035558255815",
+      "vehicle_reg": "KA03UE0344",
+      "timestamp": "2026-07-26T13:28:16.175Z"
+    }
+  },
+  {
+    "asset_id": "8b5a2c96-c682-4b4a-98c1-8e9a5bf3a6aa",
+    "asset_type": "bank_statement",
+    "owner_id": "20",
+    "owner_type": "Accused",
+    "associated_case_id": 107,
+    "metadata": {
+      "phone_number": "700.589.0064 x63492",
+      "imei": "669000022936107",
+      "vehicle_reg": "KA55RH8283",
+      "timestamp": "2026-07-26T13:28:16.210Z"
+    }
+  },
+  {
+    "asset_id": "afda7bf0-beb1-4fde-94db-8adffb696fa3",
+    "asset_type": "phone_call_record",
+    "owner_id": "71",
+    "owner_type": "Accused",
+    "associated_case_id": 166,
+    "metadata": {
+      "phone_number": "(903) 843-7672 x6890",
+      "imei": "871814810424014",
+      "vehicle_reg": "KA66YM9252",
+      "timestamp": "2026-07-26T13:28:16.244Z"
+    }
+  },
+  {
+    "asset_id": "8a19a2de-8dcd-4b3e-8a74-44e1357c6592",
+    "asset_type": "bank_statement",
+    "owner_id": "131",
+    "owner_type": "Accused",
+    "associated_case_id": 237,
+    "metadata": {
+      "phone_number": "1-910-204-0172 x596",
+      "imei": "343904067910642",
+      "vehicle_reg": "KA43NB6317",
+      "timestamp": "2026-07-26T13:28:16.286Z"
+    }
+  },
+  {
+    "asset_id": "4e19c35f-8038-4a07-9821-ae33c92760ed",
+    "asset_type": "bank_statement",
+    "owner_id": "64",
+    "owner_type": "Accused",
+    "associated_case_id": 2,
+    "metadata": {
+      "phone_number": "871-570-4349 x487",
+      "imei": "693019288288182",
+      "vehicle_reg": "KA15MX7970",
+      "timestamp": "2026-07-26T13:28:16.326Z"
+    }
+  },
+  {
+    "asset_id": "0fb9d6f3-3958-4d84-a41c-7b1a9e8e119f",
+    "asset_type": "cctv_footage",
+    "owner_id": "142",
+    "owner_type": "Accused",
+    "associated_case_id": 98,
+    "metadata": {
+      "phone_number": "262.433.0970",
+      "imei": "686898718998004",
+      "vehicle_reg": "KA54DJ7756",
+      "timestamp": "2026-07-26T13:28:16.384Z"
+    }
+  },
+  {
+    "asset_id": "4b3208e2-3a48-4d13-a8b1-fb78dfff24c4",
+    "asset_type": "cctv_footage",
+    "owner_id": "75",
+    "owner_type": "Accused",
+    "associated_case_id": 43,
+    "metadata": {
+      "phone_number": "1-837-976-5475 x32030",
+      "imei": "499031970811778",
+      "vehicle_reg": "KA19EX2565",
+      "timestamp": "2026-07-26T13:28:16.420Z"
+    }
+  },
+  {
+    "asset_id": "5749e06e-fd56-4d32-8baa-481fc698d111",
+    "asset_type": "cctv_footage",
+    "owner_id": "142",
+    "owner_type": "Accused",
+    "associated_case_id": 191,
+    "metadata": {
+      "phone_number": "(263) 663-3120 x4447",
+      "imei": "271767260518703",
+      "vehicle_reg": "KA64VT1264",
+      "timestamp": "2026-07-26T13:28:16.469Z"
+    }
+  },
+  {
+    "asset_id": "9b32b881-e5eb-4655-90fa-e9a5a01c2afa",
+    "asset_type": "phone_call_record",
+    "owner_id": "171",
+    "owner_type": "Accused",
+    "associated_case_id": 84,
+    "metadata": {
+      "phone_number": "(454) 751-2048 x3385",
+      "imei": "924266869823598",
+      "vehicle_reg": "KA04JB1321",
+      "timestamp": "2026-07-26T13:28:16.508Z"
+    }
+  },
+  {
+    "asset_id": "b9f087a0-acbc-4aca-9a7f-b764bc69c6fb",
+    "asset_type": "phone_call_record",
+    "owner_id": "67",
+    "owner_type": "Accused",
+    "associated_case_id": 148,
+    "metadata": {
+      "phone_number": "330.831.5693 x9608",
+      "imei": "686416218467581",
+      "vehicle_reg": "KA03NN7557",
+      "timestamp": "2026-07-26T13:28:16.546Z"
+    }
+  },
+  {
+    "asset_id": "2aa682a8-e682-4311-bd57-d89418355078",
+    "asset_type": "phone_call_record",
+    "owner_id": "13",
+    "owner_type": "Accused",
+    "associated_case_id": 2,
+    "metadata": {
+      "phone_number": "1-663-484-5774 x878",
+      "imei": "352307978709927",
+      "vehicle_reg": "KA64NL1566",
+      "timestamp": "2026-07-26T13:28:16.589Z"
+    }
+  },
+  {
+    "asset_id": "6a8a4463-71e2-4579-9c52-d34b4ebbcb89",
+    "asset_type": "bank_statement",
+    "owner_id": "1",
+    "owner_type": "Accused",
+    "associated_case_id": 239,
+    "metadata": {
+      "phone_number": "521-279-9725 x1207",
+      "imei": "958690678510409",
+      "vehicle_reg": "KA31FP3300",
+      "timestamp": "2026-07-26T13:28:16.633Z"
+    }
+  },
+  {
+    "asset_id": "b0a9915b-7bcc-4deb-9456-6e460729c560",
+    "asset_type": "cctv_footage",
+    "owner_id": "104",
+    "owner_type": "Accused",
+    "associated_case_id": 2,
+    "metadata": {
+      "phone_number": "1-928-469-7133 x2200",
+      "imei": "106764839149511",
+      "vehicle_reg": "KA06PE6140",
+      "timestamp": "2026-07-26T13:28:16.663Z"
+    }
+  },
+  {
+    "asset_id": "f608d5e1-5938-4945-94df-ef896c4e0788",
+    "asset_type": "bank_statement",
+    "owner_id": "142",
+    "owner_type": "Accused",
+    "associated_case_id": 51,
+    "metadata": {
+      "phone_number": "867-316-0338 x44052",
+      "imei": "522095959925194",
+      "vehicle_reg": "KA79PR8641",
+      "timestamp": "2026-07-26T13:28:16.696Z"
+    }
+  },
+  {
+    "asset_id": "b0f19431-700d-409a-b8a8-ce68d5ce1baf",
+    "asset_type": "bank_statement",
+    "owner_id": "15",
+    "owner_type": "Accused",
+    "associated_case_id": 152,
+    "metadata": {
+      "phone_number": "1-506-346-9941 x7996",
+      "imei": "912214511729117",
+      "vehicle_reg": "KA91GR2611",
+      "timestamp": "2026-07-26T13:28:16.725Z"
+    }
+  },
+  {
+    "asset_id": "73d258a5-5865-46b7-bc8d-a84430dea9f1",
+    "asset_type": "cctv_footage",
+    "owner_id": "14",
+    "owner_type": "Accused",
+    "associated_case_id": 3,
+    "metadata": {
+      "phone_number": "411-458-1846 x097",
+      "imei": "174467185819499",
+      "vehicle_reg": "KA85PP1634",
+      "timestamp": "2026-07-26T13:28:16.758Z"
+    }
+  },
+  {
+    "asset_id": "1903e525-ca6c-4bec-b80b-2ca982f34010",
+    "asset_type": "bank_statement",
+    "owner_id": "79",
+    "owner_type": "Accused",
+    "associated_case_id": 77,
+    "metadata": {
+      "phone_number": "908-376-7499 x5317",
+      "imei": "686670908032175",
+      "vehicle_reg": "KA76SS6074",
+      "timestamp": "2026-07-26T13:28:16.787Z"
+    }
+  },
+  {
+    "asset_id": "ee828817-d700-4454-a1e7-0ea5161640f0",
+    "asset_type": "phone_call_record",
+    "owner_id": "170",
+    "owner_type": "Accused",
+    "associated_case_id": 194,
+    "metadata": {
+      "phone_number": "(818) 774-3286 x536",
+      "imei": "519202508755335",
+      "vehicle_reg": "KA39QM0713",
+      "timestamp": "2026-07-26T13:28:16.811Z"
+    }
+  },
+  {
+    "asset_id": "e4d6dc07-9c0e-428f-8a34-298c88d1498f",
+    "asset_type": "cctv_footage",
+    "owner_id": "64",
+    "owner_type": "Accused",
+    "associated_case_id": 174,
+    "metadata": {
+      "phone_number": "(648) 217-8252 x35016",
+      "imei": "088498082479346",
+      "vehicle_reg": "KA27EM5130",
+      "timestamp": "2026-07-26T13:28:16.840Z"
+    }
+  },
+  {
+    "asset_id": "23ce503f-0cc6-4c3a-b4bd-042ef98065c5",
+    "asset_type": "bank_statement",
+    "owner_id": "118",
+    "owner_type": "Accused",
+    "associated_case_id": 8,
+    "metadata": {
+      "phone_number": "863-995-4566",
+      "imei": "841218671454738",
+      "vehicle_reg": "KA99UD8422",
+      "timestamp": "2026-07-26T13:28:16.868Z"
+    }
+  },
+  {
+    "asset_id": "9250d525-bd03-491b-83d3-1c03bb9e6836",
+    "asset_type": "cctv_footage",
+    "owner_id": "19",
+    "owner_type": "Accused",
+    "associated_case_id": 183,
+    "metadata": {
+      "phone_number": "921.411.6189 x964",
+      "imei": "704028508920292",
+      "vehicle_reg": "KA21JS2596",
+      "timestamp": "2026-07-26T13:28:16.901Z"
+    }
+  },
+  {
+    "asset_id": "195bb1bb-49c8-463c-8729-681b0c09ea96",
+    "asset_type": "phone_call_record",
+    "owner_id": "51",
+    "owner_type": "Accused",
+    "associated_case_id": 235,
+    "metadata": {
+      "phone_number": "247-725-1236",
+      "imei": "293485496356291",
+      "vehicle_reg": "KA76PM9471",
+      "timestamp": "2026-07-26T13:28:16.931Z"
+    }
+  },
+  {
+    "asset_id": "c2d376b4-a682-48d4-bb58-517e90dcd81e",
+    "asset_type": "cctv_footage",
+    "owner_id": "64",
+    "owner_type": "Accused",
+    "associated_case_id": 78,
+    "metadata": {
+      "phone_number": "414.976.6873 x79365",
+      "imei": "655772249925186",
+      "vehicle_reg": "KA93AR9221",
+      "timestamp": "2026-07-26T13:28:16.964Z"
+    }
+  },
+  {
+    "asset_id": "bfac74dd-a0a0-46a7-8e49-5d2fedc94b49",
+    "asset_type": "phone_call_record",
+    "owner_id": "109",
+    "owner_type": "Accused",
+    "associated_case_id": 156,
+    "metadata": {
+      "phone_number": "1-387-858-7974 x611",
+      "imei": "937878552356281",
+      "vehicle_reg": "KA36WS0412",
+      "timestamp": "2026-07-26T13:28:17.020Z"
+    }
+  },
+  {
+    "asset_id": "f059f250-6264-4fd5-9719-967ded0744de",
+    "asset_type": "bank_statement",
+    "owner_id": "63",
+    "owner_type": "Accused",
+    "associated_case_id": 127,
+    "metadata": {
+      "phone_number": "413.657.8202 x7940",
+      "imei": "747010625392706",
+      "vehicle_reg": "KA18JH7050",
+      "timestamp": "2026-07-26T13:28:17.134Z"
+    }
+  },
+  {
+    "asset_id": "052dcb3f-812c-4852-b7e4-511b2412e5d0",
+    "asset_type": "cctv_footage",
+    "owner_id": "61",
+    "owner_type": "Accused",
+    "associated_case_id": 142,
+    "metadata": {
+      "phone_number": "1-442-936-7311",
+      "imei": "347886305980526",
+      "vehicle_reg": "KA86VW5016",
+      "timestamp": "2026-07-26T13:28:17.164Z"
+    }
+  },
+  {
+    "asset_id": "64776a0c-84dd-4442-b417-f3fd60660e53",
+    "asset_type": "phone_call_record",
+    "owner_id": "61",
+    "owner_type": "Accused",
+    "associated_case_id": 139,
+    "metadata": {
+      "phone_number": "620-729-2777 x582",
+      "imei": "281433253284615",
+      "vehicle_reg": "KA72GV4369",
+      "timestamp": "2026-07-26T13:28:17.192Z"
+    }
+  },
+  {
+    "asset_id": "9464f5bd-f302-48e9-a155-0f5f36784f58",
+    "asset_type": "phone_call_record",
+    "owner_id": "26",
+    "owner_type": "Accused",
+    "associated_case_id": 176,
+    "metadata": {
+      "phone_number": "1-219-291-6921",
+      "imei": "483236086653929",
+      "vehicle_reg": "KA65TI9797",
+      "timestamp": "2026-07-26T13:28:17.224Z"
+    }
+  },
+  {
+    "asset_id": "a4fcb977-f0df-4efb-b567-e73a144255c0",
+    "asset_type": "cctv_footage",
+    "owner_id": "2",
+    "owner_type": "Accused",
+    "associated_case_id": 149,
+    "metadata": {
+      "phone_number": "1-360-299-3108 x972",
+      "imei": "978418038127097",
+      "vehicle_reg": "KA38AW6431",
+      "timestamp": "2026-07-26T13:28:17.260Z"
+    }
+  },
+  {
+    "asset_id": "741c07bc-8587-4414-8779-1bdd18141616",
+    "asset_type": "bank_statement",
+    "owner_id": "135",
+    "owner_type": "Accused",
+    "associated_case_id": 118,
+    "metadata": {
+      "phone_number": "272-741-8082 x166",
+      "imei": "084182404476600",
+      "vehicle_reg": "KA69WT5406",
+      "timestamp": "2026-07-26T13:28:17.297Z"
+    }
+  },
+  {
+    "asset_id": "8256a4db-193a-4fce-aacc-7f10571ba49c",
+    "asset_type": "bank_statement",
+    "owner_id": "37",
+    "owner_type": "Accused",
+    "associated_case_id": 34,
+    "metadata": {
+      "phone_number": "(620) 965-3223",
+      "imei": "696115560918676",
+      "vehicle_reg": "KA55LE5635",
+      "timestamp": "2026-07-26T13:28:17.327Z"
+    }
+  },
+  {
+    "asset_id": "1c4e882d-82f1-402a-8c5f-fce23ce21538",
+    "asset_type": "cctv_footage",
+    "owner_id": "73",
+    "owner_type": "Accused",
+    "associated_case_id": 42,
+    "metadata": {
+      "phone_number": "(885) 359-9774 x063",
+      "imei": "767446381902481",
+      "vehicle_reg": "KA69EU0290",
+      "timestamp": "2026-07-26T13:28:17.356Z"
+    }
+  },
+  {
+    "asset_id": "7b553d9f-cec2-4e95-ad78-51c4f5b8e659",
+    "asset_type": "bank_statement",
+    "owner_id": "75",
+    "owner_type": "Accused",
+    "associated_case_id": 244,
+    "metadata": {
+      "phone_number": "264.645.6799 x94713",
+      "imei": "327431236555445",
+      "vehicle_reg": "KA27LN0045",
+      "timestamp": "2026-07-26T13:28:17.386Z"
+    }
+  },
+  {
+    "asset_id": "d1b1334e-4d83-43fd-a247-aad6679ca4d0",
+    "asset_type": "cctv_footage",
+    "owner_id": "109",
+    "owner_type": "Accused",
+    "associated_case_id": 110,
+    "metadata": {
+      "phone_number": "1-258-547-9313 x7561",
+      "imei": "985899216674060",
+      "vehicle_reg": "KA71YT8154",
+      "timestamp": "2026-07-26T13:28:17.419Z"
+    }
+  },
+  {
+    "asset_id": "ff54d965-6e22-4a3c-a952-d53223e3a6e1",
+    "asset_type": "bank_statement",
+    "owner_id": "78",
+    "owner_type": "Accused",
+    "associated_case_id": 46,
+    "metadata": {
+      "phone_number": "611.983.5262",
+      "imei": "509436885676022",
+      "vehicle_reg": "KA93SG1029",
+      "timestamp": "2026-07-26T13:28:17.451Z"
+    }
+  },
+  {
+    "asset_id": "048ed694-5dc3-4773-9f24-66aa168953b9",
+    "asset_type": "cctv_footage",
+    "owner_id": "127",
+    "owner_type": "Accused",
+    "associated_case_id": 98,
+    "metadata": {
+      "phone_number": "1-954-581-3252",
+      "imei": "607231769255652",
+      "vehicle_reg": "KA59GD6721",
+      "timestamp": "2026-07-26T13:28:17.483Z"
+    }
+  },
+  {
+    "asset_id": "569e12ee-3bc5-4706-90d1-215789c7e758",
+    "asset_type": "cctv_footage",
+    "owner_id": "84",
+    "owner_type": "Accused",
+    "associated_case_id": 147,
+    "metadata": {
+      "phone_number": "(438) 964-2393 x80605",
+      "imei": "769471713674466",
+      "vehicle_reg": "KA98NI3525",
+      "timestamp": "2026-07-26T13:28:17.514Z"
+    }
+  },
+  {
+    "asset_id": "ce78ce3e-1ac2-484f-a1d4-ff159a5c06ab",
+    "asset_type": "cctv_footage",
+    "owner_id": "27",
+    "owner_type": "Accused",
+    "associated_case_id": 187,
+    "metadata": {
+      "phone_number": "(817) 889-4404 x459",
+      "imei": "051368614245158",
+      "vehicle_reg": "KA95LJ6882",
+      "timestamp": "2026-07-26T13:28:17.551Z"
+    }
+  },
+  {
+    "asset_id": "e1865e56-5729-41b0-a599-965581f3ce82",
+    "asset_type": "phone_call_record",
+    "owner_id": "35",
+    "owner_type": "Accused",
+    "associated_case_id": 58,
+    "metadata": {
+      "phone_number": "543.286.5056 x204",
+      "imei": "177348006910283",
+      "vehicle_reg": "KA78XI8591",
+      "timestamp": "2026-07-26T13:28:17.588Z"
+    }
+  },
+  {
+    "asset_id": "e3de1264-4a0a-4c14-97ae-87d9b6eb4f22",
+    "asset_type": "bank_statement",
+    "owner_id": "113",
+    "owner_type": "Accused",
+    "associated_case_id": 88,
+    "metadata": {
+      "phone_number": "1-540-884-2064 x7509",
+      "imei": "519843904885070",
+      "vehicle_reg": "KA08XF7930",
+      "timestamp": "2026-07-26T13:28:17.630Z"
+    }
+  },
+  {
+    "asset_id": "d091c2b1-d1ae-4f09-8a60-1435a472811e",
+    "asset_type": "phone_call_record",
+    "owner_id": "104",
+    "owner_type": "Accused",
+    "associated_case_id": 110,
+    "metadata": {
+      "phone_number": "880.910.0250 x3134",
+      "imei": "541847044052345",
+      "vehicle_reg": "KA20XT1751",
+      "timestamp": "2026-07-26T13:28:17.665Z"
+    }
+  },
+  {
+    "asset_id": "20006856-5421-4b36-a908-9ed1249b7754",
+    "asset_type": "bank_statement",
+    "owner_id": "180",
+    "owner_type": "Accused",
+    "associated_case_id": 166,
+    "metadata": {
+      "phone_number": "564.926.8760 x1836",
+      "imei": "052379767992968",
+      "vehicle_reg": "KA15ES3663",
+      "timestamp": "2026-07-26T13:28:17.700Z"
+    }
+  },
+  {
+    "asset_id": "65b92320-bbc2-4cf7-9a86-bb5a531c0c51",
+    "asset_type": "cctv_footage",
+    "owner_id": "68",
+    "owner_type": "Accused",
+    "associated_case_id": 76,
+    "metadata": {
+      "phone_number": "1-357-264-3528 x0813",
+      "imei": "534923497123319",
+      "vehicle_reg": "KA75TS2336",
+      "timestamp": "2026-07-26T13:28:17.733Z"
+    }
+  },
+  {
+    "asset_id": "4ad47394-0099-4480-82aa-766e2d914f72",
+    "asset_type": "phone_call_record",
+    "owner_id": "13",
+    "owner_type": "Accused",
+    "associated_case_id": 39,
+    "metadata": {
+      "phone_number": "877.754.4890",
+      "imei": "689763507367175",
+      "vehicle_reg": "KA54VV2944",
+      "timestamp": "2026-07-26T13:28:17.778Z"
+    }
+  },
+  {
+    "asset_id": "6651ff6d-e1c5-4a5d-85f2-80eddc1d698d",
+    "asset_type": "bank_statement",
+    "owner_id": "37",
+    "owner_type": "Accused",
+    "associated_case_id": 136,
+    "metadata": {
+      "phone_number": "485.675.3499",
+      "imei": "572700752538577",
+      "vehicle_reg": "KA54BH3635",
+      "timestamp": "2026-07-26T13:28:17.809Z"
+    }
+  },
+  {
+    "asset_id": "eb2aca73-d706-48b3-a87d-d276847fdeba",
+    "asset_type": "cctv_footage",
+    "owner_id": "17",
+    "owner_type": "Accused",
+    "associated_case_id": 89,
+    "metadata": {
+      "phone_number": "(242) 633-7223 x2853",
+      "imei": "595476735328096",
+      "vehicle_reg": "KA71NJ3961",
+      "timestamp": "2026-07-26T13:28:17.848Z"
+    }
+  },
+  {
+    "asset_id": "f73368af-9d5e-438f-b4e2-f2fe83744a98",
+    "asset_type": "cctv_footage",
+    "owner_id": "74",
+    "owner_type": "Accused",
+    "associated_case_id": 233,
+    "metadata": {
+      "phone_number": "1-377-243-3525",
+      "imei": "852419837766290",
+      "vehicle_reg": "KA72IN5737",
+      "timestamp": "2026-07-26T13:28:17.882Z"
+    }
+  },
+  {
+    "asset_id": "c2dadf81-b182-4139-912a-791b2a81734a",
+    "asset_type": "bank_statement",
+    "owner_id": "124",
+    "owner_type": "Accused",
+    "associated_case_id": 108,
+    "metadata": {
+      "phone_number": "825-849-7527 x8364",
+      "imei": "959694090516274",
+      "vehicle_reg": "KA91HQ3146",
+      "timestamp": "2026-07-26T13:28:17.914Z"
+    }
+  },
+  {
+    "asset_id": "90874a8d-04ee-4029-a99b-faaee4950068",
+    "asset_type": "phone_call_record",
+    "owner_id": "93",
+    "owner_type": "Accused",
+    "associated_case_id": 210,
+    "metadata": {
+      "phone_number": "1-461-978-0605 x46764",
+      "imei": "356788040906461",
+      "vehicle_reg": "KA86RQ3861",
+      "timestamp": "2026-07-26T13:28:17.950Z"
+    }
+  },
+  {
+    "asset_id": "1bb2cf4b-0492-4c0e-85f2-8b73032f8201",
+    "asset_type": "bank_statement",
+    "owner_id": "120",
+    "owner_type": "Accused",
+    "associated_case_id": 30,
+    "metadata": {
+      "phone_number": "1-400-743-5507 x848",
+      "imei": "218374020436224",
+      "vehicle_reg": "KA52SB7291",
+      "timestamp": "2026-07-26T13:28:17.992Z"
+    }
+  },
+  {
+    "asset_id": "af1684f7-185f-4b3f-861d-79b9ceb6d103",
+    "asset_type": "bank_statement",
+    "owner_id": "1",
+    "owner_type": "Accused",
+    "associated_case_id": 104,
+    "metadata": {
+      "phone_number": "958-487-1353 x8352",
+      "imei": "344635101150952",
+      "vehicle_reg": "KA94DX4748",
+      "timestamp": "2026-07-26T13:28:18.022Z"
+    }
+  },
+  {
+    "asset_id": "d1eea191-9ea4-46e1-b914-b0e85832ce9f",
+    "asset_type": "phone_call_record",
+    "owner_id": "32",
+    "owner_type": "Accused",
+    "associated_case_id": 142,
+    "metadata": {
+      "phone_number": "937.859.4759 x38699",
+      "imei": "026295084860481",
+      "vehicle_reg": "KA61RL0096",
+      "timestamp": "2026-07-26T13:28:18.068Z"
+    }
+  },
+  {
+    "asset_id": "039b9cb5-45a4-4fae-8efa-03d4bd09e74f",
+    "asset_type": "cctv_footage",
+    "owner_id": "126",
+    "owner_type": "Accused",
+    "associated_case_id": 29,
+    "metadata": {
+      "phone_number": "(800) 749-7141 x038",
+      "imei": "314741168860221",
+      "vehicle_reg": "KA64DF8645",
+      "timestamp": "2026-07-26T13:28:18.102Z"
+    }
+  },
+  {
+    "asset_id": "ab1088f2-aebc-47e8-afe7-56d89d746ecf",
+    "asset_type": "bank_statement",
+    "owner_id": "168",
+    "owner_type": "Accused",
+    "associated_case_id": 249,
+    "metadata": {
+      "phone_number": "735-886-8072",
+      "imei": "608211084569398",
+      "vehicle_reg": "KA84ZB0612",
+      "timestamp": "2026-07-26T13:28:18.151Z"
+    }
+  },
+  {
+    "asset_id": "6da0418f-7750-46c6-ad04-c95f6e58ca2c",
+    "asset_type": "phone_call_record",
+    "owner_id": "109",
+    "owner_type": "Accused",
+    "associated_case_id": 152,
+    "metadata": {
+      "phone_number": "818.985.2703 x9700",
+      "imei": "339235912985428",
+      "vehicle_reg": "KA62RC7091",
+      "timestamp": "2026-07-26T13:28:18.183Z"
+    }
+  },
+  {
+    "asset_id": "92f500ba-2a2e-40ed-8a48-0f3448db5e47",
+    "asset_type": "cctv_footage",
+    "owner_id": "1",
+    "owner_type": "Accused",
+    "associated_case_id": 141,
+    "metadata": {
+      "phone_number": "(664) 722-2251 x93315",
+      "imei": "329112961575966",
+      "vehicle_reg": "KA56MV1057",
+      "timestamp": "2026-07-26T13:28:18.222Z"
+    }
+  },
+  {
+    "asset_id": "ac8bbd8e-246a-4b85-8027-d952b9f08f7b",
+    "asset_type": "phone_call_record",
+    "owner_id": "59",
+    "owner_type": "Accused",
+    "associated_case_id": 72,
+    "metadata": {
+      "phone_number": "1-254-813-9680 x004",
+      "imei": "845981234829792",
+      "vehicle_reg": "KA58DB5327",
+      "timestamp": "2026-07-26T13:28:18.268Z"
+    }
+  },
+  {
+    "asset_id": "1475bd48-26ea-4d4d-88f0-b7acb458c87b",
+    "asset_type": "cctv_footage",
+    "owner_id": "104",
+    "owner_type": "Accused",
+    "associated_case_id": 209,
+    "metadata": {
+      "phone_number": "555-947-4300 x660",
+      "imei": "538168339217681",
+      "vehicle_reg": "KA56UF0398",
+      "timestamp": "2026-07-26T13:28:18.307Z"
+    }
+  },
+  {
+    "asset_id": "107f17ef-dce9-4980-a9ba-e1b394dd95ac",
+    "asset_type": "cctv_footage",
+    "owner_id": "133",
+    "owner_type": "Accused",
+    "associated_case_id": 225,
+    "metadata": {
+      "phone_number": "(996) 224-1384 x8107",
+      "imei": "857330362870956",
+      "vehicle_reg": "KA73II9801",
+      "timestamp": "2026-07-26T13:28:18.343Z"
+    }
+  },
+  {
+    "asset_id": "0798fc97-c44f-4467-9644-326e63d2ddec",
+    "asset_type": "bank_statement",
+    "owner_id": "131",
+    "owner_type": "Accused",
+    "associated_case_id": 65,
+    "metadata": {
+      "phone_number": "(555) 495-0816 x59492",
+      "imei": "214513415904234",
+      "vehicle_reg": "KA00CP8784",
+      "timestamp": "2026-07-26T13:28:18.377Z"
+    }
+  },
+  {
+    "asset_id": "eb48aaec-3b72-484a-82b8-1640c6246689",
+    "asset_type": "bank_statement",
+    "owner_id": "171",
+    "owner_type": "Accused",
+    "associated_case_id": 3,
+    "metadata": {
+      "phone_number": "1-336-265-8882 x190",
+      "imei": "782425983816336",
+      "vehicle_reg": "KA35LW8414",
+      "timestamp": "2026-07-26T13:28:18.407Z"
+    }
+  },
+  {
+    "asset_id": "05379289-d1d6-457c-9a4e-89a248ba192f",
+    "asset_type": "bank_statement",
+    "owner_id": "136",
+    "owner_type": "Accused",
+    "associated_case_id": 18,
+    "metadata": {
+      "phone_number": "(454) 771-6172",
+      "imei": "729346760643613",
+      "vehicle_reg": "KA83CA3577",
+      "timestamp": "2026-07-26T13:28:18.441Z"
+    }
+  },
+  {
+    "asset_id": "df660bdf-7ff7-49fd-bcca-fa1ab9d30b2e",
+    "asset_type": "cctv_footage",
+    "owner_id": "93",
+    "owner_type": "Accused",
+    "associated_case_id": 28,
+    "metadata": {
+      "phone_number": "782.394.6204",
+      "imei": "444095050532233",
+      "vehicle_reg": "KA34EE5554",
+      "timestamp": "2026-07-26T13:28:18.475Z"
+    }
+  },
+  {
+    "asset_id": "d048dcb2-5fd7-4614-b97a-aed56fa62d99",
+    "asset_type": "bank_statement",
+    "owner_id": "87",
+    "owner_type": "Accused",
+    "associated_case_id": 127,
+    "metadata": {
+      "phone_number": "206-245-4219",
+      "imei": "355444444115820",
+      "vehicle_reg": "KA78OB1472",
+      "timestamp": "2026-07-26T13:28:18.509Z"
+    }
+  },
+  {
+    "asset_id": "61283a79-3048-4eeb-bc6d-451a2388fb8b",
+    "asset_type": "phone_call_record",
+    "owner_id": "157",
+    "owner_type": "Accused",
+    "associated_case_id": 56,
+    "metadata": {
+      "phone_number": "(240) 447-9719 x458",
+      "imei": "940423079597014",
+      "vehicle_reg": "KA78SX7917",
+      "timestamp": "2026-07-26T13:28:18.543Z"
+    }
+  },
+  {
+    "asset_id": "39c8e7a6-87bd-4495-94db-d6dcaa17ff00",
+    "asset_type": "phone_call_record",
+    "owner_id": "83",
+    "owner_type": "Accused",
+    "associated_case_id": 216,
+    "metadata": {
+      "phone_number": "1-441-300-1548 x8174",
+      "imei": "309210160729658",
+      "vehicle_reg": "KA17FF2785",
+      "timestamp": "2026-07-26T13:28:18.575Z"
+    }
+  },
+  {
+    "asset_id": "5078445f-bd9c-46a2-807c-1ced277c4f49",
+    "asset_type": "bank_statement",
+    "owner_id": "156",
+    "owner_type": "Accused",
+    "associated_case_id": 133,
+    "metadata": {
+      "phone_number": "(745) 460-1340 x4504",
+      "imei": "650501791754613",
+      "vehicle_reg": "KA42OL6005",
+      "timestamp": "2026-07-26T13:28:18.604Z"
+    }
+  },
+  {
+    "asset_id": "2bc71e4d-b915-471c-9d12-ff63a509ec8e",
+    "asset_type": "cctv_footage",
+    "owner_id": "58",
+    "owner_type": "Accused",
+    "associated_case_id": 187,
+    "metadata": {
+      "phone_number": "(241) 561-8750 x014",
+      "imei": "144677849674850",
+      "vehicle_reg": "KA21HG6452",
+      "timestamp": "2026-07-26T13:28:18.639Z"
+    }
+  },
+  {
+    "asset_id": "699a3fba-cb90-4335-a20a-20768892408a",
+    "asset_type": "bank_statement",
+    "owner_id": "172",
+    "owner_type": "Accused",
+    "associated_case_id": 151,
+    "metadata": {
+      "phone_number": "(506) 932-5935 x46921",
+      "imei": "769782034388033",
+      "vehicle_reg": "KA40MC3487",
+      "timestamp": "2026-07-26T13:28:18.676Z"
+    }
+  },
+  {
+    "asset_id": "9effc336-585a-4f8c-b0d1-ab46e614a618",
+    "asset_type": "phone_call_record",
+    "owner_id": "148",
+    "owner_type": "Accused",
+    "associated_case_id": 154,
+    "metadata": {
+      "phone_number": "538-219-4942 x64323",
+      "imei": "810803323677623",
+      "vehicle_reg": "KA89XM5773",
+      "timestamp": "2026-07-26T13:28:18.711Z"
+    }
+  },
+  {
+    "asset_id": "fabbe725-6856-402b-8a88-1df7972930ba",
+    "asset_type": "phone_call_record",
+    "owner_id": "63",
+    "owner_type": "Accused",
+    "associated_case_id": 5,
+    "metadata": {
+      "phone_number": "(961) 283-6344 x5979",
+      "imei": "529084855685434",
+      "vehicle_reg": "KA43EM0330",
+      "timestamp": "2026-07-26T13:28:18.744Z"
+    }
+  },
+  {
+    "asset_id": "49bf9469-111b-4c88-9ac1-e8986b588232",
+    "asset_type": "bank_statement",
+    "owner_id": "122",
+    "owner_type": "Accused",
+    "associated_case_id": 108,
+    "metadata": {
+      "phone_number": "618.984.0510",
+      "imei": "850729106362570",
+      "vehicle_reg": "KA82SA6480",
+      "timestamp": "2026-07-26T13:28:18.773Z"
+    }
+  },
+  {
+    "asset_id": "7d49c335-660b-4ace-af04-012ded87d457",
+    "asset_type": "cctv_footage",
+    "owner_id": "134",
+    "owner_type": "Accused",
+    "associated_case_id": 146,
+    "metadata": {
+      "phone_number": "495.997.0034",
+      "imei": "003252545802146",
+      "vehicle_reg": "KA81UJ5733",
+      "timestamp": "2026-07-26T13:28:18.801Z"
+    }
+  },
+  {
+    "asset_id": "2ce8dca7-036d-4c20-a7c6-cc157da4d000",
+    "asset_type": "bank_statement",
+    "owner_id": "153",
+    "owner_type": "Accused",
+    "associated_case_id": 109,
+    "metadata": {
+      "phone_number": "1-905-222-6873 x01693",
+      "imei": "840079296934994",
+      "vehicle_reg": "KA36FV4140",
+      "timestamp": "2026-07-26T13:28:18.834Z"
+    }
+  },
+  {
+    "asset_id": "ac712a1b-fcce-4fc5-bd04-f77a67c60fe8",
+    "asset_type": "cctv_footage",
+    "owner_id": "68",
+    "owner_type": "Accused",
+    "associated_case_id": 147,
+    "metadata": {
+      "phone_number": "699.635.1495 x483",
+      "imei": "638597207283273",
+      "vehicle_reg": "KA39CV9871",
+      "timestamp": "2026-07-26T13:28:18.866Z"
+    }
+  },
+  {
+    "asset_id": "b8046a0f-d8ef-48e8-871e-a49f12226e90",
+    "asset_type": "cctv_footage",
+    "owner_id": "3",
+    "owner_type": "Accused",
+    "associated_case_id": 206,
+    "metadata": {
+      "phone_number": "862.335.7280 x4167",
+      "imei": "739123804499103",
+      "vehicle_reg": "KA69VF3255",
+      "timestamp": "2026-07-26T13:28:18.905Z"
+    }
+  },
+  {
+    "asset_id": "4466f041-9602-4a2c-a1d6-c7a23db72fc9",
+    "asset_type": "bank_statement",
+    "owner_id": "70",
+    "owner_type": "Accused",
+    "associated_case_id": 126,
+    "metadata": {
+      "phone_number": "1-976-876-8072 x0239",
+      "imei": "479168253674964",
+      "vehicle_reg": "KA56FE0606",
+      "timestamp": "2026-07-26T13:28:18.937Z"
+    }
+  },
+  {
+    "asset_id": "3032c0a5-33b4-4c1c-a06a-d2033289c84a",
+    "asset_type": "phone_call_record",
+    "owner_id": "53",
+    "owner_type": "Accused",
+    "associated_case_id": 164,
+    "metadata": {
+      "phone_number": "643.409.2873 x750",
+      "imei": "333481658490134",
+      "vehicle_reg": "KA64CF4804",
+      "timestamp": "2026-07-26T13:28:18.969Z"
+    }
+  },
+  {
+    "asset_id": "2c901a1f-ae60-44da-87ed-f2cfcc9931b7",
+    "asset_type": "phone_call_record",
+    "owner_id": "30",
+    "owner_type": "Accused",
+    "associated_case_id": 104,
+    "metadata": {
+      "phone_number": "708.900.2231 x4136",
+      "imei": "060964802545003",
+      "vehicle_reg": "KA18XJ7294",
+      "timestamp": "2026-07-26T13:28:19.004Z"
+    }
+  },
+  {
+    "asset_id": "616afcaa-722a-45ad-9f7c-c8ceb577a042",
+    "asset_type": "phone_call_record",
+    "owner_id": "69",
+    "owner_type": "Accused",
+    "associated_case_id": 140,
+    "metadata": {
+      "phone_number": "(225) 207-6599",
+      "imei": "491740852189440",
+      "vehicle_reg": "KA26AE7313",
+      "timestamp": "2026-07-26T13:28:19.034Z"
+    }
+  },
+  {
+    "asset_id": "334d892f-fbe9-4bde-953b-b96c1b6a53f2",
+    "asset_type": "cctv_footage",
+    "owner_id": "114",
+    "owner_type": "Accused",
+    "associated_case_id": 42,
+    "metadata": {
+      "phone_number": "1-395-807-8189 x40417",
+      "imei": "711415385012587",
+      "vehicle_reg": "KA64FC4474",
+      "timestamp": "2026-07-26T13:28:19.066Z"
+    }
+  },
+  {
+    "asset_id": "c693ec3e-531d-47fe-98db-39186bceb7a8",
+    "asset_type": "bank_statement",
+    "owner_id": "50",
+    "owner_type": "Accused",
+    "associated_case_id": 11,
+    "metadata": {
+      "phone_number": "1-816-753-0814 x8598",
+      "imei": "117189562509753",
+      "vehicle_reg": "KA10DR4270",
+      "timestamp": "2026-07-26T13:28:19.099Z"
+    }
+  },
+  {
+    "asset_id": "13bf3548-7b8a-45e0-b92f-3cbb26d19982",
+    "asset_type": "cctv_footage",
+    "owner_id": "33",
+    "owner_type": "Accused",
+    "associated_case_id": 147,
+    "metadata": {
+      "phone_number": "(382) 825-6235 x7039",
+      "imei": "673428655183891",
+      "vehicle_reg": "KA32WL7791",
+      "timestamp": "2026-07-26T13:28:19.144Z"
+    }
+  },
+  {
+    "asset_id": "718d2a1d-29f4-4593-a41b-4d8764f18127",
+    "asset_type": "cctv_footage",
+    "owner_id": "33",
+    "owner_type": "Accused",
+    "associated_case_id": 178,
+    "metadata": {
+      "phone_number": "576.446.1347 x221",
+      "imei": "423630917740034",
+      "vehicle_reg": "KA52TD3058",
+      "timestamp": "2026-07-26T13:28:19.185Z"
+    }
+  },
+  {
+    "asset_id": "5d35ba98-9976-452c-b559-61f9013bf76d",
+    "asset_type": "cctv_footage",
+    "owner_id": "100",
+    "owner_type": "Accused",
+    "associated_case_id": 167,
+    "metadata": {
+      "phone_number": "(285) 390-4786 x250",
+      "imei": "889978127670173",
+      "vehicle_reg": "KA27ZY2742",
+      "timestamp": "2026-07-26T13:28:19.222Z"
+    }
+  },
+  {
+    "asset_id": "fa65b82a-c719-4881-afde-8ae75bb229cb",
+    "asset_type": "bank_statement",
+    "owner_id": "39",
+    "owner_type": "Accused",
+    "associated_case_id": 223,
+    "metadata": {
+      "phone_number": "733.667.9826 x83723",
+      "imei": "952470721809924",
+      "vehicle_reg": "KA80YK0278",
+      "timestamp": "2026-07-26T13:28:19.272Z"
+    }
+  },
+  {
+    "asset_id": "7f8b965e-4708-41a8-b6a0-27d68cf78855",
+    "asset_type": "phone_call_record",
+    "owner_id": "65",
+    "owner_type": "Accused",
+    "associated_case_id": 112,
+    "metadata": {
+      "phone_number": "1-573-606-0426 x40296",
+      "imei": "552765178547948",
+      "vehicle_reg": "KA62TE8945",
+      "timestamp": "2026-07-26T13:28:19.306Z"
+    }
+  },
+  {
+    "asset_id": "605964d2-6f40-47e4-81e7-a76036eeffa0",
+    "asset_type": "bank_statement",
+    "owner_id": "144",
+    "owner_type": "Accused",
+    "associated_case_id": 85,
+    "metadata": {
+      "phone_number": "1-251-342-0192 x664",
+      "imei": "778913262180669",
+      "vehicle_reg": "KA17DN9108",
+      "timestamp": "2026-07-26T13:28:19.342Z"
+    }
+  },
+  {
+    "asset_id": "bca5a701-038f-4a81-88b7-eef2de596a3f",
+    "asset_type": "phone_call_record",
+    "owner_id": "102",
+    "owner_type": "Accused",
+    "associated_case_id": 177,
+    "metadata": {
+      "phone_number": "1-470-475-3544 x12469",
+      "imei": "131844259224075",
+      "vehicle_reg": "KA05KL3024",
+      "timestamp": "2026-07-26T13:28:19.378Z"
+    }
+  },
+  {
+    "asset_id": "1b221445-5051-4bc4-8203-2709116e3c63",
+    "asset_type": "cctv_footage",
+    "owner_id": "169",
+    "owner_type": "Accused",
+    "associated_case_id": 109,
+    "metadata": {
+      "phone_number": "989.606.6552 x611",
+      "imei": "517412169946255",
+      "vehicle_reg": "KA50BP9291",
+      "timestamp": "2026-07-26T13:28:19.421Z"
+    }
+  },
+  {
+    "asset_id": "b5e6c967-1c2f-47e5-8801-c8375735bc0a",
+    "asset_type": "cctv_footage",
+    "owner_id": "98",
+    "owner_type": "Accused",
+    "associated_case_id": 248,
+    "metadata": {
+      "phone_number": "778-930-0649",
+      "imei": "153424159451867",
+      "vehicle_reg": "KA10VQ6229",
+      "timestamp": "2026-07-26T13:28:19.454Z"
+    }
+  },
+  {
+    "asset_id": "cf924c4d-0c2d-41ad-8d74-3a9e8b3d50de",
+    "asset_type": "cctv_footage",
+    "owner_id": "148",
+    "owner_type": "Accused",
+    "associated_case_id": 112,
+    "metadata": {
+      "phone_number": "1-436-210-2195 x8659",
+      "imei": "373107587211020",
+      "vehicle_reg": "KA87UJ0483",
+      "timestamp": "2026-07-26T13:28:19.499Z"
+    }
+  },
+  {
+    "asset_id": "e11cd1ea-08eb-4183-bf84-cb650e112102",
+    "asset_type": "phone_call_record",
+    "owner_id": "135",
+    "owner_type": "Accused",
+    "associated_case_id": 162,
+    "metadata": {
+      "phone_number": "(308) 381-1085 x757",
+      "imei": "714270517247675",
+      "vehicle_reg": "KA94TH1661",
+      "timestamp": "2026-07-26T13:28:19.537Z"
+    }
+  },
+  {
+    "asset_id": "2af47b8c-7749-4c78-aa1f-1c582c0159f9",
+    "asset_type": "phone_call_record",
+    "owner_id": "136",
+    "owner_type": "Accused",
+    "associated_case_id": 155,
+    "metadata": {
+      "phone_number": "(377) 863-2531 x32545",
+      "imei": "223729219607385",
+      "vehicle_reg": "KA39TU9569",
+      "timestamp": "2026-07-26T13:28:19.580Z"
+    }
+  },
+  {
+    "asset_id": "334dbcf5-bf39-4ee3-b263-2b052a6d5d6a",
+    "asset_type": "bank_statement",
+    "owner_id": "42",
+    "owner_type": "Accused",
+    "associated_case_id": 103,
+    "metadata": {
+      "phone_number": "768.731.7976 x94439",
+      "imei": "481886785811754",
+      "vehicle_reg": "KA87CK2973",
+      "timestamp": "2026-07-26T13:28:19.621Z"
+    }
+  },
+  {
+    "asset_id": "266b794a-1012-462a-b8cf-d97219bfc781",
+    "asset_type": "cctv_footage",
+    "owner_id": "106",
+    "owner_type": "Accused",
+    "associated_case_id": 46,
+    "metadata": {
+      "phone_number": "(206) 419-0374 x14193",
+      "imei": "053333392324301",
+      "vehicle_reg": "KA51XP3459",
+      "timestamp": "2026-07-26T13:28:19.665Z"
+    }
+  },
+  {
+    "asset_id": "9d086087-7149-4222-887b-faad32c12d6e",
+    "asset_type": "phone_call_record",
+    "owner_id": "140",
+    "owner_type": "Accused",
+    "associated_case_id": 199,
+    "metadata": {
+      "phone_number": "(352) 710-8612 x94487",
+      "imei": "883439340013703",
+      "vehicle_reg": "KA51WQ0159",
+      "timestamp": "2026-07-26T13:28:19.701Z"
+    }
+  },
+  {
+    "asset_id": "10b05e77-1ae6-48c1-831d-8d9d985088fa",
+    "asset_type": "cctv_footage",
+    "owner_id": "96",
+    "owner_type": "Accused",
+    "associated_case_id": 129,
+    "metadata": {
+      "phone_number": "704.593.1644 x2378",
+      "imei": "840400348693271",
+      "vehicle_reg": "KA26WC2771",
+      "timestamp": "2026-07-26T13:28:19.740Z"
+    }
+  },
+  {
+    "asset_id": "58faec7e-8a51-485f-b526-9105eae732ee",
+    "asset_type": "bank_statement",
+    "owner_id": "60",
+    "owner_type": "Accused",
+    "associated_case_id": 120,
+    "metadata": {
+      "phone_number": "873.778.1858 x1313",
+      "imei": "140845612437548",
+      "vehicle_reg": "KA36SY8456",
+      "timestamp": "2026-07-26T13:28:19.788Z"
+    }
+  },
+  {
+    "asset_id": "280a92da-753a-4649-b276-08771b90019c",
+    "asset_type": "phone_call_record",
+    "owner_id": "135",
+    "owner_type": "Accused",
+    "associated_case_id": 236,
+    "metadata": {
+      "phone_number": "1-657-398-7559 x400",
+      "imei": "303815750492686",
+      "vehicle_reg": "KA88DJ9636",
+      "timestamp": "2026-07-26T13:28:19.837Z"
+    }
+  },
+  {
+    "asset_id": "d39bd2e8-c574-4ad4-9d0b-3269689436dc",
+    "asset_type": "cctv_footage",
+    "owner_id": "112",
+    "owner_type": "Accused",
+    "associated_case_id": 229,
+    "metadata": {
+      "phone_number": "(733) 866-0672 x885",
+      "imei": "865203838261132",
+      "vehicle_reg": "KA65BP1309",
+      "timestamp": "2026-07-26T13:28:19.887Z"
+    }
+  },
+  {
+    "asset_id": "e91f0829-7116-419c-8ff4-2dafa76bf092",
+    "asset_type": "cctv_footage",
+    "owner_id": "73",
+    "owner_type": "Accused",
+    "associated_case_id": 35,
+    "metadata": {
+      "phone_number": "(837) 232-0362",
+      "imei": "486962834575913",
+      "vehicle_reg": "KA63ZK7551",
+      "timestamp": "2026-07-26T13:28:19.924Z"
+    }
+  },
+  {
+    "asset_id": "4aa6f89f-ae05-440c-898e-c5f79ef04c08",
+    "asset_type": "cctv_footage",
+    "owner_id": "145",
+    "owner_type": "Accused",
+    "associated_case_id": 8,
+    "metadata": {
+      "phone_number": "907.634.5854 x812",
+      "imei": "173503446766330",
+      "vehicle_reg": "KA60XU3684",
+      "timestamp": "2026-07-26T13:28:19.957Z"
+    }
+  },
+  {
+    "asset_id": "254f2a7b-1971-429b-b3ab-f30a67bdcc6d",
+    "asset_type": "bank_statement",
+    "owner_id": "109",
+    "owner_type": "Accused",
+    "associated_case_id": 159,
+    "metadata": {
+      "phone_number": "(350) 826-9668 x414",
+      "imei": "037897663232444",
+      "vehicle_reg": "KA50LI1804",
+      "timestamp": "2026-07-26T13:28:19.991Z"
+    }
+  },
+  {
+    "asset_id": "7bd959ad-8dba-413a-a64a-2f4c8b9136d7",
+    "asset_type": "cctv_footage",
+    "owner_id": "51",
+    "owner_type": "Accused",
+    "associated_case_id": 124,
+    "metadata": {
+      "phone_number": "347.497.3339",
+      "imei": "137037139738868",
+      "vehicle_reg": "KA69OX0777",
+      "timestamp": "2026-07-26T13:28:20.031Z"
+    }
+  },
+  {
+    "asset_id": "92ba4ee1-00e4-4c00-9a05-7c1c203d3abc",
+    "asset_type": "phone_call_record",
+    "owner_id": "95",
+    "owner_type": "Accused",
+    "associated_case_id": 10,
+    "metadata": {
+      "phone_number": "1-344-258-7099",
+      "imei": "328121154732132",
+      "vehicle_reg": "KA42IH3269",
+      "timestamp": "2026-07-26T13:28:20.065Z"
+    }
+  },
+  {
+    "asset_id": "35457295-8bac-44f9-bb90-0166f2a624fa",
+    "asset_type": "cctv_footage",
+    "owner_id": "123",
+    "owner_type": "Accused",
+    "associated_case_id": 151,
+    "metadata": {
+      "phone_number": "638.840.7308",
+      "imei": "628207196741285",
+      "vehicle_reg": "KA33QO7460",
+      "timestamp": "2026-07-26T13:28:20.097Z"
+    }
+  },
+  {
+    "asset_id": "59d6d3d2-1aae-410c-9c4c-85935c1a0cc6",
+    "asset_type": "cctv_footage",
+    "owner_id": "115",
+    "owner_type": "Accused",
+    "associated_case_id": 83,
+    "metadata": {
+      "phone_number": "653-570-7431",
+      "imei": "004169016549378",
+      "vehicle_reg": "KA13XK5124",
+      "timestamp": "2026-07-26T13:28:20.128Z"
+    }
+  },
+  {
+    "asset_id": "584f4b82-a51b-41a6-99be-d3aa0f2e0fb4",
+    "asset_type": "cctv_footage",
+    "owner_id": "41",
+    "owner_type": "Accused",
+    "associated_case_id": 96,
+    "metadata": {
+      "phone_number": "(714) 400-2269 x77020",
+      "imei": "027728351557105",
+      "vehicle_reg": "KA33MC8778",
+      "timestamp": "2026-07-26T13:28:20.166Z"
+    }
+  },
+  {
+    "asset_id": "a2a4166f-ee98-4711-90f8-38c8912cad94",
+    "asset_type": "phone_call_record",
+    "owner_id": "103",
+    "owner_type": "Accused",
+    "associated_case_id": 232,
+    "metadata": {
+      "phone_number": "1-965-477-8923 x76739",
+      "imei": "957038464574595",
+      "vehicle_reg": "KA78SK1427",
+      "timestamp": "2026-07-26T13:28:20.199Z"
+    }
+  },
+  {
+    "asset_id": "c9356151-20af-43e8-b8b8-c60b263aa0fe",
+    "asset_type": "bank_statement",
+    "owner_id": "94",
+    "owner_type": "Accused",
+    "associated_case_id": 14,
+    "metadata": {
+      "phone_number": "(932) 492-7646 x137",
+      "imei": "769288943479383",
+      "vehicle_reg": "KA93RY4229",
+      "timestamp": "2026-07-26T13:28:20.234Z"
+    }
+  },
+  {
+    "asset_id": "dc1bc6c4-c3af-4cd6-823b-f5cd0b507147",
+    "asset_type": "cctv_footage",
+    "owner_id": "109",
+    "owner_type": "Accused",
+    "associated_case_id": 130,
+    "metadata": {
+      "phone_number": "694-781-8667 x34838",
+      "imei": "084631522535339",
+      "vehicle_reg": "KA75WI1057",
+      "timestamp": "2026-07-26T13:28:20.273Z"
+    }
+  },
+  {
+    "asset_id": "acde06c1-8321-4ffb-8dc9-a884d0814717",
+    "asset_type": "cctv_footage",
+    "owner_id": "56",
+    "owner_type": "Accused",
+    "associated_case_id": 103,
+    "metadata": {
+      "phone_number": "1-916-957-0831 x1832",
+      "imei": "940325734341290",
+      "vehicle_reg": "KA85OA2968",
+      "timestamp": "2026-07-26T13:28:20.308Z"
+    }
+  },
+  {
+    "asset_id": "e9db0f0c-1345-47c9-adfe-86626c31d4e6",
+    "asset_type": "cctv_footage",
+    "owner_id": "152",
+    "owner_type": "Accused",
+    "associated_case_id": 232,
+    "metadata": {
+      "phone_number": "(341) 725-4085 x10114",
+      "imei": "381171087638884",
+      "vehicle_reg": "KA74RE8228",
+      "timestamp": "2026-07-26T13:28:20.344Z"
+    }
+  },
+  {
+    "asset_id": "cec85e6a-864a-4447-bb9c-1efd436ca84c",
+    "asset_type": "bank_statement",
+    "owner_id": "36",
+    "owner_type": "Accused",
+    "associated_case_id": 5,
+    "metadata": {
+      "phone_number": "(759) 605-1035 x09403",
+      "imei": "920831388274314",
+      "vehicle_reg": "KA94AN0656",
+      "timestamp": "2026-07-26T13:28:20.380Z"
+    }
+  },
+  {
+    "asset_id": "8a4a376e-3f98-4199-9b0a-590f0a91758a",
+    "asset_type": "bank_statement",
+    "owner_id": "11",
+    "owner_type": "Accused",
+    "associated_case_id": 157,
+    "metadata": {
+      "phone_number": "1-710-955-3255 x781",
+      "imei": "092243606829806",
+      "vehicle_reg": "KA66CE1019",
+      "timestamp": "2026-07-26T13:28:20.421Z"
+    }
+  },
+  {
+    "asset_id": "f38e6324-eadb-4618-a398-1dd47e257306",
+    "asset_type": "bank_statement",
+    "owner_id": "71",
+    "owner_type": "Accused",
+    "associated_case_id": 111,
+    "metadata": {
+      "phone_number": "1-677-324-7167 x41523",
+      "imei": "879758967021441",
+      "vehicle_reg": "KA43PR0354",
+      "timestamp": "2026-07-26T13:28:20.457Z"
+    }
+  },
+  {
+    "asset_id": "8e3cf046-3d4d-44e4-b495-cd9f770ed880",
+    "asset_type": "phone_call_record",
+    "owner_id": "96",
+    "owner_type": "Accused",
+    "associated_case_id": 53,
+    "metadata": {
+      "phone_number": "(670) 543-3920 x916",
+      "imei": "496829154165346",
+      "vehicle_reg": "KA22DY9662",
+      "timestamp": "2026-07-26T13:28:20.496Z"
+    }
+  },
+  {
+    "asset_id": "52f7d474-ce39-4a7e-8f5f-5834c5a58757",
+    "asset_type": "phone_call_record",
+    "owner_id": "164",
+    "owner_type": "Accused",
+    "associated_case_id": 194,
+    "metadata": {
+      "phone_number": "(661) 205-3663",
+      "imei": "702219051995635",
+      "vehicle_reg": "KA32KN5002",
+      "timestamp": "2026-07-26T13:28:20.531Z"
+    }
+  },
+  {
+    "asset_id": "ccbeebbb-96b8-475a-b71e-959b747b5325",
+    "asset_type": "bank_statement",
+    "owner_id": "117",
+    "owner_type": "Accused",
+    "associated_case_id": 114,
+    "metadata": {
+      "phone_number": "758-581-2832 x45519",
+      "imei": "218757286095226",
+      "vehicle_reg": "KA64YV3860",
+      "timestamp": "2026-07-26T13:28:20.562Z"
+    }
+  },
+  {
+    "asset_id": "96334e49-d94f-4735-8525-bdf988486793",
+    "asset_type": "bank_statement",
+    "owner_id": "145",
+    "owner_type": "Accused",
+    "associated_case_id": 116,
+    "metadata": {
+      "phone_number": "508-274-1904",
+      "imei": "712695438986831",
+      "vehicle_reg": "KA27TF7288",
+      "timestamp": "2026-07-26T13:28:20.590Z"
+    }
+  },
+  {
+    "asset_id": "dddd26a8-7df2-48b3-a66a-d1bc7098547c",
+    "asset_type": "phone_call_record",
+    "owner_id": "173",
+    "owner_type": "Accused",
+    "associated_case_id": 14,
+    "metadata": {
+      "phone_number": "637.789.4619",
+      "imei": "018783814781224",
+      "vehicle_reg": "KA30IR8174",
+      "timestamp": "2026-07-26T13:28:20.622Z"
+    }
+  },
+  {
+    "asset_id": "50836336-2d3d-4480-a99b-7c038c36f642",
+    "asset_type": "bank_statement",
+    "owner_id": "90",
+    "owner_type": "Accused",
+    "associated_case_id": 78,
+    "metadata": {
+      "phone_number": "915.784.7715 x394",
+      "imei": "305925550079803",
+      "vehicle_reg": "KA82EX5797",
+      "timestamp": "2026-07-26T13:28:20.652Z"
+    }
+  },
+  {
+    "asset_id": "15a35db4-76bc-4a38-a0b9-06ec313bdd9f",
+    "asset_type": "bank_statement",
+    "owner_id": "172",
+    "owner_type": "Accused",
+    "associated_case_id": 60,
+    "metadata": {
+      "phone_number": "312-717-5907 x0249",
+      "imei": "276863060048559",
+      "vehicle_reg": "KA45IW5236",
+      "timestamp": "2026-07-26T13:28:20.685Z"
+    }
+  },
+  {
+    "asset_id": "45139a90-a5be-4b9b-9dcf-5ce61f782c3c",
+    "asset_type": "phone_call_record",
+    "owner_id": "167",
+    "owner_type": "Accused",
+    "associated_case_id": 74,
+    "metadata": {
+      "phone_number": "885.406.3286 x43101",
+      "imei": "841734129087459",
+      "vehicle_reg": "KA40IU0961",
+      "timestamp": "2026-07-26T13:28:20.717Z"
+    }
+  },
+  {
+    "asset_id": "0c00b5df-b9fb-4f6a-9665-fc2c89c65fda",
+    "asset_type": "cctv_footage",
+    "owner_id": "47",
+    "owner_type": "Accused",
+    "associated_case_id": 44,
+    "metadata": {
+      "phone_number": "600-988-1191 x19104",
+      "imei": "635925898922512",
+      "vehicle_reg": "KA51JS3451",
+      "timestamp": "2026-07-26T13:28:20.751Z"
+    }
+  },
+  {
+    "asset_id": "7a04ec19-203a-47f6-b53b-fdec3ffafea5",
+    "asset_type": "bank_statement",
+    "owner_id": "174",
+    "owner_type": "Accused",
+    "associated_case_id": 32,
+    "metadata": {
+      "phone_number": "669-525-8757 x78501",
+      "imei": "408766952855886",
+      "vehicle_reg": "KA37TC1711",
+      "timestamp": "2026-07-26T13:28:20.783Z"
+    }
+  },
+  {
+    "asset_id": "d08a4ac0-64d4-428f-8553-a3b069a0fafb",
+    "asset_type": "phone_call_record",
+    "owner_id": "14",
+    "owner_type": "Accused",
+    "associated_case_id": 103,
+    "metadata": {
+      "phone_number": "(261) 465-3603",
+      "imei": "204627369243104",
+      "vehicle_reg": "KA46JT7269",
+      "timestamp": "2026-07-26T13:28:20.820Z"
+    }
+  },
+  {
+    "asset_id": "364474eb-b04e-4838-9500-fc113c08547a",
+    "asset_type": "phone_call_record",
+    "owner_id": "172",
+    "owner_type": "Accused",
+    "associated_case_id": 239,
+    "metadata": {
+      "phone_number": "986.512.9819 x0944",
+      "imei": "878221434730331",
+      "vehicle_reg": "KA50TQ5975",
+      "timestamp": "2026-07-26T13:28:20.853Z"
+    }
+  },
+  {
+    "asset_id": "3ac6b2be-3a8d-4f41-bd8d-5a980d0125eb",
+    "asset_type": "cctv_footage",
+    "owner_id": "107",
+    "owner_type": "Accused",
+    "associated_case_id": 7,
+    "metadata": {
+      "phone_number": "739.811.2306",
+      "imei": "357769002619800",
+      "vehicle_reg": "KA57XS8698",
+      "timestamp": "2026-07-26T13:28:20.889Z"
+    }
+  },
+  {
+    "asset_id": "29b39de2-d2b4-423d-81b1-43811a8ccd29",
+    "asset_type": "phone_call_record",
+    "owner_id": "3",
+    "owner_type": "Accused",
+    "associated_case_id": 32,
+    "metadata": {
+      "phone_number": "1-884-970-3229 x3109",
+      "imei": "649001750774307",
+      "vehicle_reg": "KA46UJ9493",
+      "timestamp": "2026-07-26T13:28:20.925Z"
+    }
+  },
+  {
+    "asset_id": "59945ab3-6764-406c-8ff9-1a6570fbd46d",
+    "asset_type": "phone_call_record",
+    "owner_id": "37",
+    "owner_type": "Accused",
+    "associated_case_id": 153,
+    "metadata": {
+      "phone_number": "(703) 654-5365 x7475",
+      "imei": "984431289706007",
+      "vehicle_reg": "KA68LU0865",
+      "timestamp": "2026-07-26T13:28:20.974Z"
+    }
+  },
+  {
+    "asset_id": "dfdb5124-8f02-477f-b5e9-47118d43c54f",
+    "asset_type": "bank_statement",
+    "owner_id": "118",
+    "owner_type": "Accused",
+    "associated_case_id": 155,
+    "metadata": {
+      "phone_number": "1-729-733-7647 x22831",
+      "imei": "699401403191151",
+      "vehicle_reg": "KA01ZM8510",
+      "timestamp": "2026-07-26T13:28:21.012Z"
+    }
+  },
+  {
+    "asset_id": "ad5aa078-e817-4b1d-a0ba-a6fc9654017d",
+    "asset_type": "bank_statement",
+    "owner_id": "22",
+    "owner_type": "Accused",
+    "associated_case_id": 182,
+    "metadata": {
+      "phone_number": "601-466-9583 x60586",
+      "imei": "728798763304955",
+      "vehicle_reg": "KA96DW4443",
+      "timestamp": "2026-07-26T13:28:21.052Z"
+    }
+  },
+  {
+    "asset_id": "559c6e0f-b0a5-46e1-a6a8-4e60c192e38a",
+    "asset_type": "phone_call_record",
+    "owner_id": "157",
+    "owner_type": "Accused",
+    "associated_case_id": 150,
+    "metadata": {
+      "phone_number": "900-402-2370 x3684",
+      "imei": "156216098815782",
+      "vehicle_reg": "KA44DS6945",
+      "timestamp": "2026-07-26T13:28:21.090Z"
+    }
+  },
+  {
+    "asset_id": "3c710c6d-da26-4ae4-90b4-34244e6ce8fd",
+    "asset_type": "bank_statement",
+    "owner_id": "9",
+    "owner_type": "Accused",
+    "associated_case_id": 240,
+    "metadata": {
+      "phone_number": "610.633.3629 x21126",
+      "imei": "742738341460769",
+      "vehicle_reg": "KA93WC8925",
+      "timestamp": "2026-07-26T13:28:21.138Z"
+    }
+  },
+  {
+    "asset_id": "7ebdc817-9aab-4bff-9571-eef21c4cd388",
+    "asset_type": "phone_call_record",
+    "owner_id": "64",
+    "owner_type": "Accused",
+    "associated_case_id": 87,
+    "metadata": {
+      "phone_number": "1-668-776-0681 x77602",
+      "imei": "272547243149248",
+      "vehicle_reg": "KA44BX4253",
+      "timestamp": "2026-07-26T13:28:21.171Z"
+    }
+  },
+  {
+    "asset_id": "247eaa18-8eca-4dd1-88e5-7f6a6e327a81",
+    "asset_type": "phone_call_record",
+    "owner_id": "25",
+    "owner_type": "Accused",
+    "associated_case_id": 145,
+    "metadata": {
+      "phone_number": "287-835-5447 x0350",
+      "imei": "568439648743303",
+      "vehicle_reg": "KA69WK6742",
+      "timestamp": "2026-07-26T13:28:21.207Z"
+    }
+  },
+  {
+    "asset_id": "c13de428-5d4e-41d5-a632-19c406772d08",
+    "asset_type": "bank_statement",
+    "owner_id": "119",
+    "owner_type": "Accused",
+    "associated_case_id": 210,
+    "metadata": {
+      "phone_number": "858.765.6737 x727",
+      "imei": "015820119132203",
+      "vehicle_reg": "KA73SJ0945",
+      "timestamp": "2026-07-26T13:28:21.239Z"
+    }
+  },
+  {
+    "asset_id": "6687c05a-c23b-4b51-af3d-bc1032e7940d",
+    "asset_type": "bank_statement",
+    "owner_id": "147",
+    "owner_type": "Accused",
+    "associated_case_id": 62,
+    "metadata": {
+      "phone_number": "(901) 767-3669 x1131",
+      "imei": "646513482682239",
+      "vehicle_reg": "KA92LV4075",
+      "timestamp": "2026-07-26T13:28:21.279Z"
+    }
+  },
+  {
+    "asset_id": "0b66df35-4c7b-4b5b-8949-c83a84a609f9",
+    "asset_type": "bank_statement",
+    "owner_id": "126",
+    "owner_type": "Accused",
+    "associated_case_id": 75,
+    "metadata": {
+      "phone_number": "1-314-526-9325 x3864",
+      "imei": "559058394950562",
+      "vehicle_reg": "KA08OG6062",
+      "timestamp": "2026-07-26T13:28:21.317Z"
+    }
+  },
+  {
+    "asset_id": "d1008c45-7d68-4dd7-b161-5829aefe32c2",
+    "asset_type": "phone_call_record",
+    "owner_id": "58",
+    "owner_type": "Accused",
+    "associated_case_id": 154,
+    "metadata": {
+      "phone_number": "200.497.8962",
+      "imei": "344752780519101",
+      "vehicle_reg": "KA98JI3286",
+      "timestamp": "2026-07-26T13:28:21.352Z"
+    }
+  },
+  {
+    "asset_id": "0cc7b960-6093-4b75-b2b8-335e390cf778",
+    "asset_type": "cctv_footage",
+    "owner_id": "38",
+    "owner_type": "Accused",
+    "associated_case_id": 149,
+    "metadata": {
+      "phone_number": "323-531-7018 x173",
+      "imei": "205662960405949",
+      "vehicle_reg": "KA96JS5482",
+      "timestamp": "2026-07-26T13:28:21.390Z"
+    }
+  },
+  {
+    "asset_id": "566a6c51-a39c-4b8c-9e49-b3c2c5ba52fd",
+    "asset_type": "phone_call_record",
+    "owner_id": "101",
+    "owner_type": "Accused",
+    "associated_case_id": 43,
+    "metadata": {
+      "phone_number": "1-789-521-4579",
+      "imei": "863832190977797",
+      "vehicle_reg": "KA53HU6381",
+      "timestamp": "2026-07-26T13:28:21.426Z"
+    }
+  },
+  {
+    "asset_id": "0429338f-40d9-4991-a10f-78d669db48bb",
+    "asset_type": "phone_call_record",
+    "owner_id": "38",
+    "owner_type": "Accused",
+    "associated_case_id": 220,
+    "metadata": {
+      "phone_number": "(327) 784-9391 x44617",
+      "imei": "962324966204737",
+      "vehicle_reg": "KA86UW7905",
+      "timestamp": "2026-07-26T13:28:21.468Z"
+    }
+  },
+  {
+    "asset_id": "5b236034-22a9-4761-9282-ac512d5b1f16",
+    "asset_type": "cctv_footage",
+    "owner_id": "52",
+    "owner_type": "Accused",
+    "associated_case_id": 138,
+    "metadata": {
+      "phone_number": "1-273-924-4776 x137",
+      "imei": "389666447167091",
+      "vehicle_reg": "KA39UN0622",
+      "timestamp": "2026-07-26T13:28:21.519Z"
+    }
+  },
+  {
+    "asset_id": "a9943174-3aa1-406b-9ef8-ebe37563303c",
+    "asset_type": "phone_call_record",
+    "owner_id": "167",
+    "owner_type": "Accused",
+    "associated_case_id": 38,
+    "metadata": {
+      "phone_number": "389-823-5622 x19987",
+      "imei": "661375731645292",
+      "vehicle_reg": "KA44TZ6152",
+      "timestamp": "2026-07-26T13:28:21.557Z"
+    }
+  },
+  {
+    "asset_id": "22a98855-fb5b-4660-866f-5d8881c40373",
+    "asset_type": "cctv_footage",
+    "owner_id": "98",
+    "owner_type": "Accused",
+    "associated_case_id": 140,
+    "metadata": {
+      "phone_number": "(330) 216-4982 x49739",
+      "imei": "515229561064444",
+      "vehicle_reg": "KA78HR9435",
+      "timestamp": "2026-07-26T13:28:21.600Z"
+    }
+  },
+  {
+    "asset_id": "99283013-8de9-4e0c-af5d-2d9eb18df3cf",
+    "asset_type": "bank_statement",
+    "owner_id": "104",
+    "owner_type": "Accused",
+    "associated_case_id": 147,
+    "metadata": {
+      "phone_number": "790-374-0052",
+      "imei": "531234780192787",
+      "vehicle_reg": "KA12ZD8554",
+      "timestamp": "2026-07-26T13:28:21.633Z"
+    }
+  },
+  {
+    "asset_id": "96f5d41b-9813-47d1-995a-6bc42d40dafd",
+    "asset_type": "cctv_footage",
+    "owner_id": "63",
+    "owner_type": "Accused",
+    "associated_case_id": 83,
+    "metadata": {
+      "phone_number": "(209) 460-6682 x180",
+      "imei": "448088007264680",
+      "vehicle_reg": "KA38NU8215",
+      "timestamp": "2026-07-26T13:28:21.667Z"
+    }
+  },
+  {
+    "asset_id": "91400d64-4b3f-4d72-94bc-c5428f272bab",
+    "asset_type": "phone_call_record",
+    "owner_id": "164",
+    "owner_type": "Accused",
+    "associated_case_id": 50,
+    "metadata": {
+      "phone_number": "(640) 379-2435 x641",
+      "imei": "034482530144402",
+      "vehicle_reg": "KA47WK8051",
+      "timestamp": "2026-07-26T13:28:21.700Z"
+    }
+  },
+  {
+    "asset_id": "4da046c5-3556-4671-9fb4-0fe897981e28",
+    "asset_type": "phone_call_record",
+    "owner_id": "152",
+    "owner_type": "Accused",
+    "associated_case_id": 158,
+    "metadata": {
+      "phone_number": "525.430.3592 x8981",
+      "imei": "054343033766034",
+      "vehicle_reg": "KA31CK2349",
+      "timestamp": "2026-07-26T13:28:21.734Z"
+    }
+  },
+  {
+    "asset_id": "2469b9d1-9d55-46fa-a760-03bc2a5ed0e9",
+    "asset_type": "cctv_footage",
+    "owner_id": "40",
+    "owner_type": "Accused",
+    "associated_case_id": 179,
+    "metadata": {
+      "phone_number": "(290) 369-1734 x545",
+      "imei": "127864498215961",
+      "vehicle_reg": "KA28PO9119",
+      "timestamp": "2026-07-26T13:28:21.768Z"
+    }
+  },
+  {
+    "asset_id": "aaa8aa7a-805b-44f2-814b-5299128bc9a5",
+    "asset_type": "cctv_footage",
+    "owner_id": "128",
+    "owner_type": "Accused",
+    "associated_case_id": 236,
+    "metadata": {
+      "phone_number": "554.782.3631",
+      "imei": "077070182520942",
+      "vehicle_reg": "KA51OD1017",
+      "timestamp": "2026-07-26T13:28:21.801Z"
+    }
+  },
+  {
+    "asset_id": "b1026fda-76d5-4869-8d3f-c42619f01eab",
+    "asset_type": "cctv_footage",
+    "owner_id": "68",
+    "owner_type": "Accused",
+    "associated_case_id": 8,
+    "metadata": {
+      "phone_number": "(635) 594-7476 x653",
+      "imei": "366046287303467",
+      "vehicle_reg": "KA40KN7681",
+      "timestamp": "2026-07-26T13:28:21.834Z"
+    }
+  },
+  {
+    "asset_id": "218bb86c-dff5-4612-be0a-1e79c8920e6c",
+    "asset_type": "cctv_footage",
+    "owner_id": "9",
+    "owner_type": "Accused",
+    "associated_case_id": 81,
+    "metadata": {
+      "phone_number": "658-758-2310 x133",
+      "imei": "321918576392760",
+      "vehicle_reg": "KA89LF0717",
+      "timestamp": "2026-07-26T13:28:21.868Z"
+    }
+  },
+  {
+    "asset_id": "4c21b18e-bc3d-445e-b853-11e67b6f476a",
+    "asset_type": "bank_statement",
+    "owner_id": "171",
+    "owner_type": "Accused",
+    "associated_case_id": 46,
+    "metadata": {
+      "phone_number": "1-229-390-2106 x4122",
+      "imei": "083582797024187",
+      "vehicle_reg": "KA22JC7026",
+      "timestamp": "2026-07-26T13:28:21.900Z"
+    }
+  },
+  {
+    "asset_id": "78b7c602-e4e5-49c8-bde4-10cd3bb7b6af",
+    "asset_type": "cctv_footage",
+    "owner_id": "143",
+    "owner_type": "Accused",
+    "associated_case_id": 237,
+    "metadata": {
+      "phone_number": "(767) 620-8896",
+      "imei": "507979805969115",
+      "vehicle_reg": "KA87NE3060",
+      "timestamp": "2026-07-26T13:28:21.932Z"
+    }
+  },
+  {
+    "asset_id": "acc67a7a-ff98-4048-8e73-fafab3c409ca",
+    "asset_type": "bank_statement",
+    "owner_id": "119",
+    "owner_type": "Accused",
+    "associated_case_id": 22,
+    "metadata": {
+      "phone_number": "(454) 906-2268",
+      "imei": "888944127413461",
+      "vehicle_reg": "KA90ZU0888",
+      "timestamp": "2026-07-26T13:28:21.963Z"
+    }
+  },
+  {
+    "asset_id": "2c81a3fa-6695-476d-8f21-04fc037b9c6e",
+    "asset_type": "phone_call_record",
+    "owner_id": "47",
+    "owner_type": "Accused",
+    "associated_case_id": 98,
+    "metadata": {
+      "phone_number": "754.831.8972",
+      "imei": "771819221855597",
+      "vehicle_reg": "KA07MZ1719",
+      "timestamp": "2026-07-26T13:28:21.998Z"
+    }
+  },
+  {
+    "asset_id": "4239d8d0-7a0a-4c7d-ab7c-000d2b98a177",
+    "asset_type": "cctv_footage",
+    "owner_id": "105",
+    "owner_type": "Accused",
+    "associated_case_id": 89,
+    "metadata": {
+      "phone_number": "946-366-7120",
+      "imei": "956764108014204",
+      "vehicle_reg": "KA64SD4094",
+      "timestamp": "2026-07-26T13:28:22.029Z"
+    }
+  },
+  {
+    "asset_id": "5c3467e7-eea5-4643-a58b-374dcf1d1fe2",
+    "asset_type": "phone_call_record",
+    "owner_id": "117",
+    "owner_type": "Accused",
+    "associated_case_id": 241,
+    "metadata": {
+      "phone_number": "479-590-7207",
+      "imei": "056839644407167",
+      "vehicle_reg": "KA92TV7683",
+      "timestamp": "2026-07-26T13:28:22.074Z"
+    }
+  },
+  {
+    "asset_id": "59092e12-67b9-4e4d-9276-44a080f1aa8b",
+    "asset_type": "cctv_footage",
+    "owner_id": "33",
+    "owner_type": "Accused",
+    "associated_case_id": 175,
+    "metadata": {
+      "phone_number": "1-955-573-9133 x06512",
+      "imei": "328494063142725",
+      "vehicle_reg": "KA46RT8110",
+      "timestamp": "2026-07-26T13:28:22.106Z"
+    }
+  },
+  {
+    "asset_id": "c3c1d6eb-cf45-47ca-8d14-d4ddfe471eac",
+    "asset_type": "phone_call_record",
+    "owner_id": "74",
+    "owner_type": "Accused",
+    "associated_case_id": 229,
+    "metadata": {
+      "phone_number": "671-435-9627 x6140",
+      "imei": "014467320849814",
+      "vehicle_reg": "KA22XH7324",
+      "timestamp": "2026-07-26T13:28:22.149Z"
+    }
+  },
+  {
+    "asset_id": "5faa8d1e-ad20-4db3-a010-65b1c1e3a6fc",
+    "asset_type": "bank_statement",
+    "owner_id": "48",
+    "owner_type": "Accused",
+    "associated_case_id": 75,
+    "metadata": {
+      "phone_number": "(971) 579-7279 x2999",
+      "imei": "895061706347255",
+      "vehicle_reg": "KA26YF2456",
+      "timestamp": "2026-07-26T13:28:22.185Z"
+    }
+  },
+  {
+    "asset_id": "55d05c10-0ec2-42e3-b041-edc4f106ba3b",
+    "asset_type": "cctv_footage",
+    "owner_id": "175",
+    "owner_type": "Accused",
+    "associated_case_id": 213,
+    "metadata": {
+      "phone_number": "1-985-305-3169 x8005",
+      "imei": "202503941084645",
+      "vehicle_reg": "KA71PE6201",
+      "timestamp": "2026-07-26T13:28:22.220Z"
+    }
+  },
+  {
+    "asset_id": "ac23d06f-e584-4adb-8e11-37521d32900a",
+    "asset_type": "phone_call_record",
+    "owner_id": "137",
+    "owner_type": "Accused",
+    "associated_case_id": 164,
+    "metadata": {
+      "phone_number": "1-408-274-7761 x355",
+      "imei": "193699771762771",
+      "vehicle_reg": "KA15AO6696",
+      "timestamp": "2026-07-26T13:28:22.249Z"
+    }
+  },
+  {
+    "asset_id": "89fc404c-d35f-4b5f-9199-7f87c7c5b032",
+    "asset_type": "phone_call_record",
+    "owner_id": "76",
+    "owner_type": "Accused",
+    "associated_case_id": 103,
+    "metadata": {
+      "phone_number": "516-497-3437 x146",
+      "imei": "076441247195706",
+      "vehicle_reg": "KA17YQ9986",
+      "timestamp": "2026-07-26T13:28:22.280Z"
+    }
+  },
+  {
+    "asset_id": "a57225c4-f33a-46fc-9f12-8863d2941f36",
+    "asset_type": "phone_call_record",
+    "owner_id": "147",
+    "owner_type": "Accused",
+    "associated_case_id": 141,
+    "metadata": {
+      "phone_number": "(450) 790-4131 x136",
+      "imei": "046662696327001",
+      "vehicle_reg": "KA14PZ5678",
+      "timestamp": "2026-07-26T13:28:22.314Z"
+    }
+  },
+  {
+    "asset_id": "9e7cfb52-568c-41a4-b9d8-90fc4d464192",
+    "asset_type": "phone_call_record",
+    "owner_id": "35",
+    "owner_type": "Accused",
+    "associated_case_id": 132,
+    "metadata": {
+      "phone_number": "1-879-279-7521 x12393",
+      "imei": "641509423355646",
+      "vehicle_reg": "KA66BO6380",
+      "timestamp": "2026-07-26T13:28:22.348Z"
+    }
+  },
+  {
+    "asset_id": "6ebd8d37-f618-4cd0-8455-c7ffe26f901b",
+    "asset_type": "cctv_footage",
+    "owner_id": "58",
+    "owner_type": "Accused",
+    "associated_case_id": 169,
+    "metadata": {
+      "phone_number": "421-872-7424 x319",
+      "imei": "925519526008677",
+      "vehicle_reg": "KA43PV5710",
+      "timestamp": "2026-07-26T13:28:22.393Z"
+    }
+  },
+  {
+    "asset_id": "e5b61058-3481-409f-b9f2-2287350e4702",
+    "asset_type": "phone_call_record",
+    "owner_id": "70",
+    "owner_type": "Accused",
+    "associated_case_id": 227,
+    "metadata": {
+      "phone_number": "697.440.0064 x02284",
+      "imei": "673390808796320",
+      "vehicle_reg": "KA15OR5752",
+      "timestamp": "2026-07-26T13:28:22.425Z"
+    }
+  },
+  {
+    "asset_id": "b62fd4c6-8d2d-4bec-95b0-29c721a99157",
+    "asset_type": "phone_call_record",
+    "owner_id": "20",
+    "owner_type": "Accused",
+    "associated_case_id": 44,
+    "metadata": {
+      "phone_number": "(606) 527-6939 x5036",
+      "imei": "032733335758353",
+      "vehicle_reg": "KA01YB0843",
+      "timestamp": "2026-07-26T13:28:22.455Z"
+    }
+  },
+  {
+    "asset_id": "c30e9132-0191-42ba-945b-46066b6992cd",
+    "asset_type": "phone_call_record",
+    "owner_id": "88",
+    "owner_type": "Accused",
+    "associated_case_id": 172,
+    "metadata": {
+      "phone_number": "601.604.8913 x18131",
+      "imei": "990287761977951",
+      "vehicle_reg": "KA13ER7065",
+      "timestamp": "2026-07-26T13:28:22.490Z"
+    }
+  },
+  {
+    "asset_id": "bbd555ee-3b5e-4828-b1e1-7c162d4b8190",
+    "asset_type": "bank_statement",
+    "owner_id": "54",
+    "owner_type": "Accused",
+    "associated_case_id": 97,
+    "metadata": {
+      "phone_number": "(619) 507-4092 x9841",
+      "imei": "538227248348523",
+      "vehicle_reg": "KA56NI2355",
+      "timestamp": "2026-07-26T13:28:22.519Z"
+    }
+  },
+  {
+    "asset_id": "6debcfdc-ec06-496f-9b7b-62c07b5acbd9",
+    "asset_type": "phone_call_record",
+    "owner_id": "80",
+    "owner_type": "Accused",
+    "associated_case_id": 150,
+    "metadata": {
+      "phone_number": "(292) 872-1407",
+      "imei": "810732973303658",
+      "vehicle_reg": "KA58YY3111",
+      "timestamp": "2026-07-26T13:28:22.558Z"
+    }
+  },
+  {
+    "asset_id": "cf6c1e27-4a34-420e-85b2-dd3285726ce8",
+    "asset_type": "cctv_footage",
+    "owner_id": "51",
+    "owner_type": "Accused",
+    "associated_case_id": 42,
+    "metadata": {
+      "phone_number": "1-987-771-9486 x7474",
+      "imei": "878349562334695",
+      "vehicle_reg": "KA92LF8871",
+      "timestamp": "2026-07-26T13:28:22.593Z"
+    }
+  }
+]

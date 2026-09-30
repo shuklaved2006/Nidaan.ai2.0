@@ -1,0 +1,2402 @@
+[
+  {
+    "feed_id": "36957ee3-a42c-4c98-9913-f471ef9699ef",
+    "source_platform": "News",
+    "publisher_name": "Janis30",
+    "content": "Tres calcar aufero corrupti excepturi creator velit centum. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2026-06-29T05:28:53.110Z",
+    "sentiment_score": 0.07,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Leonardo Purdy Jr."
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.5862,
+      "longitude": 77.956,
+      "location_name": "Midwest City"
+    },
+    "associated_case_id": 200
+  },
+  {
+    "feed_id": "2d37be59-a978-4d71-bc8e-4018334e840d",
+    "source_platform": "Instagram",
+    "publisher_name": "Shelley_MacGyver24",
+    "content": "Addo amissio ventosus armarium vinitor illum. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-09-26T14:49:01.606Z",
+    "sentiment_score": 0.76,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Julie Heaney-Prohaska"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.2901,
+      "longitude": 75.7687,
+      "location_name": "Elvisworth"
+    },
+    "associated_case_id": 121
+  },
+  {
+    "feed_id": "2a4fa034-f677-4ca2-a0c6-fd305441516e",
+    "source_platform": "Community Forum",
+    "publisher_name": "Mason_Thompson96",
+    "content": "Carbo terebro vivo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-01-16T20:43:57.877Z",
+    "sentiment_score": 0.48,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Margarete Jacobi PhD"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.1005,
+      "longitude": 77.984,
+      "location_name": "Fort Lilliantown"
+    },
+    "associated_case_id": 186
+  },
+  {
+    "feed_id": "7c0dcd48-a2f6-49df-a098-2854a07ab337",
+    "source_platform": "Instagram",
+    "publisher_name": "Nils.Halvorson",
+    "content": "Nam summa decens tyrannus cunae recusandae colo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-01-15T20:39:03.385Z",
+    "sentiment_score": 0.89,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Miss Erin Hartmann III"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.5589,
+      "longitude": 75.9462,
+      "location_name": "North Edithshire"
+    },
+    "associated_case_id": 181
+  },
+  {
+    "feed_id": "09c6cb68-57cd-452e-99c8-4eadf9cacf54",
+    "source_platform": "Instagram",
+    "publisher_name": "Amanda_Ward",
+    "content": "Suspendo corporis verto. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-01-15T16:39:03.385Z",
+    "sentiment_score": -0.79,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Ann Goodwin II"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.5589,
+      "longitude": 75.9462,
+      "location_name": "West Bo"
+    },
+    "associated_case_id": 181
+  },
+  {
+    "feed_id": "53dcb376-8903-473d-9023-ae94d3051b9b",
+    "source_platform": "Instagram",
+    "publisher_name": "Douglas81",
+    "content": "Subnecto sortitus ademptio creber atqui suasoria cauda. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-05-15T17:41:17.700Z",
+    "sentiment_score": -0.45,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Stacey Pacocha"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.0868,
+      "longitude": 77.158,
+      "location_name": "Port Lula"
+    },
+    "associated_case_id": 129
+  },
+  {
+    "feed_id": "79dfb724-a5ad-48dd-a45f-74bbd6be0a30",
+    "source_platform": "X",
+    "publisher_name": "Jarret.Paucek",
+    "content": "Truculenter cupiditate iusto temptatio adinventitias advoco conscendo coniuratio causa careo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-12-04T21:35:06.120Z",
+    "sentiment_score": -0.46,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Miss Julia McCullough"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.0604,
+      "longitude": 76.3161,
+      "location_name": "Pedroville"
+    },
+    "associated_case_id": 31
+  },
+  {
+    "feed_id": "d08a5e23-6d76-4912-80af-ae21dc57be8c",
+    "source_platform": "News",
+    "publisher_name": "Efrain_Berge",
+    "content": "Avarus auxilium vinco vado. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-10-11T05:33:28.145Z",
+    "sentiment_score": -0.59,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Luz Hammes"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.9199,
+      "longitude": 76.9243,
+      "location_name": "Efrenfurt"
+    },
+    "associated_case_id": 17
+  },
+  {
+    "feed_id": "7f1c04bb-376d-4146-9b7e-89fe9443ae71",
+    "source_platform": "News",
+    "publisher_name": "Okey.Heller4",
+    "content": "Canis conservo civitas. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-09-05T09:39:02.538Z",
+    "sentiment_score": -0.21,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Naomie Lang-Powlowski"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.2945,
+      "longitude": 75.7762,
+      "location_name": "Beaumont"
+    },
+    "associated_case_id": 125
+  },
+  {
+    "feed_id": "842a1fc2-135a-430b-8459-2472ee203221",
+    "source_platform": "X",
+    "publisher_name": "Lana_Macejkovic-Fay12",
+    "content": "Blandior vaco aequitas voluptatem sequi debitis. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-08-23T08:58:11.993Z",
+    "sentiment_score": 0.3,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Edgar Jerde"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.9376,
+      "longitude": 76.6564,
+      "location_name": "Port Crystal"
+    },
+    "associated_case_id": 249
+  },
+  {
+    "feed_id": "85e7ca4d-1e42-4f5e-81d9-448b7156175b",
+    "source_platform": "Community Forum",
+    "publisher_name": "Manuel.Von",
+    "content": "Repellat calamitas videlicet nisi. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-02-21T10:24:35.117Z",
+    "sentiment_score": 0.95,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Brycen Hayes"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.9739,
+      "longitude": 77.5354,
+      "location_name": "West Wendellhaven"
+    },
+    "associated_case_id": 148
+  },
+  {
+    "feed_id": "877d9c58-3216-4186-8dbc-bd81c2c86da6",
+    "source_platform": "Community Forum",
+    "publisher_name": "Marian49",
+    "content": "Terreo victus stultus victoria victoria tres color avarus tonsor harum. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-11-27T18:28:51.547Z",
+    "sentiment_score": 0.01,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Dayne Murray"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.0255,
+      "longitude": 76.3177,
+      "location_name": "Lake Makaylafurt"
+    },
+    "associated_case_id": 47
+  },
+  {
+    "feed_id": "74a4e67c-4e24-4baf-a5b4-6e16a88d1afc",
+    "source_platform": "X",
+    "publisher_name": "Charlie_Huel",
+    "content": "Antiquus amplexus acquiro. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-12-10T09:15:13.545Z",
+    "sentiment_score": 0.06,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Marisol Beatty"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.911,
+      "longitude": 75.0264,
+      "location_name": "Skilesside"
+    },
+    "associated_case_id": 174
+  },
+  {
+    "feed_id": "2baff991-654f-401e-aabf-38dad78753eb",
+    "source_platform": "News",
+    "publisher_name": "Kristi42",
+    "content": "Accommodo clarus cunctatio cultellus comminor delinquo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2026-02-20T05:59:38.295Z",
+    "sentiment_score": -0.11,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Mr. Ian DuBuque"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.5755,
+      "longitude": 76.2975,
+      "location_name": "Freidaborough"
+    },
+    "associated_case_id": 162
+  },
+  {
+    "feed_id": "6bca26fa-14d9-4131-9fa2-c253b547ae07",
+    "source_platform": "News",
+    "publisher_name": "Frances_Nader",
+    "content": "Cursus atque ager vorax caste ab patior caste. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-02-04T17:09:17.722Z",
+    "sentiment_score": -0.07,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Jamarcus Shanahan-Brekke"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.8227,
+      "longitude": 76.6749,
+      "location_name": "Cheyenne"
+    },
+    "associated_case_id": 131
+  },
+  {
+    "feed_id": "ffb75766-8630-4235-b3ed-111876800624",
+    "source_platform": "Instagram",
+    "publisher_name": "Roman75",
+    "content": "Valde vix amiculum quia. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-05-14T21:41:17.700Z",
+    "sentiment_score": -0.96,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Javier Maggio"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.0868,
+      "longitude": 77.158,
+      "location_name": "Rennerfield"
+    },
+    "associated_case_id": 129
+  },
+  {
+    "feed_id": "abc043f1-20ec-4ddb-9c11-e7269f5fc6c8",
+    "source_platform": "News",
+    "publisher_name": "Laury.Murazik",
+    "content": "Causa cohaero sublime addo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-09-28T18:06:58.299Z",
+    "sentiment_score": 1,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Alex Littel"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.0392,
+      "longitude": 76.4146,
+      "location_name": "St. Louis Park"
+    },
+    "associated_case_id": 173
+  },
+  {
+    "feed_id": "6cd04879-33a4-4b3e-9c67-3d8118dd016c",
+    "source_platform": "News",
+    "publisher_name": "Sheri.Bednar19",
+    "content": "Carbo despecto optio arx auxilium varietas voluptatum. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-02-15T00:25:58.038Z",
+    "sentiment_score": -0.64,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Jamarcus Reichel"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.1899,
+      "longitude": 76.872,
+      "location_name": "Independence"
+    },
+    "associated_case_id": 15
+  },
+  {
+    "feed_id": "ae1fd10c-9bf3-4036-9419-43702b6a2201",
+    "source_platform": "X",
+    "publisher_name": "Anthony.Doyle54",
+    "content": "Votum defessus pectus decipio cribro. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-01-29T19:43:15.401Z",
+    "sentiment_score": 0.62,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Patricia Klein"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.2815,
+      "longitude": 77.6212,
+      "location_name": "Fountainebleau"
+    },
+    "associated_case_id": 216
+  },
+  {
+    "feed_id": "46bae7c2-de84-4834-af84-5e2905c8a4a7",
+    "source_platform": "Instagram",
+    "publisher_name": "Billy.Herman68",
+    "content": "Temptatio vitae officia curso velut verumtamen ascit contabesco ocer caute. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-01-23T10:09:57.883Z",
+    "sentiment_score": 0.91,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Maynard Schaefer"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.1334,
+      "longitude": 77.637,
+      "location_name": "Yucaipa"
+    },
+    "associated_case_id": 156
+  },
+  {
+    "feed_id": "792061be-ba1b-4afe-91fd-f580b70fb91b",
+    "source_platform": "X",
+    "publisher_name": "Tiffany.OConnell87",
+    "content": "Alii careo impedit. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-04-02T20:18:14.840Z",
+    "sentiment_score": -0.14,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Zoie Ankunding III"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.7079,
+      "longitude": 75.4035,
+      "location_name": "Goodwinland"
+    },
+    "associated_case_id": 41
+  },
+  {
+    "feed_id": "cac6943f-a33f-44b1-90f0-15f30a3217d2",
+    "source_platform": "Instagram",
+    "publisher_name": "Carmelo98",
+    "content": "Vero vester uredo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-09-01T13:12:04.670Z",
+    "sentiment_score": -0.78,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Antonia Grant DDS"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.5918,
+      "longitude": 75.4968,
+      "location_name": "Lawrence"
+    },
+    "associated_case_id": 28
+  },
+  {
+    "feed_id": "77029a9f-9005-4443-a84a-69d0bb46d34b",
+    "source_platform": "Community Forum",
+    "publisher_name": "Theodore25",
+    "content": "Comburo aegre spargo caelestis comedo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2026-04-10T03:51:23.545Z",
+    "sentiment_score": 0.08,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Mr. Alonzo Gottlieb"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.4885,
+      "longitude": 77.724,
+      "location_name": "Tampa"
+    },
+    "associated_case_id": 220
+  },
+  {
+    "feed_id": "f6b1664e-746d-419f-99e9-0317150cad3b",
+    "source_platform": "News",
+    "publisher_name": "Joan.West",
+    "content": "Carbo tepesco deprecator advenio magnam cotidie venustas id. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-07-06T19:14:42.906Z",
+    "sentiment_score": -0.93,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Katie Ziemann PhD"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.9513,
+      "longitude": 75.4355,
+      "location_name": "South Brenna"
+    },
+    "associated_case_id": 76
+  },
+  {
+    "feed_id": "39a3638e-1b02-4da5-9dba-5612c8408325",
+    "source_platform": "Instagram",
+    "publisher_name": "Joanne52",
+    "content": "Amoveo amissio cursus amaritudo quam combibo agnosco speciosus. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-12-15T01:55:28.510Z",
+    "sentiment_score": 0.32,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Ronny Rosenbaum"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.2374,
+      "longitude": 76.5879,
+      "location_name": "North Johnathan"
+    },
+    "associated_case_id": 149
+  },
+  {
+    "feed_id": "19419a43-d3fe-4293-896b-d2692d5fd8b1",
+    "source_platform": "Instagram",
+    "publisher_name": "Juanita.Dicki",
+    "content": "Vulgivagus alter sui amo laborum deleniti desino conor dedico coniuratio. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-09-11T07:47:15.491Z",
+    "sentiment_score": 0.06,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Dr. Doreen Kunde"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.3589,
+      "longitude": 75.6482,
+      "location_name": "Genevieveberg"
+    },
+    "associated_case_id": 172
+  },
+  {
+    "feed_id": "ba8ac6d2-49d8-4bb3-ba4a-80ef00c191f6",
+    "source_platform": "News",
+    "publisher_name": "Kenneth61",
+    "content": "Deprimo suppono ipsa asporto illo amor. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-02-11T19:21:48.437Z",
+    "sentiment_score": -0.22,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Brendan Jakubowski"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.6455,
+      "longitude": 75.3601,
+      "location_name": "Sethfield"
+    },
+    "associated_case_id": 105
+  },
+  {
+    "feed_id": "29827dcc-49a6-41af-9fa1-d034bafcc700",
+    "source_platform": "Instagram",
+    "publisher_name": "Max.Walter68",
+    "content": "Votum strues convoco temeritas cunabula ambitus decumbo nemo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-01-14T10:48:58.686Z",
+    "sentiment_score": -0.51,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Alda Kuvalis"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.3375,
+      "longitude": 75.452,
+      "location_name": "Roanoke"
+    },
+    "associated_case_id": 43
+  },
+  {
+    "feed_id": "c2912dcf-70b1-4bec-8e35-2c3d17e4e6f4",
+    "source_platform": "X",
+    "publisher_name": "Rosalinda98",
+    "content": "Terreo corporis vir cibo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-03-07T16:32:27.482Z",
+    "sentiment_score": -0.37,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Ted Emmerich"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.5629,
+      "longitude": 77.4126,
+      "location_name": "Livonia"
+    },
+    "associated_case_id": 209
+  },
+  {
+    "feed_id": "3194ec8c-183f-4dc1-9a5b-9f89230286ee",
+    "source_platform": "X",
+    "publisher_name": "Caroline12",
+    "content": "Eveniet cometes terminatio crapula turba provident. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-12-26T07:12:02.002Z",
+    "sentiment_score": -0.38,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Jazmin O'Hara"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.3921,
+      "longitude": 76.4453,
+      "location_name": "Port Isaias"
+    },
+    "associated_case_id": 168
+  },
+  {
+    "feed_id": "338bd21a-f702-4f2a-8316-a9e324de4cbd",
+    "source_platform": "X",
+    "publisher_name": "Marta_Schmeler",
+    "content": "Casus defungo praesentium vester in utpote conatus corporis. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-08-04T13:57:31.922Z",
+    "sentiment_score": -0.2,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Angela Kemmer"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.9862,
+      "longitude": 76.5979,
+      "location_name": "Fort Trentfurt"
+    },
+    "associated_case_id": 87
+  },
+  {
+    "feed_id": "250f28de-8ceb-4635-8e2c-c1b65c86377f",
+    "source_platform": "X",
+    "publisher_name": "Philip_Towne",
+    "content": "Addo aeger deripio cotidie aurum vomer collum tandem sono. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-10-04T01:49:21.296Z",
+    "sentiment_score": 0.23,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Roderick Schiller"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.4632,
+      "longitude": 76.3535,
+      "location_name": "New Nickcester"
+    },
+    "associated_case_id": 109
+  },
+  {
+    "feed_id": "4af2276e-3cd3-460e-a465-acec5cbe6981",
+    "source_platform": "X",
+    "publisher_name": "Cristina.Okuneva",
+    "content": "Velut vere pariatur. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-03-08T21:46:36.836Z",
+    "sentiment_score": -0.72,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Frank Ward"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.3178,
+      "longitude": 76.3979,
+      "location_name": "Port Shyannefort"
+    },
+    "associated_case_id": 191
+  },
+  {
+    "feed_id": "0143fdfc-31a3-4361-b0d5-408c0fd23476",
+    "source_platform": "Community Forum",
+    "publisher_name": "Flossie_Watsica",
+    "content": "Damno veritas carpo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-09-22T01:08:44.809Z",
+    "sentiment_score": 0.61,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Paige Johnston"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.7628,
+      "longitude": 75.7825,
+      "location_name": "Feilfort"
+    },
+    "associated_case_id": 111
+  },
+  {
+    "feed_id": "74a75613-fe15-4b28-a55d-c5207837f35e",
+    "source_platform": "Instagram",
+    "publisher_name": "Tess.Adams",
+    "content": "Textilis autus comis. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-03-17T17:48:05.990Z",
+    "sentiment_score": -0.23,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Carrie Torp"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.7377,
+      "longitude": 76.8685,
+      "location_name": "South Marquescester"
+    },
+    "associated_case_id": 203
+  },
+  {
+    "feed_id": "8246bd78-0a79-4018-9637-73d5abdfd58e",
+    "source_platform": "X",
+    "publisher_name": "Dale.Willms",
+    "content": "Cetera balbus thesis aequus nihil depono desidero deputo tot corrupti. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-01-19T19:44:45.936Z",
+    "sentiment_score": 0.98,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Ms. Rosendo Gorczany"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.9077,
+      "longitude": 76.8797,
+      "location_name": "Danielstead"
+    },
+    "associated_case_id": 56
+  },
+  {
+    "feed_id": "5cd6953b-7170-4058-a568-29c4f3cddba0",
+    "source_platform": "Instagram",
+    "publisher_name": "Andre_Kris6",
+    "content": "Suasoria territo conitor usitas aspicio caput confugo cotidie audio. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-03-02T05:05:16.226Z",
+    "sentiment_score": -0.08,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Mr. Maybell Predovic"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.8703,
+      "longitude": 77.0276,
+      "location_name": "Aniyaland"
+    },
+    "associated_case_id": 44
+  },
+  {
+    "feed_id": "f8defab0-38d8-4a62-90c4-90f9777d0676",
+    "source_platform": "News",
+    "publisher_name": "Karl.Dickinson",
+    "content": "Quas subnecto tergeo tribuo correptius cotidie fugit. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2026-04-01T14:11:08.858Z",
+    "sentiment_score": 0.73,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Ginger Becker"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.3107,
+      "longitude": 75.8307,
+      "location_name": "Fort Priscillaberg"
+    },
+    "associated_case_id": 62
+  },
+  {
+    "feed_id": "c8aa5aa8-561c-46e8-b93d-07702c5f3bb4",
+    "source_platform": "X",
+    "publisher_name": "Jarrell3",
+    "content": "Demitto vere laborum caveo contabesco pax amissio. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-07-27T16:32:09.658Z",
+    "sentiment_score": 0.71,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Tyrique Wuckert"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.9305,
+      "longitude": 77.3928,
+      "location_name": "Hauckburgh"
+    },
+    "associated_case_id": 157
+  },
+  {
+    "feed_id": "30b68556-af60-454c-9738-3e684ff18060",
+    "source_platform": "Instagram",
+    "publisher_name": "Patti_Littel-Greenfelder",
+    "content": "Quaerat delectatio ceno. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-03-16T16:45:17.191Z",
+    "sentiment_score": 0.83,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Lila Doyle Jr."
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.9459,
+      "longitude": 75.25,
+      "location_name": "South Benny"
+    },
+    "associated_case_id": 116
+  },
+  {
+    "feed_id": "f247cf5d-7027-4d51-b8ef-371922383930",
+    "source_platform": "Instagram",
+    "publisher_name": "Christian.Cronin",
+    "content": "Desidero terminatio succedo appositus capto vesper blandior derelinquo templum iusto. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-06-16T03:12:19.402Z",
+    "sentiment_score": -0.46,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Vern Vandervort"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.3889,
+      "longitude": 77.5996,
+      "location_name": "Pfefferworth"
+    },
+    "associated_case_id": 139
+  },
+  {
+    "feed_id": "a632daa5-5bb1-4795-89ec-eb25535c5824",
+    "source_platform": "Community Forum",
+    "publisher_name": "Dawn.Parker",
+    "content": "Facere aestivus adaugeo viriliter. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-12-06T15:38:36.790Z",
+    "sentiment_score": -0.32,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Lulu Mante"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.8428,
+      "longitude": 77.7347,
+      "location_name": "Duluth"
+    },
+    "associated_case_id": 161
+  },
+  {
+    "feed_id": "bc8dc03a-8dbc-49ec-9a69-cf19228820aa",
+    "source_platform": "News",
+    "publisher_name": "Randy_Goyette-Jakubowski",
+    "content": "Suscipio conatus accusantium consectetur cubo absum valeo eaque rerum utrimque. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-11-26T21:53:24.972Z",
+    "sentiment_score": -0.24,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Zena Moore"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.9865,
+      "longitude": 75.1846,
+      "location_name": "Kihnberg"
+    },
+    "associated_case_id": 58
+  },
+  {
+    "feed_id": "2cca47a5-7fcb-4be4-b5d0-67f37b26619f",
+    "source_platform": "Community Forum",
+    "publisher_name": "Susana.Hyatt",
+    "content": "Custodia sulum adeptio color suspendo delinquo delicate. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-06-18T05:30:21.420Z",
+    "sentiment_score": -0.87,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Ramon Sauer"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.8767,
+      "longitude": 77.7873,
+      "location_name": "Pamelaton"
+    },
+    "associated_case_id": 81
+  },
+  {
+    "feed_id": "b427bbd4-9831-49b5-8ac0-51aa419bbbac",
+    "source_platform": "News",
+    "publisher_name": "Madeline_Durgan6",
+    "content": "Defaeco aiunt acceptus adopto arx incidunt quae. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-02-23T02:49:10.806Z",
+    "sentiment_score": 0.08,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Summer Leannon"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.4024,
+      "longitude": 77.815,
+      "location_name": "Quincy"
+    },
+    "associated_case_id": 67
+  },
+  {
+    "feed_id": "1dd185a9-fea8-4495-a3bd-9ff86a335f66",
+    "source_platform": "X",
+    "publisher_name": "Green32",
+    "content": "Confido concedo a casso articulus valde timor. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-05-22T06:29:45.267Z",
+    "sentiment_score": -0.29,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Jammie Pacocha"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.9225,
+      "longitude": 76.8343,
+      "location_name": "Lubbock"
+    },
+    "associated_case_id": 195
+  },
+  {
+    "feed_id": "25c1912d-d514-4849-bb65-4e88723fc023",
+    "source_platform": "X",
+    "publisher_name": "Bruce_Muller",
+    "content": "Somnus odit natus abstergo teres agnitio ad curiositas celebrer. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-07-11T05:12:05.084Z",
+    "sentiment_score": -0.83,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Sean Hintz"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.5099,
+      "longitude": 77.172,
+      "location_name": "Rauworth"
+    },
+    "associated_case_id": 34
+  },
+  {
+    "feed_id": "dc19c9dd-0a5c-4228-ac75-0fb7ff38ab47",
+    "source_platform": "Community Forum",
+    "publisher_name": "Augustine.Morar-Bogan",
+    "content": "Carmen temperantia aduro carbo barba a desolo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-02-11T19:21:48.437Z",
+    "sentiment_score": -0.75,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Lynn Franey"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.6455,
+      "longitude": 75.3601,
+      "location_name": "Loweland"
+    },
+    "associated_case_id": 105
+  },
+  {
+    "feed_id": "ccd71045-06ab-4511-bb7d-d95530bd9ab2",
+    "source_platform": "Instagram",
+    "publisher_name": "Royal_Lynch",
+    "content": "Cursus adnuo laboriosam adduco. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-10-12T00:33:28.145Z",
+    "sentiment_score": 0.13,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Dr. Tara Roob"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.9199,
+      "longitude": 76.9243,
+      "location_name": "Margaritamouth"
+    },
+    "associated_case_id": 17
+  },
+  {
+    "feed_id": "7bd94697-3a00-406f-a45f-8afd9c2d5d8a",
+    "source_platform": "X",
+    "publisher_name": "Kathy.Ondricka70",
+    "content": "Clamo termes terminatio civis vesper dolorem eum. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-04-23T16:35:32.521Z",
+    "sentiment_score": 0.28,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Daren Bode"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.5449,
+      "longitude": 77.5631,
+      "location_name": "Rosenbaumchester"
+    },
+    "associated_case_id": 79
+  },
+  {
+    "feed_id": "96b60611-5018-47df-9605-587f7a22e28f",
+    "source_platform": "Community Forum",
+    "publisher_name": "Laurence9",
+    "content": "Aurum dignissimos cito congregatio aeger clibanus. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-08-30T22:01:15.311Z",
+    "sentiment_score": -0.01,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Julio Doyle"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.2416,
+      "longitude": 75.6032,
+      "location_name": "Maggioburgh"
+    },
+    "associated_case_id": 185
+  },
+  {
+    "feed_id": "82e83911-46b4-45a6-bcd3-4dd5d8b06b03",
+    "source_platform": "Instagram",
+    "publisher_name": "Opal93",
+    "content": "Libero eius teres doloremque angustus compello. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2026-01-11T19:03:33.742Z",
+    "sentiment_score": -0.85,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Garry Gleichner"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.9745,
+      "longitude": 77.2714,
+      "location_name": "Robertaburgh"
+    },
+    "associated_case_id": 16
+  },
+  {
+    "feed_id": "a47caf16-e9f8-4092-affc-6a98ebc713a3",
+    "source_platform": "X",
+    "publisher_name": "Gwendolyn_Becker50",
+    "content": "Vivo confugo arceo ater utroque veritatis comptus curriculum. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-04-25T22:21:37.548Z",
+    "sentiment_score": -0.53,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Faith Torphy"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.5842,
+      "longitude": 76.1127,
+      "location_name": "Muncie"
+    },
+    "associated_case_id": 13
+  },
+  {
+    "feed_id": "1c942854-caa1-46f0-90ca-4e0143694bf6",
+    "source_platform": "Community Forum",
+    "publisher_name": "Amanda.Prosacco92",
+    "content": "Veniam adfectus abduco defleo commodi laborum. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-12-20T10:53:49.436Z",
+    "sentiment_score": 0.14,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Stanford Schaden"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.1896,
+      "longitude": 75.7171,
+      "location_name": "Spinkaboro"
+    },
+    "associated_case_id": 201
+  },
+  {
+    "feed_id": "46860217-793d-4a57-a36d-c64e2d7fa5d8",
+    "source_platform": "News",
+    "publisher_name": "Martin_Crist",
+    "content": "Statim appositus tyrannus vilitas cedo non coniuratio capto molestias bos. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-11-29T11:59:40.640Z",
+    "sentiment_score": -0.08,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Alena Bogan"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.3657,
+      "longitude": 75.0537,
+      "location_name": "Port Lorna"
+    },
+    "associated_case_id": 20
+  },
+  {
+    "feed_id": "597c9628-6f52-461a-94d9-64fbc14b1c73",
+    "source_platform": "X",
+    "publisher_name": "Mariela_Reynolds32",
+    "content": "Temperantia ratione vesica cito cometes rerum. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-03-14T06:45:49.994Z",
+    "sentiment_score": 0.75,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Norval Oberbrunner I"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.7833,
+      "longitude": 76.885,
+      "location_name": "North Roxannecester"
+    },
+    "associated_case_id": 42
+  },
+  {
+    "feed_id": "1ce0e11f-bfa0-4b0d-8aca-f09fea2d7586",
+    "source_platform": "Community Forum",
+    "publisher_name": "Duncan_Olson",
+    "content": "Virga deputo coniecto suscipio culpo quod perspiciatis angulus quod. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-07-26T06:18:01.004Z",
+    "sentiment_score": 0.15,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Craig Heidenreich III"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.3873,
+      "longitude": 76.8501,
+      "location_name": "Port Jamal"
+    },
+    "associated_case_id": 188
+  },
+  {
+    "feed_id": "331c1b85-6c56-43bb-896b-6a0b3033f1ab",
+    "source_platform": "Community Forum",
+    "publisher_name": "Willis.Wehner28",
+    "content": "Impedit conspergo carus voluptate animadverto coma cui officia. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-02-15T01:25:58.038Z",
+    "sentiment_score": -0.96,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Dr. Wendell Kessler III"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.1899,
+      "longitude": 76.872,
+      "location_name": "East Gilbertostad"
+    },
+    "associated_case_id": 15
+  },
+  {
+    "feed_id": "34d953c3-443b-4e23-be26-358df90a8b56",
+    "source_platform": "Community Forum",
+    "publisher_name": "Tyrone_Bauch",
+    "content": "Nemo corporis trans consequatur advenio agnosco. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-11-17T11:09:36.421Z",
+    "sentiment_score": 0.01,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Zelda Bosco"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.6393,
+      "longitude": 75.2918,
+      "location_name": "Steuberworth"
+    },
+    "associated_case_id": 130
+  },
+  {
+    "feed_id": "d66ed949-46d7-4ccc-a00b-5255f08d3428",
+    "source_platform": "News",
+    "publisher_name": "Mikel.Torphy",
+    "content": "Damnatio vita contigo laboriosam studio texo vulticulus acidus confido. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-03-20T21:40:04.249Z",
+    "sentiment_score": -0.22,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Jarred Muller"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.1046,
+      "longitude": 76.4149,
+      "location_name": "O'Fallon"
+    },
+    "associated_case_id": 117
+  },
+  {
+    "feed_id": "fc650bcf-75bd-4e1e-ac56-c9ba9a444962",
+    "source_platform": "Instagram",
+    "publisher_name": "Adam.Kassulke",
+    "content": "Conqueror urbs in volup suggero ambulo atque sursum abduco. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-04-27T15:38:39.579Z",
+    "sentiment_score": 0.19,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Delbert Larkin"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.1112,
+      "longitude": 77.5279,
+      "location_name": "Ollieside"
+    },
+    "associated_case_id": 63
+  },
+  {
+    "feed_id": "c61f674e-7cdf-4cfe-8629-d1ecc148a1a9",
+    "source_platform": "X",
+    "publisher_name": "May58",
+    "content": "Architecto custodia aeger trepide desino trado. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-04-06T20:09:35.858Z",
+    "sentiment_score": 0.08,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Brice Zieme"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.2845,
+      "longitude": 75.5976,
+      "location_name": "Coral Gables"
+    },
+    "associated_case_id": 135
+  },
+  {
+    "feed_id": "2d722d50-5252-41db-aab5-61907c409908",
+    "source_platform": "Community Forum",
+    "publisher_name": "Derek.Haag65",
+    "content": "Adficio comis annus condico. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-06-25T09:41:15.550Z",
+    "sentiment_score": 1,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Jeffery Watsica Jr."
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.3106,
+      "longitude": 75.9728,
+      "location_name": "Lake Majorfurt"
+    },
+    "associated_case_id": 133
+  },
+  {
+    "feed_id": "423922ee-4a52-4a76-bb94-fec42b68655f",
+    "source_platform": "Community Forum",
+    "publisher_name": "Colby_Barton",
+    "content": "Vae caput explicabo conforto nobis cursim. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-11-27T16:28:51.547Z",
+    "sentiment_score": 0.69,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Vernice Rau"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.0255,
+      "longitude": 76.3177,
+      "location_name": "New Virgie"
+    },
+    "associated_case_id": 47
+  },
+  {
+    "feed_id": "599163ac-77c2-4153-913a-3e0e69511408",
+    "source_platform": "X",
+    "publisher_name": "Johanna4",
+    "content": "Vicinus crepusculum alius incidunt atrox curo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-09-02T01:40:11.374Z",
+    "sentiment_score": -0.63,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Ms. Maegan Corwin"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.3952,
+      "longitude": 76.3492,
+      "location_name": "Sabrinafield"
+    },
+    "associated_case_id": 229
+  },
+  {
+    "feed_id": "ecf400e9-c13d-402c-879c-1a426d525898",
+    "source_platform": "X",
+    "publisher_name": "Shany_Cummings28",
+    "content": "Cattus excepturi utroque trado laboriosam tamquam itaque. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-11-03T18:35:38.700Z",
+    "sentiment_score": 0.54,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Diamond Schimmel"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.8779,
+      "longitude": 76.6475,
+      "location_name": "North Curtisshire"
+    },
+    "associated_case_id": 2
+  },
+  {
+    "feed_id": "e42dbbad-fc4c-4ef6-999c-a777527b6647",
+    "source_platform": "Instagram",
+    "publisher_name": "Ray.Grady",
+    "content": "Ancilla aperte desidero tener doloremque. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-04-15T20:53:45.376Z",
+    "sentiment_score": -0.11,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Ariane Crona"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.3261,
+      "longitude": 75.2952,
+      "location_name": "Fort Torreyberg"
+    },
+    "associated_case_id": 128
+  },
+  {
+    "feed_id": "543a6ac2-8d33-4450-855f-9359fd06b240",
+    "source_platform": "News",
+    "publisher_name": "Kelvin8",
+    "content": "Voluntarius cresco aggredior ventito vulgivagus. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-02-07T18:51:35.573Z",
+    "sentiment_score": -0.67,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Felix Crist"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.3358,
+      "longitude": 75.9726,
+      "location_name": "New Bobby"
+    },
+    "associated_case_id": 233
+  },
+  {
+    "feed_id": "100a1d24-f56a-4b49-907f-ad02954bc4aa",
+    "source_platform": "Community Forum",
+    "publisher_name": "Whitney_Treutel",
+    "content": "Averto commodo contabesco tibi esse. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-12-17T18:29:09.314Z",
+    "sentiment_score": -0.67,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Mr. Jaron Durgan"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.0062,
+      "longitude": 77.3872,
+      "location_name": "Janesville"
+    },
+    "associated_case_id": 177
+  },
+  {
+    "feed_id": "f7f4fff4-81da-4dbf-84d6-1db77f71222a",
+    "source_platform": "Instagram",
+    "publisher_name": "Shania41",
+    "content": "Voluptas strenuus adaugeo avaritia abbas accusantium coniecto arto aranea patior. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-02-15T01:25:58.038Z",
+    "sentiment_score": 0.8,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Sonja Hammes"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.1899,
+      "longitude": 76.872,
+      "location_name": "Amarillo"
+    },
+    "associated_case_id": 15
+  },
+  {
+    "feed_id": "1b097a14-c02a-4dc4-a6e1-b3e724cca3e6",
+    "source_platform": "Community Forum",
+    "publisher_name": "Jenny.Casper",
+    "content": "Textus vulgivagus pecto. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2026-06-28T15:28:53.110Z",
+    "sentiment_score": -0.99,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Georgia Cremin"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.5862,
+      "longitude": 77.956,
+      "location_name": "East Adeline"
+    },
+    "associated_case_id": 200
+  },
+  {
+    "feed_id": "8ec91ab2-3db8-4e45-820a-6efab5bc3004",
+    "source_platform": "X",
+    "publisher_name": "Montana_Becker54",
+    "content": "Debitis pauper doloremque totam adamo arto delectatio solitudo pauper. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-10-15T21:51:46.813Z",
+    "sentiment_score": 0.28,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Antoinette Upton"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.5547,
+      "longitude": 75.8865,
+      "location_name": "Borermouth"
+    },
+    "associated_case_id": 9
+  },
+  {
+    "feed_id": "68e1257c-da3c-49f2-ad66-9f5947549ebb",
+    "source_platform": "Community Forum",
+    "publisher_name": "Shaun_Will",
+    "content": "Viscus curia animadverto cervus temptatio. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-04-16T04:14:06.408Z",
+    "sentiment_score": -0.46,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Antonia Purdy"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.816,
+      "longitude": 76.6447,
+      "location_name": "Hattiesburg"
+    },
+    "associated_case_id": 158
+  },
+  {
+    "feed_id": "cf95ad9a-3c6b-4534-abfb-55b59c466885",
+    "source_platform": "News",
+    "publisher_name": "Oleta77",
+    "content": "Conservo usque coadunatio vesica nisi. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-04-21T07:18:07.576Z",
+    "sentiment_score": 0.13,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Rachel Murphy"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.0668,
+      "longitude": 77.7519,
+      "location_name": "Port Darrick"
+    },
+    "associated_case_id": 176
+  },
+  {
+    "feed_id": "d5f941aa-3446-4da7-9546-5e24002dedf0",
+    "source_platform": "Community Forum",
+    "publisher_name": "Jodie.Ebert",
+    "content": "Carmen corpus decumbo desidero ratione suadeo curvo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-08-31T18:26:04.311Z",
+    "sentiment_score": -0.94,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Chester Funk"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.3929,
+      "longitude": 75.4469,
+      "location_name": "South Brendafield"
+    },
+    "associated_case_id": 14
+  },
+  {
+    "feed_id": "92e1d0aa-2efe-4157-b2fe-8ebb5eb85792",
+    "source_platform": "Community Forum",
+    "publisher_name": "Bridget_Roob38",
+    "content": "Caste tum confido. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-03-02T04:05:16.226Z",
+    "sentiment_score": 0.76,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Lauren Shanahan-Casper"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.8703,
+      "longitude": 77.0276,
+      "location_name": "Lake Jermaine"
+    },
+    "associated_case_id": 44
+  },
+  {
+    "feed_id": "ae639243-f75a-419d-a29a-05319e1b2996",
+    "source_platform": "X",
+    "publisher_name": "Stephen_Rolfson",
+    "content": "Uredo vae distinctio. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-06-16T12:12:19.402Z",
+    "sentiment_score": 0.68,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Glenda Stroman"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.3889,
+      "longitude": 77.5996,
+      "location_name": "Johnscester"
+    },
+    "associated_case_id": 139
+  },
+  {
+    "feed_id": "007c37fe-f0cc-45c0-a3c2-f5292a3363d6",
+    "source_platform": "Instagram",
+    "publisher_name": "Sonia80",
+    "content": "Vir acsi pariatur. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-06-27T12:35:47.167Z",
+    "sentiment_score": -0.96,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Tavares Casper"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.8646,
+      "longitude": 75.7114,
+      "location_name": "South Tim"
+    },
+    "associated_case_id": 242
+  },
+  {
+    "feed_id": "cd22d32e-2c9e-472e-bef0-d44d60b538db",
+    "source_platform": "Community Forum",
+    "publisher_name": "Fanny_Bradtke81",
+    "content": "Cumque natus veniam uredo accendo tonsor cohors angulus. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-11-03T11:35:38.700Z",
+    "sentiment_score": -0.99,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Gail Sipes"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.8779,
+      "longitude": 76.6475,
+      "location_name": "Jaylenbury"
+    },
+    "associated_case_id": 2
+  },
+  {
+    "feed_id": "5fe0f0b1-8085-4360-8aa3-1ac60a7d1243",
+    "source_platform": "Instagram",
+    "publisher_name": "Leroy23",
+    "content": "Cursim summisse volo vaco. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-04-05T10:42:36.004Z",
+    "sentiment_score": 0.64,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Everette Collier"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.7567,
+      "longitude": 75.4249,
+      "location_name": "Gleichnerview"
+    },
+    "associated_case_id": 183
+  },
+  {
+    "feed_id": "c686085b-ef1a-4b9f-aee5-94fd6eefb984",
+    "source_platform": "Instagram",
+    "publisher_name": "Zora85",
+    "content": "Curis adipiscor tenuis dens. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-03-14T03:45:49.994Z",
+    "sentiment_score": 0.27,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Edgar Strosin"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.7833,
+      "longitude": 76.885,
+      "location_name": "South Easton"
+    },
+    "associated_case_id": 42
+  },
+  {
+    "feed_id": "519327cc-02bb-4f54-bbd8-7c2558c7a558",
+    "source_platform": "Community Forum",
+    "publisher_name": "Rochelle54",
+    "content": "Tendo peccatus deputo arx delego capitulus deleo stips. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-04-24T12:33:33.465Z",
+    "sentiment_score": -0.25,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Derrick Jacobs"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.4208,
+      "longitude": 77.4706,
+      "location_name": "Cheektowaga"
+    },
+    "associated_case_id": 94
+  },
+  {
+    "feed_id": "2bc1cbc1-2f82-48f5-82c7-962b53b00096",
+    "source_platform": "Instagram",
+    "publisher_name": "Ilene95",
+    "content": "Dolor tergum contigo tendo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-02-03T09:09:00.153Z",
+    "sentiment_score": -0.65,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Gregoria Murray-Ferry"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.6706,
+      "longitude": 76.4087,
+      "location_name": "North Tracyside"
+    },
+    "associated_case_id": 112
+  },
+  {
+    "feed_id": "4bdd0829-30c2-4772-94df-93828745666d",
+    "source_platform": "Instagram",
+    "publisher_name": "Schuyler_Marquardt24",
+    "content": "Addo calco vilitas. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-04-24T13:33:33.465Z",
+    "sentiment_score": -0.31,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Mr. Dena Boyer"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.4208,
+      "longitude": 77.4706,
+      "location_name": "Eulashire"
+    },
+    "associated_case_id": 94
+  },
+  {
+    "feed_id": "a2601fa6-6306-465b-9714-211941a72fd3",
+    "source_platform": "News",
+    "publisher_name": "Pietro_Ortiz97",
+    "content": "Tactus victoria voluntarius abbas adhaero vallum acceptus bene. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-06-27T12:18:05.182Z",
+    "sentiment_score": 0.55,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Hope Roob"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.8773,
+      "longitude": 76.5204,
+      "location_name": "Mayaguez"
+    },
+    "associated_case_id": 102
+  },
+  {
+    "feed_id": "96ab3aa0-920a-4618-97b9-edbec6c8fb43",
+    "source_platform": "X",
+    "publisher_name": "Eladio_Kilback",
+    "content": "Ventosus suppono reprehenderit clarus doloribus minus substantia. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-07-26T11:18:01.004Z",
+    "sentiment_score": -0.22,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Rodolfo Kozey"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.3873,
+      "longitude": 76.8501,
+      "location_name": "Wilberboro"
+    },
+    "associated_case_id": 188
+  },
+  {
+    "feed_id": "262c8115-6b21-403b-95b4-19723f323591",
+    "source_platform": "Instagram",
+    "publisher_name": "Iris_OConner",
+    "content": "Cribro apparatus absens defungo acceptus deporto. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2021-12-31T21:38:35.335Z",
+    "sentiment_score": 0.67,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Berry Runte-Klocko"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.2159,
+      "longitude": 76.1622,
+      "location_name": "Mount Pleasant"
+    },
+    "associated_case_id": 194
+  },
+  {
+    "feed_id": "f8eab977-e132-488e-a1f2-d011d3e04789",
+    "source_platform": "X",
+    "publisher_name": "Jeremy.Howe58",
+    "content": "Spoliatio absque sto eligendi consequatur amoveo balbus modi velociter solio. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-09-14T01:10:30.415Z",
+    "sentiment_score": 0.11,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Eulah Upton"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.0887,
+      "longitude": 77.757,
+      "location_name": "Fort Gladysside"
+    },
+    "associated_case_id": 178
+  },
+  {
+    "feed_id": "ad2380a2-69c6-45ba-aa01-4778c9c05fa4",
+    "source_platform": "News",
+    "publisher_name": "Corey.Hickle21",
+    "content": "Creptio nostrum velociter. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-08-04T20:50:59.126Z",
+    "sentiment_score": 0.28,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Francisco Ritchie"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.8434,
+      "longitude": 75.2684,
+      "location_name": "Joanyfurt"
+    },
+    "associated_case_id": 49
+  },
+  {
+    "feed_id": "00b05e9d-2cd7-4bbd-9a99-987fe5f687cd",
+    "source_platform": "Instagram",
+    "publisher_name": "Paris64",
+    "content": "Dolorum assumenda audacia spiritus attero. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-11-04T00:35:38.700Z",
+    "sentiment_score": -0.54,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Madilyn Kilback"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.8779,
+      "longitude": 76.6475,
+      "location_name": "East Dustin"
+    },
+    "associated_case_id": 2
+  },
+  {
+    "feed_id": "b87cdd1d-e9d8-4072-b0b1-30b91193ad59",
+    "source_platform": "Community Forum",
+    "publisher_name": "Janis_Ziemann",
+    "content": "Incidunt thermae acsi villa defluo ut audentia contabesco cupiditate. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-09-25T22:49:01.606Z",
+    "sentiment_score": -0.63,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Cecil Ledner"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.2901,
+      "longitude": 75.7687,
+      "location_name": "South Magdalen"
+    },
+    "associated_case_id": 121
+  },
+  {
+    "feed_id": "18d7077c-b646-4cfa-aa47-5f273a4c75ec",
+    "source_platform": "Instagram",
+    "publisher_name": "Keven29",
+    "content": "Vinitor articulus brevis tersus. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-03-08T17:46:36.836Z",
+    "sentiment_score": -0.92,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Miriam Brakus-Kuphal"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.3178,
+      "longitude": 76.3979,
+      "location_name": "Morarfield"
+    },
+    "associated_case_id": 191
+  },
+  {
+    "feed_id": "ae4b544d-d180-4963-8504-ce2578f05dab",
+    "source_platform": "News",
+    "publisher_name": "Brenda71",
+    "content": "Aestivus depereo coadunatio stultus abeo vae tui dolores maiores. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-12-12T18:53:18.481Z",
+    "sentiment_score": 0.3,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Ida Kovacek"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.897,
+      "longitude": 77.4523,
+      "location_name": "Aspen Hill"
+    },
+    "associated_case_id": 248
+  },
+  {
+    "feed_id": "107a8c97-32e7-4242-948c-7cf8b203a00a",
+    "source_platform": "Community Forum",
+    "publisher_name": "Ona.Kuhn84",
+    "content": "Supra deinde convoco aiunt admoveo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2022-02-06T08:12:40.436Z",
+    "sentiment_score": 0.45,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Emily Lemke"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.2277,
+      "longitude": 75.7142,
+      "location_name": "West Parker"
+    },
+    "associated_case_id": 217
+  },
+  {
+    "feed_id": "55d34d13-ce3b-4a51-a66d-f19b9e42ad6c",
+    "source_platform": "News",
+    "publisher_name": "Milton_Hessel66",
+    "content": "Cohors sortitus atrocitas dedico substantia cernuus deinde tamdiu speculum vigor. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-01-13T21:10:58.281Z",
+    "sentiment_score": -0.01,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Alberto Wuckert"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.5856,
+      "longitude": 75.1959,
+      "location_name": "Port Derrick"
+    },
+    "associated_case_id": 27
+  },
+  {
+    "feed_id": "c010635d-f673-4300-86c3-52802131b009",
+    "source_platform": "Community Forum",
+    "publisher_name": "Sarina_Tillman",
+    "content": "Conservo cetera pecco abeo conscendo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-07-11T01:24:04.989Z",
+    "sentiment_score": -0.1,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Mustafa Goodwin III"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.0426,
+      "longitude": 75.0139,
+      "location_name": "Chino"
+    },
+    "associated_case_id": 232
+  },
+  {
+    "feed_id": "feaf5f24-4067-4f94-94f7-b6d96dcc8acd",
+    "source_platform": "News",
+    "publisher_name": "Anthony23",
+    "content": "Vallum hic adstringo temptatio amicitia. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2023-07-25T00:30:02.388Z",
+    "sentiment_score": -0.27,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Zoey Metz"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 14.6065,
+      "longitude": 77.7132,
+      "location_name": "Indio"
+    },
+    "associated_case_id": 150
+  },
+  {
+    "feed_id": "41a772b2-ee65-481d-b959-9a1f2d8ef229",
+    "source_platform": "X",
+    "publisher_name": "Rufus_Hintz62",
+    "content": "Carmen itaque sol apto adfectus. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-12-20T11:53:49.436Z",
+    "sentiment_score": 0.42,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Herta Kovacek"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.1896,
+      "longitude": 75.7171,
+      "location_name": "East Jamison"
+    },
+    "associated_case_id": 201
+  },
+  {
+    "feed_id": "f98b509b-0b70-4a37-a586-308cd71bad39",
+    "source_platform": "News",
+    "publisher_name": "Yolanda_Willms31",
+    "content": "Pel celebrer tepesco absum amplus tum decens tollo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2025-06-26T21:35:47.167Z",
+    "sentiment_score": -0.25,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Bertha Konopelski Sr."
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 13.8646,
+      "longitude": 75.7114,
+      "location_name": "West Wilbertview"
+    },
+    "associated_case_id": 242
+  },
+  {
+    "feed_id": "5e489bda-fa7a-4b7e-9758-609328298b77",
+    "source_platform": "News",
+    "publisher_name": "Rita.Rodriguez",
+    "content": "Sunt repellat ara textus despecto decor delectatio reprehenderit sto defluo. #CrimeAnalytics #SecurityAlert",
+    "published_at": "2024-10-25T19:00:45.725Z",
+    "sentiment_score": 0.54,
+    "entities_mentioned": [
+      {
+        "entity_type": "POI",
+        "entity_value": "Archibald Koch I"
+      }
+    ],
+    "hashtags": [
+      "security",
+      "alert"
+    ],
+    "geographic_tag": {
+      "latitude": 12.1903,
+      "longitude": 75.4515,
+      "location_name": "Antioch"
+    },
+    "associated_case_id": 86
+  }
+]

@@ -1,0 +1,47 @@
+Base Layer Simulation Blueprint - Pack 1 Foundation
+Purpose: This document defines the immutable foundation for the Karnataka Police Crime Analytics simulation. All future synthetic datasets must reference these masters.
+Simulation Timeline
+1 Jan 2022 – 26 Jul 2026
+Primary Districts
+Bengaluru City
+Mysuru
+Mangaluru
+Hubballi-Dharwad
+Belagavi
+Shivamogga
+Tumakuru
+Ballari
+Hassan
+Kalaburagi
+Davanagere
+Udupi
+Police Stations
+Approx. 35 stations distributed across the 12 districts. Bengaluru: Ashok Nagar, Cubbon Park, Indiranagar, Whitefield, Electronic City, Jayanagar, Yelahanka, Hebbal. Mysuru: Nazarbad, Devaraja, Vijayanagar. Mangaluru: North, South, Kadri. Hubballi-Dharwad: Hubballi Town, Vidyanagar, Dharwad Sub Urban. Belagavi: Camp, Market, Tilakwadi. Remaining districts: ~2 each.
+Courts
+15 courts including District Courts plus Cyber Crime Special Court, Women Fast Track Court and Juvenile Court.
+Officer Hierarchy
+DGP → ADGP → IGP → DIG → SP → ASP → ACP → Inspector → Sub Inspector → ASI → Head Constable → Constable
+Officer Distribution
+~80 officers. Bengaluru 30, Mysuru 10, Mangaluru 8, Hubballi-Dharwad 8, Belagavi 6, Remaining districts 18.
+Crime Heads
+Property Crime, Violent Crime, Cyber Crime, Economic Crime, Traffic Crime, Women & Child Crime, Public Order, Narcotics, Missing Persons
+Crime Sub Heads
+House Burglary, Vehicle Theft, Chain Snatching, Robbery, Assault, Cyber Fraud, Phishing, UPI Scam, Illegal Racing, Domestic Violence, Kidnapping, Drug Possession, Missing Child, Public Vandalism, Extortion
+Person Masters
+Gender, Religion, Nationality, Education, Occupation, Marital Status
+Weapon Master
+Knife, Iron Rod, Firearm, Stick, Hands, Unknown, None
+Property Types
+Gold Jewellery, Cash, Vehicle, Electronics, Mobile Phone, Documents, Livestock, Commercial Goods
+Vehicle Types
+Motorcycle, Scooter, Car, SUV, Auto Rickshaw, Truck, Tempo, Bicycle
+Geographic Rules
+All coordinates must lie within Karnataka. Natural clustering around Bengaluru, Mysuru, Mangaluru and Hubballi.
+ID Convention
+DIST001, PS001, OFF0001, CR0001, VIC0001, COM0001, FIR2022-000001, CRT001
+Implementation Rules
+1. Do not preload AI outputs (hotspots, alerts, patrol recommendations, risk scores).
+2. Only simulate raw operational data.
+3. Every FIR must belong to one interconnected crime narrative.
+4. Reuse people and locations across the five-year timeline.
+5. Maintain referential integrity for all IDs.

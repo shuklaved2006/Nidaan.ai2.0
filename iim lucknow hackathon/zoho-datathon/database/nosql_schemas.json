@@ -1,0 +1,193 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "NoSQL Database Schemas",
+  "description": "Document structures for OSINT, AI summaries, and digital assets in the Crime Analytics platform.",
+  "definitions": {
+    "osint_feed": {
+      "type": "object",
+      "properties": {
+        "feed_id": {
+          "type": "string",
+          "description": "Unique identifier for the feed entry (UUID or system-generated)"
+        },
+        "source_platform": {
+          "type": "string",
+          "enum": ["X", "Instagram", "News", "Community Forum"],
+          "description": "Platform source of the intelligence data"
+        },
+        "publisher_name": {
+          "type": "string",
+          "description": "Account name, handle or agency publishing the feed item"
+        },
+        "content": {
+          "type": "string",
+          "description": "Raw text content of the social post or news article"
+        },
+        "published_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "ISO-8601 timestamp of publication"
+        },
+        "sentiment_score": {
+          "type": "number",
+          "minimum": -1.0,
+          "maximum": 1.0,
+          "description": "Derived sentiment polarity (-1.0 negative, 0.0 neutral, 1.0 positive)"
+        },
+        "entities_mentioned": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "entity_type": {
+                "type": "string",
+                "enum": ["Accused", "Victim", "POI", "Location", "Vehicle", "Phone", "Bank_Account", "UPI_ID"]
+              },
+              "entity_value": {
+                "type": "string"
+              },
+              "entity_id": {
+                "type": "string",
+                "description": "Reference ID if resolved in the relational database (e.g. AccusedMasterID)"
+              }
+            },
+            "required": ["entity_type", "entity_value"]
+          }
+        },
+        "hashtags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "geographic_tag": {
+          "type": "object",
+          "properties": {
+            "latitude": { "type": "number" },
+            "longitude": { "type": "number" },
+            "location_name": { "type": "string" }
+          }
+        },
+        "associated_case_id": {
+          "type": "integer",
+          "description": "CaseMasterID this post is suspected to relate to (nullable)"
+        }
+      },
+      "required": ["feed_id", "source_platform", "publisher_name", "content", "published_at"]
+    },
+    "ai_case_summaries": {
+      "type": "object",
+      "properties": {
+        "summary_id": {
+          "type": "string",
+          "description": "Unique identifier for the summary record"
+        },
+        "case_master_id": {
+          "type": "integer",
+          "description": "FK linking to CaseMaster.CaseMasterID"
+        },
+        "summary_text": {
+          "type": "string",
+          "description": "Brief generative narrative summarizing the operational facts"
+        },
+        "timeline_events": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "event_date": { "type": "string", "format": "date-time" },
+              "event_type": { "type": "string", "enum": ["Incident", "FIR Registration", "Investigation Update", "Arrest", "Chargesheet Filed", "Court Hearing"] },
+              "description": { "type": "string" },
+              "officer_in_charge": { "type": "string" }
+            },
+            "required": ["event_date", "event_type", "description"]
+          }
+        },
+        "identified_modus_operandi": {
+          "type": "string",
+          "description": "Synthesized MO, e.g. glass-cutting, chop-shop, phishing"
+        },
+        "key_suspects": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "accused_id": { "type": "integer" },
+              "role": { "type": "string" },
+              "confidence_score": { "type": "number", "minimum": 0.0, "maximum": 1.0 }
+            },
+            "required": ["name"]
+          }
+        },
+        "risk_factors": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Emergent risk factors (e.g. association with active gangs, repeat target location)"
+        },
+        "hotspot_ref": {
+          "type": "object",
+          "properties": {
+            "latitude": { "type": "number" },
+            "longitude": { "type": "number" },
+            "radius_meters": { "type": "number" }
+          }
+        },
+        "patrol_recommendations": {
+          "type": "string",
+          "description": "AI-generated patrol advice based on current intelligence"
+        },
+        "updated_at": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "required": ["summary_id", "case_master_id", "summary_text", "updated_at"]
+    },
+    "digital_assets": {
+      "type": "object",
+      "properties": {
+        "asset_id": {
+          "type": "string"
+        },
+        "asset_type": {
+          "type": "string",
+          "enum": ["cctv_footage", "phone_call_record", "bank_statement", "upi_transaction", "email_log", "social_profile"],
+          "description": "Type of digital twin asset"
+        },
+        "owner_id": {
+          "type": "string",
+          "description": "Identifier of owner (can be AccusedMasterID, VictimMasterID, POI name, or Business ID)"
+        },
+        "owner_type": {
+          "type": "string",
+          "enum": ["Accused", "Victim", "POI", "Business", "Officer"]
+        },
+        "associated_case_id": {
+          "type": "integer",
+          "description": "CaseMasterID this digital evidence is registered under (nullable)"
+        },
+        "metadata": {
+          "type": "object",
+          "description": "Asset-specific attributes",
+          "properties": {
+            "phone_number": { "type": "string" },
+            "bank_account_no": { "type": "string" },
+            "upi_id": { "type": "string" },
+            "email_address": { "type": "string" },
+            "ip_address": { "type": "string" },
+            "imei": { "type": "string" },
+            "cctv_location": { "type": "string" },
+            "timestamp": { "type": "string", "format": "date-time" },
+            "duration_seconds": { "type": "integer" },
+            "transaction_amount": { "type": "number" },
+            "recipient_details": { "type": "string" }
+          }
+        }
+      },
+      "required": ["asset_id", "asset_type", "owner_type"]
+    }
+  }
+}

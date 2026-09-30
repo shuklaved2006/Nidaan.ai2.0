@@ -1,0 +1,14 @@
+{
+  "client": {
+    "source": "client/dist"
+  },
+  "appsail": [
+    {
+      "name": "backend",
+      "source": "backend"
+    }
+  ],
+  "apig": {
+    "enabled": true
+  }
+}

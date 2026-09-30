@@ -1,0 +1,22 @@
+{
+  "app_title": "منصة نيدان الذكية للرعاية الصحية متعددة الجنسيات",
+  "dashboard": "لوحة التحكم",
+  "doctor_terminal": "محطة الطبيب",
+  "reception_terminal": "الاستقبال واستقبال المرضى",
+  "pharmacy_terminal": "الصيدلية والمخزون",
+  "nurse_terminal": "التمريض وإدارة الأسرة",
+  "verify_abha": "التحقق من الهوية الصحية الوطنية",
+  "suggested_prescriptions": "الوصفات الطبية المقترحة (دليل منظمة الصحة العالمية)",
+  "sign_and_commit": "التوقيع وإصدار الوصفة الطبية",
+  "dosage_warning": "تحذير حرج: تجاوز جرعة الدواء الآمنة",
+  "override_reason_required": "تقديم مبرر طبي لتجاوز الجرعة",
+  "haversine_geofence_verified": "تم التحقق من السياج الجغرافي الحيوي",
+  "offline_sync_active": "المزامنة دون اتصال بالإنترنت نشطة",
+  "patient_name": "اسم المريض",
+  "diagnosis": "التشخيص الطبي",
+  "medication": "الدواء",
+  "dosage": "الجرعة",
+  "units": "الوحدات",
+  "frequency": "التكرار",
+  "duration_days": "المدة (بالأيام)"
+}
