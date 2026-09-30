@@ -2513,6 +2513,226 @@ body {
     border-color: rgba(255, 255, 255, 0.08) !important;
 }
 
+/* ==========================================================================
+   UNIFIED GATEWAY OVERLAY & LOGIN MODAL STYLING (PROPORTIONAL SCALING FIX)
+   ========================================================================== */
+
+.gateway-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100vw;
+    height: 100vh;
+    background: radial-gradient(circle at center, #181824 0%, #060608 100%);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem 2rem;
+    overflow-y: auto;
+    box-sizing: border-box;
+}
+
+.gateway-container {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: center;
+    gap: 2.5rem;
+    width: 100%;
+    max-width: 1350px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+@media (max-width: 900px) {
+    .gateway-container {
+        flex-direction: column;
+        max-width: 650px;
+    }
+}
+
+.gateway-card {
+    background: #111116;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    border-radius: 24px;
+    padding: 3.5rem 3rem;
+    position: relative;
+    box-shadow: 0 30px 80px rgba(0, 0, 0, 0.9), 0 0 40px rgba(255, 255, 255, 0.04);
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.gateway-card:not(.demo-bypass-card) {
+    flex: 1 1 650px;
+    min-width: 420px;
+}
+
+.demo-bypass-card {
+    flex: 1 1 500px;
+    min-width: 380px;
+}
+
+.gateway-header {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.gateway-header .logo-icon-large {
+    width: 72px;
+    height: 72px;
+    background: linear-gradient(135deg, #2563eb, #7c3aed);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 16px auto;
+    box-shadow: 0 0 28px rgba(37, 99, 235, 0.5);
+}
+
+.gateway-header .logo-icon-large i {
+    width: 36px;
+    height: 36px;
+}
+
+.gateway-header h2 {
+    font-size: 2rem;
+    font-weight: 800;
+    color: #ffffff;
+    margin-bottom: 6px;
+    letter-spacing: -0.5px;
+}
+
+.gateway-header p {
+    font-size: 1.05rem;
+    color: var(--text-secondary);
+}
+
+.gateway-tabs {
+    display: flex;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 16px;
+    padding: 6px;
+    gap: 6px;
+    margin-bottom: 2rem;
+}
+
+.gateway-tab-btn {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 14px 16px;
+    background: transparent;
+    border: none;
+    border-radius: 12px;
+    color: var(--text-secondary);
+    font-weight: 700;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.gateway-tab-btn i {
+    width: 20px;
+    height: 20px;
+}
+
+.gateway-tab-btn label {
+    cursor: pointer;
+}
+
+.gateway-tab-btn:hover {
+    color: #ffffff;
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.gateway-tab-btn.active {
+    background: rgba(255, 255, 255, 0.16);
+    color: #ffffff;
+    font-weight: 800;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+.gateway-form-pane {
+    display: none;
+}
+
+.gateway-form-pane.active {
+    display: block;
+}
+
+.form-group-custom {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 1.5rem;
+    text-align: left;
+}
+
+.form-group-custom label {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--text-secondary);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.form-group-custom label i {
+    width: 20px;
+    height: 20px;
+    color: var(--text-muted);
+}
+
+.form-group-custom input {
+    width: 100%;
+    height: 58px;
+    background: rgba(0, 0, 0, 0.5);
+    border: 1px solid rgba(255, 255, 255, 0.16);
+    border-radius: 14px;
+    padding: 0 20px;
+    color: #ffffff;
+    font-size: 1.15rem;
+    font-weight: 500;
+    outline: none;
+    transition: all 0.2s ease;
+}
+
+.form-group-custom input:focus {
+    border-color: #ffffff;
+    background: rgba(0, 0, 0, 0.7);
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+}
+
+.gateway-backdoor {
+    margin-top: 1.5rem;
+    text-align: center;
+}
+
+.gateway-backdoor input {
+    background: transparent;
+    border: 1px solid transparent;
+    color: rgba(255, 255, 255, 0.2);
+    text-align: center;
+    font-size: 0.8rem;
+    letter-spacing: 2px;
+    width: 120px;
+    outline: none;
+    transition: all 0.2s ease;
+}
+
+.gateway-backdoor input:focus {
+    color: #ffffff;
+    border-color: rgba(255, 255, 255, 0.3);
+}
+
+
 
 
 

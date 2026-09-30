@@ -353,6 +353,27 @@ window.triggerBypassAdmin = function() {
     showToast('Admin demonstration bypass unlocked!', 'success');
 }
 
+window.bypassToMinister = function(e) {
+    if (e) e.preventDefault();
+    const userMock = { name: "Ministry Official", role: 'Admin', isMinister: true };
+    localStorage.setItem('currentUser', JSON.stringify(userMock));
+    localStorage.setItem('activeRole', 'Admin');
+    activeRole = 'Admin';
+    
+    const overlay = document.getElementById('gateway-overlay');
+    if (overlay) overlay.style.setProperty('display', 'none', 'important');
+    
+    const pAdmin = document.getElementById('portal-admin');
+    const pStaff = document.getElementById('portal-staff');
+    
+    if (pAdmin) pAdmin.style.display = 'block';
+    if (pStaff) pStaff.style.display = 'none';
+
+    fetchAdminData();
+    switchAdminFeature('ministry-redistribution');
+    showToast('Minister Command Portal Unlocked!', 'success');
+}
+
 window.bypassToPortal = function(portalType, e) {
     if (e) e.preventDefault();
     if (portalType === 'Patient') portalType = 'Admin';
