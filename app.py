@@ -72,8 +72,11 @@ def haversine_distance(lat1, lon1, lat2, lon2):
 
 # Route to serve frontend index.html
 @app.route('/')
+@app.route('/admin/dashboard')
+@app.route('/staff/login')
 def index():
     return app.send_static_file('index.html')
+
 
 # --- API ENDPOINTS ---
 

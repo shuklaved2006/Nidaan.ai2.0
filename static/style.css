@@ -20,7 +20,7 @@
     --accent-crimson: hsl(0, 84%, 60%);   /* Preserved crimson for breach alerts */
     
     /* Fonts */
-    --font-sans: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --font-sans: 'Outfit', system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     
     /* Shadows */
     --shadow-sm: 0 2px 8px -2px rgba(0, 0, 0, 0.9);
@@ -45,19 +45,30 @@ body {
     background-color: var(--bg-dark);
     color: var(--text-primary);
     overflow-x: hidden;
+    width: 100%;
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
+    font-family: var(--font-sans);
     background-image: 
         radial-gradient(at 10% 10%, rgba(255, 255, 255, 0.02) 0px, transparent 50%),
         radial-gradient(at 90% 90%, rgba(255, 255, 255, 0.02) 0px, transparent 50%);
     background-attachment: fixed;
 }
 
-/* App Container Layout */
-.app-container {
+/* App Container & DistrictCommandCenter Layout Repair */
+.app-container,
+.master-body-wrapper,
+.DistrictCommandCenter {
     display: flex;
+    flex-direction: column;
     width: 100%;
     min-height: 100vh;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 1.5rem;
+    box-sizing: border-box;
+    transform: none !important;
 }
 
 /* 1. SIDEBAR STYLING */

@@ -35,10 +35,7 @@
                 </div>
                 
                 <div class="gateway-tabs">
-                    <button type="button" class="gateway-tab-btn active" id="tab-btn-patient" onclick="switchGatewayTab('patient')">
-                        <i data-lucide="user"></i><label data-translate="gateway_tab_patient">Patient Entry</label>
-                    </button>
-                    <button type="button" class="gateway-tab-btn" id="tab-btn-staff" onclick="switchGatewayTab('staff')">
+                    <button type="button" class="gateway-tab-btn active" id="tab-btn-staff" onclick="switchGatewayTab('staff')">
                         <i data-lucide="stethoscope"></i><label data-translate="gateway_tab_staff">Staff Entry</label>
                     </button>
                     <button type="button" class="gateway-tab-btn" id="tab-btn-admin" onclick="switchGatewayTab('admin')">
@@ -52,25 +49,8 @@
                     <span id="gateway-error-text"></span>
                 </div>
 
-                <!-- Panel A: Patient Pathway -->
-                <div id="pane-patient" class="gateway-form-pane active">
-                    <form id="gateway-patient-form" onsubmit="handlePatientGatewayLogin(event)">
-                        <div class="form-group-custom">
-                            <label for="gate-pat-name"><i data-lucide="user"></i> <span data-translate="pat_name_label">Patient Full Name *</span></label>
-                            <input type="text" id="gate-pat-name" data-translate-placeholder="pat_name_placeholder" placeholder="Enter your full name" required>
-                        </div>
-                        <div class="form-group-custom">
-                            <label for="gate-pat-phone"><i data-lucide="phone"></i> <span data-translate="pat_phone_label">Contact Mobile Number *</span></label>
-                            <input type="tel" id="gate-pat-phone" data-translate-placeholder="pat_phone_placeholder" placeholder="e.g. +91 99999 88888" required>
-                        </div>
-                        <button type="submit" class="primary-btn" style="width: 100%; justify-content: center; height: 48px; font-weight: 700; margin-top: 10px;">
-                            <span data-translate="pat_submit">Access Patient Directory</span>
-                        </button>
-                    </form>
-                </div>
-
                 <!-- Panel B: Staff Pathway -->
-                <div id="pane-staff" class="gateway-form-pane">
+                <div id="pane-staff" class="gateway-form-pane active">
                     <form id="gateway-staff-form" onsubmit="handleStaffGatewayLogin(event)">
                         <div class="form-group-custom">
                             <label for="gate-staff-id"><i data-lucide="user-cog"></i> Staff ID Number *</label>
@@ -120,12 +100,6 @@
                 </div>
 
                 <div style="display: flex; flex-direction: column; gap: 12px;">
-                    <!-- Bypass Patient -->
-                    <button type="button" class="secondary-btn" style="justify-content: flex-start; padding: 12px 18px; font-weight: 700; gap: 12px; font-size: 0.88rem;" onclick="bypassToPortal('Patient', event)">
-                        <i data-lucide="user" style="color: #ffffff; width: 18px; height: 18px;"></i>
-                        <span>Bypass to Patient Portal</span>
-                    </button>
-
                     <!-- Bypass Admin -->
                     <button type="button" class="secondary-btn" style="justify-content: flex-start; padding: 12px 18px; font-weight: 700; gap: 12px; font-size: 0.88rem;" onclick="bypassToPortal('Admin', event)">
                         <i data-lucide="shield" style="color: #ffffff; width: 18px; height: 18px;"></i>
@@ -173,44 +147,7 @@
     <div id="toast-container" class="toast-container"></div>
 
     <!-- MAIN BODY PORTAL CONTAINERS -->
-    <div class="master-body-wrapper">
-
-        <!-- ============================================== -->
-        <!-- A. PORTAL PATIENT -->
-        <!-- ============================================== -->
-        <div id="portal-patient" style="display: none;">
-            <div class="portal-intro-header" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 25px; border-bottom: 1px solid var(--border-glass); padding-bottom: 15px;">
-                <div>
-                    <h1 style="margin: 0;" data-translate="portal_patient_title">Patient Portal</h1>
-                    <p style="margin: 5px 0 0 0;" data-translate="portal_patient_subtitle">Register as a patient member or browse local centers diagnostic tests and bed availability.</p>
-                </div>
-                <div style="display: flex; gap: 10px; align-items: center;">
-                    <button type="button" class="lang-toggle-btn" onclick="togglePatientLanguage()">
-                        <i data-lucide="languages"></i> <span class="lang-toggle-text">हिंदी</span>
-                    </button>
-                    <button class="secondary-btn" onclick="logoutGateway(event)" style="border-color: rgba(239, 68, 68, 0.4) !important; color: #f87171 !important; display: flex; align-items: center; gap: 6px; font-weight: 700; font-size: 0.85rem; height: 38px; border-radius: 8px;">
-                        <i data-lucide="log-out" style="width: 14px; height: 14px;"></i> <span data-translate="portal_patient_exit">Exit Portal</span>
-                    </button>
-                </div>
-            </div>
-
-            <div class="portal-full-width-layout">
-                <!-- Facilities List Card -->
-                <div class="glass-card" style="padding: 24px; min-height: 400px;">
-                    <div class="section-action-header" style="margin-bottom: 20px;">
-                        <h3 data-translate="centers_header">Available Centers & Live Beds</h3>
-                        <button class="secondary-btn" onclick="fetchPatientFacilities()"><i data-lucide="rotate-cw"></i> <span data-translate="centers_refresh">Refresh</span></button>
-                    </div>
-                    <div class="search-filter-bar" style="margin-bottom: 20px;">
-                        <i data-lucide="search"></i>
-                        <input type="text" id="patient-test-search" data-translate-placeholder="search_placeholder" placeholder="Search for Medical Tests & Diagnostics..." oninput="filterPatientFacilities()">
-                    </div>
-                    <div class="facilities-grid" id="patient-facilities-container">
-                        <!-- Dynamic Available Centers -->
-                    </div>
-                </div>
-            </div>
-        </div>
+    <div class="master-body-wrapper DistrictCommandCenter">
 
         <!-- ============================================== -->
         <!-- B. PORTAL ADMIN -->

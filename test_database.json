@@ -7,7 +7,7 @@
     "attendance_logs": [],
     "prescriptions": [
         {
-            "prescription_id": "RX-1790748819",
+            "prescription_id": "RX-1790754247",
             "patient_id": "P-101",
             "doctor_signature": "DOC-SIG-999",
             "medications": [
@@ -20,7 +20,7 @@
                 }
             ],
             "override_reason": null,
-            "timestamp": "2026-09-30T11:43:39.042106Z",
+            "timestamp": "2026-09-30T13:14:07.765853Z",
             "epidemiological_flagged": true
         }
     ]

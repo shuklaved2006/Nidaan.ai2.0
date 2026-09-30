@@ -1,5 +1,5 @@
 // Global master state variables
-let activeRole = 'Patient'; // Default simulation role
+let activeRole = 'Admin'; // Default simulation role
 let currentTab = 'reception'; // Default staff tab
 
 // Staff shift state variables
@@ -244,23 +244,20 @@ document.addEventListener('DOMContentLoaded', () => {
     function transitionToDashboard() {
         const currentUserStr = localStorage.getItem('currentUser');
         const user = currentUserStr ? JSON.parse(currentUserStr) : {};
-        const role = user.role || 'Patient';
+        let role = user.role || 'Admin';
+        if (role === 'Patient') role = 'Admin';
         activeRole = role;
 
         const overlay = document.getElementById('gateway-overlay');
         if (overlay) overlay.style.setProperty('display', 'none', 'important');
 
-        const pPatient = document.getElementById('portal-patient');
         const pAdmin = document.getElementById('portal-admin');
         const pStaff = document.getElementById('portal-staff');
 
-        if (pPatient) pPatient.style.display = role === 'Patient' ? 'block' : 'none';
         if (pAdmin) pAdmin.style.display = role === 'Admin' ? 'block' : 'none';
-        if (pStaff) pStaff.style.display = (role !== 'Patient' && role !== 'Admin') ? 'block' : 'none';
+        if (pStaff) pStaff.style.display = role !== 'Admin' ? 'block' : 'none';
 
-        if (role === 'Patient') {
-            fetchPatientFacilities();
-        } else if (role === 'Admin') {
+        if (role === 'Admin') {
             fetchAdminData();
         } else {
             staffId = localStorage.getItem('staffId') || user.id || '';
@@ -348,6 +345,7 @@ window.triggerBypassAdmin = function() {
 
 window.bypassToPortal = function(portalType, e) {
     if (e) e.preventDefault();
+    if (portalType === 'Patient') portalType = 'Admin';
     const userMock = { name: "Demo User", role: portalType, phone: "9999999999" };
     localStorage.setItem('currentUser', JSON.stringify(userMock));
     localStorage.setItem('activeRole', portalType);
@@ -356,17 +354,13 @@ window.bypassToPortal = function(portalType, e) {
     const overlay = document.getElementById('gateway-overlay');
     if (overlay) overlay.style.setProperty('display', 'none', 'important');
     
-    const pPatient = document.getElementById('portal-patient');
     const pAdmin = document.getElementById('portal-admin');
     const pStaff = document.getElementById('portal-staff');
     
-    if (pPatient) pPatient.style.display = portalType === 'Patient' ? 'block' : 'none';
     if (pAdmin) pAdmin.style.display = portalType === 'Admin' ? 'block' : 'none';
     if (pStaff) pStaff.style.display = portalType === 'Staff' ? 'block' : 'none';
 
-    if (portalType === 'Patient') {
-        fetchPatientFacilities();
-    } else if (portalType === 'Admin') {
+    if (portalType === 'Admin') {
         fetchAdminData();
     }
     showToast(`Demo ${portalType} Bypass Activated.`, 'success');
