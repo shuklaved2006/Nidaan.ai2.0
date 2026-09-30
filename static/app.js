@@ -2458,9 +2458,6 @@ window.simulateStaffLogin = async function(targetStaffId) {
     }
 }
 
-// ==============================================
-// 8. DISTRICT ADMIN WORKSPACE VIEW SWITCHER
-// ==============================================
 window.switchAdminFeature = function(featureVal) {
     const panels = document.querySelectorAll('.admin-feature-panel');
     panels.forEach(p => {
@@ -2470,6 +2467,97 @@ window.switchAdminFeature = function(featureVal) {
     const activePanel = document.getElementById(`admin-panel-${featureVal}`);
     if (activePanel) {
         activePanel.style.display = 'block';
+    }
+
+    if (featureVal === 'ministry-redistribution') {
+        fetchMinistryRedistributionData();
+    }
+}
+
+window.fetchMinistryRedistributionData = async function() {
+    try {
+        const res = await fetch('/api/v2/redistribution/recommendations', {
+            headers: { 'X-Active-Role': 'Admin' }
+        });
+        if (!res.ok) throw new Error('Failed to fetch redistribution recommendations.');
+        const data = await res.json();
+        
+        // Render Facility Status Table
+        const tbody = document.getElementById('ministry-facility-status-tbody');
+        if (tbody) {
+            tbody.innerHTML = '';
+            (data.facility_status_matrix || []).forEach(f => {
+                const tr = document.createElement('tr');
+                let badgeClass = 'success-tag';
+                if (f.status === 'CRITICAL') badgeClass = 'danger-tag';
+                else if (f.status === 'WARNING') badgeClass = 'warning-tag';
+
+                tr.innerHTML = `
+                    <td style="font-weight:700; color:white;">${f.name}</td>
+                    <td>${f.district}</td>
+                    <td>${f.occupied} / ${f.capacity} beds</td>
+                    <td><strong style="color:${f.occupancy_rate >= 80 ? '#ef4444' : '#10b981'}">${f.occupancy_rate}%</strong></td>
+                    <td><span class="badge-tag ${badgeClass}">${f.status}</span></td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        // Render Medication Transfers
+        const medContainer = document.getElementById('ministry-med-transfers-container');
+        if (medContainer) {
+            medContainer.innerHTML = '';
+            const orders = data.medication_transfer_orders || [];
+            if (orders.length === 0) {
+                medContainer.innerHTML = `<div style="font-size:0.85rem; color:var(--text-muted); font-style:italic;">✅ All district medication inventories are balanced.</div>`;
+            } else {
+                orders.forEach(o => {
+                    const itemDiv = document.createElement('div');
+                    itemDiv.style.cssText = `background: rgba(255,255,255,0.03); border: 1px solid var(--border-glass); border-radius: 10px; padding: 12px 16px; font-size: 0.85rem; display: flex; flex-direction: column; gap: 6px;`;
+                    itemDiv.innerHTML = `
+                        <div style="display:flex; justify-content:space-between; align-items:center;">
+                            <strong style="color:white; font-size:0.95rem;">${o.medication_name}</strong>
+                            <span class="badge-tag danger-tag">${o.urgency} URGENCY</span>
+                        </div>
+                        <div style="color:var(--text-secondary);">
+                            Transfer <strong>${o.recommended_transfer_qty} ${o.unit}</strong> from <span style="color:#10b981;">${o.surplus_donor_facility}</span> to <span style="color:#ef4444;">${o.shortage_facility}</span>
+                        </div>
+                        <div style="font-size:0.75rem; color:var(--text-muted); align-self:flex-end;">ID: ${o.id}</div>
+                    `;
+                    medContainer.appendChild(itemDiv);
+                });
+            }
+        }
+
+        // Render Staff Load Balancing
+        const staffContainer = document.getElementById('ministry-staff-transfers-container');
+        if (staffContainer) {
+            staffContainer.innerHTML = '';
+            const staffOrders = data.staff_reallocation_orders || [];
+            if (staffOrders.length === 0) {
+                staffContainer.innerHTML = `<div style="font-size:0.85rem; color:var(--text-muted); font-style:italic;">✅ Clinical staff allocation is optimally distributed.</div>`;
+            } else {
+                staffOrders.forEach(s => {
+                    const itemDiv = document.createElement('div');
+                    itemDiv.style.cssText = `background: rgba(255,255,255,0.03); border: 1px solid var(--border-glass); border-radius: 10px; padding: 12px 16px; font-size: 0.85rem; display: flex; flex-direction: column; gap: 6px;`;
+                    itemDiv.innerHTML = `
+                        <div style="display:flex; justify-content:space-between; align-items:center;">
+                            <strong style="color:white; font-size:0.95rem;">Staff Reallocation: ${s.count} ${s.recommended_roles.join('/')}</strong>
+                            <span class="badge-tag info-tag">${s.status}</span>
+                        </div>
+                        <div style="color:var(--text-secondary);">
+                            Reassign from <span style="color:#10b981;">${s.source_facility}</span> to overloaded <span style="color:#ef4444;">${s.target_facility}</span>
+                        </div>
+                        <p style="font-size:0.78rem; color:var(--text-muted); margin:0;">${s.reason}</p>
+                    `;
+                    staffContainer.appendChild(itemDiv);
+                });
+            }
+        }
+
+        if (window.lucide) lucide.createIcons();
+    } catch (err) {
+        console.warn("Ministry redistribution fetch error:", err);
     }
 }
 

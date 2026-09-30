@@ -168,8 +168,9 @@
                 <label for="admin-feature-select" style="font-weight: 700; color: var(--text-secondary); display: flex; align-items: center; gap: 8px; font-size: 0.95rem;">
                     <i data-lucide="layout-grid" style="color: var(--accent-pink); width: 20px; height: 20px;"></i> Manage Admin Workspace:
                 </label>
-                <select id="admin-feature-select" class="role-select" style="padding: 10px 16px; border-radius: 10px; background: rgba(0, 0, 0, 0.4); border: 1px solid var(--border-glass); color: white; font-weight: 700; width: 300px; outline: none; cursor: pointer; transition: all 0.25s ease;" onchange="switchAdminFeature(this.value)">
+                <select id="admin-feature-select" class="role-select" style="padding: 10px 16px; border-radius: 10px; background: rgba(0, 0, 0, 0.4); border: 1px solid var(--border-glass); color: white; font-weight: 700; width: 340px; outline: none; cursor: pointer; transition: all 0.25s ease;" onchange="switchAdminFeature(this.value)">
                     <option value="stats" selected>Overview Metrics Dashboard</option>
+                    <option value="ministry-redistribution">Ministry Command & Supply Redistribution</option>
                     <option value="telemetry">Live Telemetry & Bio-Fencing</option>
                     <option value="ai">AI Analytics & Optimization Hub</option>
                     <option value="directories">System Database Directories</option>
@@ -207,6 +208,84 @@
                             <span class="metric-value" id="admin-stat-inventory">0</span>
                         </div>
                     </div>
+                </div>
+            </div>
+
+            <!-- PANEL: Ministry Command & Inter-District Supply Redistribution -->
+            <div id="admin-panel-ministry-redistribution" class="admin-feature-panel" style="display: none; animation: fadeIn 0.4s ease forwards;">
+                <div style="display: flex; flex-direction: column; gap: 24px; margin-bottom: 30px;">
+                    
+                    <!-- Header Banner -->
+                    <div class="glass-card" style="padding: 20px 24px; background: linear-gradient(135deg, rgba(10,37,64,0.6), rgba(18,18,22,0.8)); border: 1px solid var(--border-glass);">
+                        <div style="display: flex; justify-content: space-between; align-items: center;">
+                            <div>
+                                <h3 style="margin: 0; font-size: 1.3rem; display: flex; align-items: center; gap: 10px;">
+                                    <i data-lucide="building-2" style="color: #60a5fa;"></i>
+                                    Ministry Inter-District Command & Redistribution Hub
+                                </h3>
+                                <p style="margin: 5px 0 0 0; color: var(--text-secondary); font-size: 0.88rem;">
+                                    Real-time facility operational degradation matrix, AI supply redistribution pipelines, and load-balancing reallocation.
+                                </p>
+                            </div>
+                            <button class="primary-btn" onclick="fetchMinistryRedistributionData()">
+                                <i data-lucide="refresh-cw"></i> Refresh Telemetry
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Facility Health Degradation Status Grid -->
+                    <div class="glass-card" style="padding: 24px;">
+                        <div class="section-action-header" style="margin-bottom: 15px;">
+                            <h3><i data-lucide="activity" style="color: var(--accent-emerald);"></i> Live Facility Status & Visual Degradation Matrix</h3>
+                            <span class="badge-tag info-tag">BRICS Multi-National Stack</span>
+                        </div>
+                        <div style="overflow-x: auto;">
+                            <table class="data-table" style="width: 100%;">
+                                <thead>
+                                    <tr>
+                                        <th>Center Name</th>
+                                        <th>District</th>
+                                        <th>Bed Occupancy</th>
+                                        <th>Occupancy Rate</th>
+                                        <th>Status Badge</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="ministry-facility-status-tbody">
+                                    <!-- Dynamic rows from fetchMinistryRedistributionData() -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- AI Automated Supply Transfer Recommendations -->
+                    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px;">
+                        <!-- Left: Medication Transfers -->
+                        <div class="glass-card" style="padding: 24px;">
+                            <div class="section-action-header" style="margin-bottom: 12px;">
+                                <h3><i data-lucide="arrow-right-left" style="color: #fbbf24;"></i> Inter-District Supply Transfer Orders</h3>
+                            </div>
+                            <p style="font-size: 0.82rem; color: var(--text-muted); margin-bottom: 15px;">
+                                Automated AI dispatch orders matching surplus regional inventory to shortage health centers.
+                            </p>
+                            <div id="ministry-med-transfers-container" style="display: flex; flex-direction: column; gap: 12px; max-height: 350px; overflow-y: auto;">
+                                <!-- Dynamic Transfer Cards -->
+                            </div>
+                        </div>
+
+                        <!-- Right: Staff Load-Balancing -->
+                        <div class="glass-card" style="padding: 24px;">
+                            <div class="section-action-header" style="margin-bottom: 12px;">
+                                <h3><i data-lucide="users" style="color: #a855f7;"></i> Clinical Staff Load-Balancing</h3>
+                            </div>
+                            <p style="font-size: 0.82rem; color: var(--text-muted); margin-bottom: 15px;">
+                                Reallocates clinical staff from low-occupancy centers to high-capacity overloaded wards.
+                            </p>
+                            <div id="ministry-staff-transfers-container" style="display: flex; flex-direction: column; gap: 12px; max-height: 350px; overflow-y: auto;">
+                                <!-- Dynamic Staff Cards -->
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
 

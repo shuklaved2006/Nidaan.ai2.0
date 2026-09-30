@@ -14,15 +14,18 @@ app = Flask(__name__, static_folder=static_dir, static_url_path='')
 from abdm_fhir_plugin import abdm_fhir_bp
 from cdss_engine import cdss_bp
 from sync_manager import sync_bp
+from redistribution_engine import redistribution_bp
 
 app.register_blueprint(abdm_fhir_bp)
 app.register_blueprint(cdss_bp)
 app.register_blueprint(sync_bp)
+app.register_blueprint(redistribution_bp)
 
 @app.route('/i18n/<path:filename>')
 def serve_i18n(filename):
     from flask import send_from_directory
     return send_from_directory(os.path.join(static_dir, 'i18n'), filename)
+
 
 
 @app.errorhandler(HTTPException)
@@ -70,12 +73,19 @@ def haversine_distance(lat1, lon1, lat2, lon2):
     return R * c
 
 
-# Route to serve frontend index.html
+# Route to serve frontend single login gateway and dedicated terminals
 @app.route('/')
+@app.route('/login')
 @app.route('/admin/dashboard')
+@app.route('/terminal/ministry')
 @app.route('/staff/login')
+@app.route('/terminal/doctor')
+@app.route('/terminal/nurse')
+@app.route('/terminal/receptionist')
+@app.route('/terminal/pharmacy')
 def index():
     return app.send_static_file('index.html')
+
 
 
 # --- API ENDPOINTS ---
