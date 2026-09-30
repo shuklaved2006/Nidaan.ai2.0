@@ -1,0 +1,8 @@
+services:
+  - type: web
+    name: phc-chc-management-v2
+    plan: free
+    runtime: docker
+    envVars:
+      - key: PORT
+        value: 10000
